@@ -131,23 +131,24 @@
     },
     "DE": {
       "status": "federal-baseline",
-      "summary": "No Delaware statute adds consent-search rules for traffic stops, so federal law applies: officers may ask to search without telling you that you can say no, if your consent is voluntary.",
-      "inPractice": "Unconfirmed: whether Delaware Supreme Court rulings on the scope of traffic stops (such as Caldwell v. State, 2001) limit consent requests beyond federal law. Refusing alone isn't grounds to search.",
+      "summary": "Delaware's Supreme Court hasn't set a special consent rule. Under Caldwell v. State (2001), anything beyond a stop's purpose needs separate justification, much like the federal Rodriguez rule. You can say no.",
+      "inPractice": "One trial court threw out a search after an officer asked for consent with no suspicion (State v. Geist, 2016), but Delaware's Supreme Court hasn't adopted that rule. Saying no alone isn't grounds to search.",
+      "detail": "Caldwell v. State, 780 A.2d 1037 (Del. 2001)",
       "sources": [
         {
-          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
-          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+          "label": "Juliano v. State, No. 320, 2019 (Del. Nov. 12, 2020)",
+          "url": "https://courts.delaware.gov/Opinions/Download.aspx?id=313380"
         },
         {
-          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
-          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+          "label": "Caldwell v. State, 780 A.2d 1037 (Del. 2001)",
+          "url": "https://law.justia.com/cases/delaware/supreme-court/2001/34830.html"
         },
         {
-          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
-          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+          "label": "FourthAmendment.com: State v. Geist (Del. Super. 2016)",
+          "url": "https://fourthamendment.com/?p=24666"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     "DC": {
       "status": "extra-protection",
@@ -938,23 +939,24 @@
     },
     "WY": {
       "status": "federal-baseline",
-      "summary": "No Wyoming statute adds consent-search rules for traffic stops, so federal law is the baseline: officers may ask to search without telling you that you can say no, if consent is voluntary.",
-      "inPractice": "Unconfirmed: Wyoming's Supreme Court has applied the state constitution to traffic-stop questioning (O'Boyle v. State, 2005); whether it limits consent requests wasn't verified. Refusing alone isn't grounds to search.",
+      "summary": "Wyoming courts review searches under the state constitution by asking whether they were reasonable under all the circumstances (O'Boyle v. State, 2005). We found no rule barring officers from simply asking to search.",
+      "inPractice": "In O'Boyle, the court threw out a search after a trooper's long, unrelated questioning in a patrol car, finding the consent wasn't voluntary. Later cases distinguished it where questioning was brief. You can say no.",
+      "detail": "O'Boyle v. State, 2005 WY 83",
       "sources": [
         {
-          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
-          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+          "label": "O'Boyle v. State, 2005 WY 83",
+          "url": "https://law.justia.com/cases/wyoming/supreme-court/2005/444371.html"
         },
         {
-          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
-          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+          "label": "Negrete v. State (Wyo. 2007)",
+          "url": "https://caselaw.findlaw.com/court/wy-supreme-court/1143678.html"
         },
         {
-          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
-          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+          "label": "Boyer v. State, 2025 WY 93",
+          "url": "https://documents.courts.state.wy.us/Opinions/Boyer%20S-24-0296.pdf"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     }
   }
 }

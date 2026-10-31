@@ -438,8 +438,8 @@
     },
     "MS": {
       "status": "insurance-only",
-      "summary": "Mississippi lets you show your insurance card on a phone. The state's Mobile ID app exists, but we found no official statement that it replaces your physical license at a stop.",
-      "inPractice": "Officers may not access anything on your phone except the insurance card (Miss. Code § 63-15-4). We couldn't confirm Mobile ID's legal status at stops, so carry your physical license.",
+      "summary": "Mississippi accepts proof of insurance on your phone (Miss. Code § 63-15-4). The state's Mobile ID app is a companion to your license, and DPS says it isn't for traffic stops: show your physical license when police ask.",
+      "inPractice": "Officers may not access anything on your phone except the insurance card image. DPS's Mobile ID FAQ (2021) says to keep the physical card; we found no newer law making Mobile ID valid at stops.",
       "detail": "mDL: Mississippi Mobile ID (app)",
       "sources": [
         {
@@ -447,11 +447,15 @@
           "url": "https://codes.findlaw.com/ms/title-63-motor-vehicles-and-traffic-regulations/ms-code-sect-63-15-4/"
         },
         {
+          "label": "Mississippi DPS: Mobile ID FAQ",
+          "url": "https://www.driverservicebureau.dps.ms.gov/mobile-id/sites/default/files/Mobile%20ID%20Files/MS-ID-FAQ.pdf"
+        },
+        {
           "label": "Mississippi DPS: Mobile ID",
           "url": "https://www.driverservicebureau.dps.ms.gov/mobile-id/"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     "MO": {
       "status": "insurance-only",
@@ -793,24 +797,28 @@
     },
     "UT": {
       "status": "insurance-only",
-      "summary": "Utah lets you show insurance proof on a phone. Utah's mDL (GET Mobile ID) ends Jan. 1, 2027, and we found no official word that it replaces your physical license at a stop.",
-      "inPractice": "Officers may not view other content, and can't cite you if the state database shows you're insured (Utah Code § 41-12a-302). A 2026 law (SB 275) creates a replacement state digital ID.",
-      "detail": "mDL: GET Mobile ID (ends Jan. 1, 2027)",
+      "summary": "Utah lets you show insurance proof on a phone (Utah Code § 41-12a-302). Utah's mobile driver license is optional, ends Jan. 1, 2027, and no law makes it a substitute for your physical license at a stop.",
+      "inPractice": "Officers may view only the insurance proof and can't cite you if the state database shows you're insured. SB 275 (2026) creates a new state digital ID, but police use is still being studied, so carry your physical license.",
+      "detail": "mDL: Utah mDL (ends Jan. 1, 2027)",
       "sources": [
         {
-          "label": "Utah Code § 41-12a-302",
-          "url": "https://le.utah.gov/xcode/Title41/Chapter12A/41-12a-S302.html"
+          "label": "Utah Code § 41-12a-302 (eff. May 6, 2026)",
+          "url": "https://le.utah.gov/xcode/Title41/Chapter12a/C41-12a-S302_2026050620260506.pdf"
         },
         {
-          "label": "Utah Code § 53-3-217",
-          "url": "https://le.utah.gov/xcode/Title53/Chapter3/C53-3-S217_2015051220150512.html"
+          "label": "Utah Code § 53-3-235",
+          "url": "https://le.utah.gov/xcode/Title53/Chapter3/C53-3-S235_2020051220200512.pdf"
+        },
+        {
+          "label": "Utah SB 275 (2026, enrolled)",
+          "url": "https://le.utah.gov/Session/2026/bills/enrolled/SB0275.pdf"
         },
         {
           "label": "Utah DLD: Mobile driver license",
           "url": "https://dld.utah.gov/utah-mdl/"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     "VT": {
       "status": "insurance-only",
