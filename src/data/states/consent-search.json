@@ -1,0 +1,960 @@
+{
+  "topic": "consent-search",
+  "lastVerified": "2026-10-31",
+  "entries": {
+    "AL": {
+      "status": "federal-baseline",
+      "summary": "Alabama adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "AK": {
+      "status": "extra-protection",
+      "summary": "Alaska's constitution limits consent requests at routine traffic stops: an officer may ask to search only if the request relates to the reason for the stop or the officer reasonably suspects another crime.",
+      "inPractice": "In Brown v. State (2008), a trooper stopped a driver for a dim license-plate light and asked to search with no suspicion of other crime. The Court of Appeals held her consent invalid under the state constitution.",
+      "detail": "Brown v. State, 182 P.3d 624 (Alaska App. 2008)",
+      "sources": [
+        {
+          "label": "Brown v. State, 182 P.3d 624 (Alaska Ct. App. 2008)",
+          "url": "https://law.justia.com/cases/alaska/court-of-appeals/2008/a-9529-1.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AZ": {
+      "status": "federal-baseline",
+      "summary": "Arizona adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "AR": {
+      "status": "federal-baseline",
+      "summary": "Arkansas follows the federal rules for car searches: officers may ask for consent without telling you that you can refuse, as long as your consent is voluntary.",
+      "inPractice": "Arkansas requires a right-to-refuse warning only before consent searches of homes; its Supreme Court has declined to extend that rule to vehicles. Officers can still search a car with probable cause.",
+      "sources": [
+        {
+          "label": "UALR Center on Social Change, Vehicle Searches by Consent (2019)",
+          "url": "https://ualr.edu/socialchange/2019/01/22/vehicle-searches-by-consent-what-police-should-tell-you-and-lessons-in-changing-the-law/"
+        },
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CA": {
+      "status": "federal-baseline",
+      "summary": "California adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "CO": {
+      "status": "extra-protection",
+      "summary": "Before a consent search of you or your car, Colorado officers must tell you that you're being asked to consent voluntarily and that you have the right to refuse. They may search only with your verbal or written OK.",
+      "inPractice": "Exact wording isn't required. If an officer skips the advisement, a court treats that as one factor in deciding whether your consent was voluntary; it doesn't automatically throw out the evidence.",
+      "detail": "C.R.S. § 16-3-310 (2010)",
+      "sources": [
+        {
+          "label": "C.R.S. § 16-3-310",
+          "url": "https://colorado.public.law/statutes/crs_16-3-310"
+        },
+        {
+          "label": "Colorado HB 10-1201 (enrolled)",
+          "url": "https://legiscan.com/CO/text/HB1201/id/427252/Colorado-2010-HB1201-Enrolled.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CT": {
+      "status": "extra-protection",
+      "summary": "Connecticut police may not ask to search a car stopped only for a motor-vehicle violation. A search needs probable cause or your unsolicited consent, given in writing or recorded on a body or dash camera.",
+      "inPractice": "This comes from the 2020 police accountability act (P.A. 20-1). Bills in 2025 and a 2026 amendment that would have let officers ask again with reasonable suspicion were not enacted.",
+      "detail": "Conn. Gen. Stat. § 54-33o(a)",
+      "sources": [
+        {
+          "label": "Conn. Gen. Stat. § 54-33o",
+          "url": "https://codes.findlaw.com/ct/title-54-criminal-procedure/ct-gen-st-sect-54-33o/"
+        },
+        {
+          "label": "2026 House Amendment LCO 4701 to SB 397 (shows current § 54-33o text)",
+          "url": "https://prdext3.cga.ct.gov/2026/lcoamd/pdf/2026LCO04701-R00-AMD.pdf"
+        },
+        {
+          "label": "2025 HB 5443 (proposal to restore consent requests)",
+          "url": "https://prdext3.cga.ct.gov/2025/TOB/H/PDF/2025HB-05443-R00-HB.PDF"
+        }
+      ],
+      "confidence": "high"
+    },
+    "DE": {
+      "status": "federal-baseline",
+      "summary": "No Delaware statute adds consent-search rules for traffic stops, so federal law applies: officers may ask to search without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Unconfirmed: whether Delaware Supreme Court rulings on the scope of traffic stops (such as Caldwell v. State, 2001) limit consent requests beyond federal law. Refusing alone isn't grounds to search.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "low"
+    },
+    "DC": {
+      "status": "extra-protection",
+      "summary": "Before any consent search of you or your car, D.C. officers must explain in plain language that you can refuse and that no search will happen if you do, and make sure you understand. No threats or promises.",
+      "inPractice": "Consent should be captured on body camera or in writing; if it isn't, a court presumes the search wasn't consensual. Searches with a warrant or another legal basis aren't covered.",
+      "detail": "D.C. Code § 23-526 (permanent since 2023)",
+      "sources": [
+        {
+          "label": "D.C. Code § 23-526, Limitations on consent searches",
+          "url": "https://code.dccouncil.gov/us/dc/council/code/sections/23-526"
+        }
+      ],
+      "confidence": "high"
+    },
+    "FL": {
+      "status": "federal-baseline",
+      "summary": "Florida follows the federal rules: officers may ask to search your car without telling you that you can refuse, as long as your consent is voluntary.",
+      "inPractice": "Florida's constitution requires its search-and-seizure protections to be read in line with the U.S. Supreme Court's Fourth Amendment rulings, so the federal consent rules control.",
+      "detail": "Fla. Const. art. I, § 12 (conformity clause)",
+      "sources": [
+        {
+          "label": "Florida Constitution, Art. I, § 12",
+          "url": "https://www.flsenate.gov/Laws/Constitution"
+        },
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        }
+      ],
+      "confidence": "high"
+    },
+    "GA": {
+      "status": "federal-baseline",
+      "summary": "Georgia adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "HI": {
+      "status": "extra-protection",
+      "summary": "Hawaii's constitution bars officers from turning a traffic stop into an unrelated investigation, such as questioning you about drugs, unless they have separate reasonable suspicion.",
+      "inPractice": "State v. Estabillio (2009) suppressed drugs found after an officer shifted a speeding stop into drug questioning. No Hawaii ruling found here addresses a bare request to search on its own.",
+      "detail": "State v. Estabillio, 121 Haw. 261 (2009)",
+      "sources": [
+        {
+          "label": "State v. Estabillio, 121 Haw. 261, 218 P.3d 749 (2009)",
+          "url": "https://law.justia.com/cases/hawaii/supreme-court/2009/28950-1.html"
+        },
+        {
+          "label": "Hawaii Opinions blog summary of Estabillio",
+          "url": "https://hawaiiopinions.blogspot.com/2009/10/canine-sniff-questioning-about-drugs.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "ID": {
+      "status": "federal-baseline",
+      "summary": "Idaho adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "IL": {
+      "status": "federal-baseline",
+      "summary": "Illinois adds no special consent-search rules for traffic stops: officers may ask to search your car without telling you that you can refuse, as long as your consent is voluntary.",
+      "inPractice": "You don't have to consent, and refusing alone doesn't give police probable cause. They may still search with a warrant, probable cause or another legal basis.",
+      "sources": [
+        {
+          "label": "Illinois Legal Aid Online: Can police search my car?",
+          "url": "https://www.illinoislegalaid.org/legal-information/can-police-search-my-car"
+        },
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "IN": {
+      "status": "extra-protection",
+      "summary": "Indiana adds a rule if you're in custody: before asking to search your car, police must tell you that you have the right to talk to a lawyer first (the Pirtle rule). Otherwise, federal rules apply.",
+      "inPractice": "A routine traffic stop usually isn't custody, but Indiana's Supreme Court applied the rule to a car search during a stop that became custodial (Sellmer, 2006) and reaffirmed it in McCoy v. State (2022).",
+      "detail": "Pirtle v. State (Ind. 1975)",
+      "sources": [
+        {
+          "label": "McCoy v. State (Ind. 2022)",
+          "url": "https://caselaw.findlaw.com/court/in-supreme-court/2184909.html"
+        },
+        {
+          "label": "Indiana Courts case clip: M.D. v. State (Ind. 2018), discussing Pirtle and Sellmer",
+          "url": "https://caseclips.courts.in.gov/2018/10/09/dycus-v-state-2"
+        }
+      ],
+      "confidence": "high"
+    },
+    "IA": {
+      "status": "federal-baseline",
+      "summary": "Iowa adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "KS": {
+      "status": "federal-baseline",
+      "summary": "Kansas adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "KY": {
+      "status": "federal-baseline",
+      "summary": "Kentucky adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "LA": {
+      "status": "federal-baseline",
+      "summary": "Louisiana follows the federal consent rules: officers may ask to search your car without telling you that you can refuse, as long as your consent is voluntary.",
+      "inPractice": "State law bars holding you longer than needed to finish the traffic matter without reasonable suspicion (C.Cr.P. art. 215.1(D)). A 2023 bill (HB 557) to require a right-to-refuse warning died in committee.",
+      "sources": [
+        {
+          "label": "Louisiana HB 557 (2023), bill text",
+          "url": "https://www.legis.la.gov/legis/ViewDocument.aspx?d=1309770"
+        },
+        {
+          "label": "Louisiana HB 557 (2023), bill status",
+          "url": "https://legis.la.gov/legis/BillInfo.aspx?s=23RS&b=HB557"
+        },
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        }
+      ],
+      "confidence": "high"
+    },
+    "ME": {
+      "status": "federal-baseline",
+      "summary": "Maine adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MD": {
+      "status": "federal-baseline",
+      "summary": "Maryland adds no statewide consent-search rules for traffic stops: officers may ask to search your car without telling you that you can refuse, as long as your consent is voluntary.",
+      "inPractice": "A 2018 bill to bar consent-only car searches didn't pass, and a 2024 Montgomery County bill to stop officers from asking was rejected in committee in favor of a police policy.",
+      "sources": [
+        {
+          "label": "Maryland HB 1133 (2018)",
+          "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1133?ys=2018RS"
+        },
+        {
+          "label": "ACLU of Maryland on Montgomery County Bill 2-24",
+          "url": "https://www.aclu-md.org/press-releases/community-organizations-express-concern-over-public-safety-committees-decision/"
+        },
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MA": {
+      "status": "federal-baseline",
+      "summary": "Massachusetts adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MI": {
+      "status": "federal-baseline",
+      "summary": "Michigan adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MN": {
+      "status": "extra-protection",
+      "summary": "Minnesota's constitution bars officers from expanding a routine traffic stop with a request to search unless they have reasonable, articulable suspicion of other criminal activity.",
+      "inPractice": "In State v. Fort (2003), the court threw out drugs found after officers questioned a passenger about drugs and weapons and asked to search during a speeding stop. Officer-safety pat-downs are still allowed.",
+      "detail": "State v. Fort, 660 N.W.2d 415 (Minn. 2003)",
+      "sources": [
+        {
+          "label": "State v. Fort, 660 N.W.2d 415 (Minn. 2003)",
+          "url": "https://hallapproved.com/mn/cases/supreme/2003/2166626"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MS": {
+      "status": "federal-baseline",
+      "summary": "Mississippi courts use the federal test: officers don't have to tell you that you can refuse, and courts judge whether your consent was voluntary from all the circumstances.",
+      "inPractice": "A 1983 ruling (Penick) once required a warning, but since Jones v. State (1991) knowing you could refuse is one factor, mainly weighed when a defendant claims they didn't know.",
+      "sources": [
+        {
+          "label": "Gilbreath v. State, 783 So. 2d 720 (Miss. Ct. App. 2000)",
+          "url": "https://hallapproved.com/ms/cases/appeals/2000/7799758/"
+        },
+        {
+          "label": "LawPipe: Consent to search without a warrant in Mississippi",
+          "url": "https://www.lawpipe.com/Mississippi/Consent_To_Search_Without_A_Warrant_In_Mississippi.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MO": {
+      "status": "federal-baseline",
+      "summary": "Missouri adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MT": {
+      "status": "federal-baseline",
+      "summary": "Montana adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NE": {
+      "status": "federal-baseline",
+      "summary": "Nebraska adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NV": {
+      "status": "federal-baseline",
+      "summary": "Nevada adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NH": {
+      "status": "extra-protection",
+      "summary": "New Hampshire limits questions unrelated to a traffic stop: without reasonable suspicion, an unrelated inquiry, including a request to search, is unlawful if it prolongs the stop or changes its basic nature.",
+      "inPractice": "The test comes from State v. McKinnon-Andrews (2004). The court declined to adopt New Jersey's flat rule (State v. Carbo, 2004), so outcomes depend on the facts of each stop.",
+      "detail": "State v. McKinnon-Andrews, 151 N.H. 19 (2004)",
+      "sources": [
+        {
+          "label": "State v. McKinnon-Andrews, 151 N.H. 19 (2004)",
+          "url": "https://hallapproved.com/nh/cases/supreme/2004/8092882"
+        },
+        {
+          "label": "State v. Carbo (N.H. 2004)",
+          "url": "https://caselaw.findlaw.com/court/nh-supreme-court/1147956.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NJ": {
+      "status": "extra-protection",
+      "summary": "Under New Jersey's constitution, officers need reasonable and articulable suspicion of a crime before they may even ask to search a car they've stopped.",
+      "inPractice": "State v. Carty (2002) set this rule for traffic stops, and State v. Elders (2007) extended it to disabled cars on the roadside. New Jersey also requires proof you knew you could refuse (State v. Johnson, 1975).",
+      "detail": "State v. Carty, 170 N.J. 632 (2002)",
+      "sources": [
+        {
+          "label": "State v. Carty, 170 N.J. 632 (2002)",
+          "url": "https://leagle.com/decision/20021693790a2d90311659"
+        },
+        {
+          "label": "State v. Elders, 192 N.J. 224 (2007)",
+          "url": "https://caselaw.findlaw.com/nj-supreme-court/1250180.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NM": {
+      "status": "federal-baseline",
+      "summary": "New Mexico adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NY": {
+      "status": "extra-protection",
+      "summary": "New York treats asking to search a stopped car as an intrusive step: officers need a \"founded suspicion\" that criminal activity is afoot before they ask.",
+      "inPractice": "This comes from People v. Hollman (1992) and was applied to car stops in People v. Battaglia (1995). In New York City, the Right to Know Act also requires NYPD officers to tell you that you can refuse.",
+      "detail": "People v. Hollman, 79 N.Y.2d 181 (1992)",
+      "sources": [
+        {
+          "label": "People v. Battaglia, 86 N.Y.2d 755 (1995)",
+          "url": "https://www.law.cornell.edu/nyctap/086_0755.htm"
+        },
+        {
+          "label": "People v. Medina (App. Div. 2023)",
+          "url": "https://www.nycourts.gov/REPORTER/3dseries/2023/2023_05963.htm"
+        },
+        {
+          "label": "Consent search (Wikipedia, NYC Right to Know Act)",
+          "url": "https://en.wikipedia.org/wiki/Consent_search"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NC": {
+      "status": "federal-baseline",
+      "summary": "North Carolina law doesn't require officers to tell you that you can refuse a car search, and spoken consent is valid if it's voluntary.",
+      "inPractice": "The state's racial-equity task force issued a model policy urging written, informed consent with a right-to-refuse explanation, but it applies only where an agency adopts it.",
+      "sources": [
+        {
+          "label": "NC DOJ TREC model policy: Obtaining Written Consent for Searches",
+          "url": "https://ncdoj.gov/trec-model-policy_obtaining-written-consent-for-searches-2"
+        },
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        }
+      ],
+      "confidence": "high"
+    },
+    "ND": {
+      "status": "federal-baseline",
+      "summary": "North Dakota adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "OH": {
+      "status": "federal-baseline",
+      "summary": "Ohio follows the federal rules: officers may ask to search your car without telling you that you can refuse or that you're free to go, as long as your consent is voluntary.",
+      "inPractice": "On remand in State v. Robinette (1997), the Ohio Supreme Court held Ohio's constitution gives the same protection as the Fourth Amendment, but that holding you past the stop's purpose without suspicion is illegal.",
+      "detail": "State v. Robinette, 80 Ohio St.3d 234 (1997)",
+      "sources": [
+        {
+          "label": "State v. Robinette, 80 Ohio St.3d 234, 1997-Ohio-343",
+          "url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/0/1997/1997-Ohio-343.pdf"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        }
+      ],
+      "confidence": "high"
+    },
+    "OK": {
+      "status": "federal-baseline",
+      "summary": "Oklahoma adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "OR": {
+      "status": "extra-protection",
+      "summary": "Oregon officers must tell you that you have the right to refuse before asking to search during a traffic stop, and there must be a written, video or audio record of your consent.",
+      "inPractice": "Under State v. Arreola-Botello (2019), questions and consent requests must also be reasonably related to the reason for the stop unless the officer has a separate justification, such as reasonable suspicion.",
+      "detail": "ORS 810.410(3)(e) (2022 amendment)",
+      "sources": [
+        {
+          "label": "ORS 810.410 (Oregon Legislature)",
+          "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors810.html"
+        },
+        {
+          "label": "State v. Arreola-Botello, 365 Or 695 (2019)",
+          "url": "https://caselaw.findlaw.com/court/or-supreme-court/2031454.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "PA": {
+      "status": "federal-baseline",
+      "summary": "Pennsylvania adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "RI": {
+      "status": "extra-protection",
+      "summary": "Rhode Island officers may not ask to search a car stopped solely for a traffic violation unless they have reasonable suspicion or probable cause of a crime. Evidence from a barred request can't be used in court.",
+      "inPractice": "The same law bars holding you longer than the traffic matter needs without suspicion, requires officers to tell you why you were stopped, and requires every search to be documented.",
+      "detail": "R.I. Gen. Laws § 31-21.2-5",
+      "sources": [
+        {
+          "label": "R.I. Gen. Laws § 31-21.2-5",
+          "url": "https://webserver.rilegislature.gov/Statutes/TITLE31/31-21.2/31-21.2-5.htm"
+        }
+      ],
+      "confidence": "high"
+    },
+    "SC": {
+      "status": "federal-baseline",
+      "summary": "South Carolina adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "SD": {
+      "status": "federal-baseline",
+      "summary": "South Dakota adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "TN": {
+      "status": "federal-baseline",
+      "summary": "Tennessee adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "TX": {
+      "status": "federal-baseline",
+      "summary": "Texas follows the federal rules: officers may ask to search your car without telling you that you can refuse, as long as your consent is voluntary.",
+      "inPractice": "A 2005 bill (SB 1195) requiring written or recorded consent with a right-to-refuse notice passed the Legislature but was vetoed, so no such statewide rule exists.",
+      "sources": [
+        {
+          "label": "Texas SB 1195 (2005), enrolled text",
+          "url": "https://capitol.texas.gov/tlodocs/79R/billtext/html/SB01195F.htm"
+        },
+        {
+          "label": "Grits for Breakfast: Perry vetoes consent-search bill (June 2005)",
+          "url": "https://gritsforbreakfast.blogspot.com/2005/06/terrible-news-perry-vetoes-stronger.html"
+        },
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        }
+      ],
+      "confidence": "high"
+    },
+    "UT": {
+      "status": "federal-baseline",
+      "summary": "Utah adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "VT": {
+      "status": "federal-baseline",
+      "summary": "Vermont adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "VA": {
+      "status": "federal-baseline",
+      "summary": "Virginia follows the federal rules: officers may ask to search your car without telling you that you can refuse, as long as your consent is voluntary.",
+      "inPractice": "Virginia courts hold that police need not warn you of your right to refuse; whether you knew is one factor in judging voluntariness (Commonwealth v. Rice, 1998).",
+      "sources": [
+        {
+          "label": "Commonwealth v. Rice, Va. Ct. App. No. 0961-98-2 (1998)",
+          "url": "https://www.courts.state.va.us/opinions/opncavwp/0961982.pdf"
+        },
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WA": {
+      "status": "federal-baseline",
+      "summary": "Washington doesn't require a right-to-refuse warning or suspicion before an officer asks to search your car during a traffic stop; consent must be voluntary.",
+      "inPractice": "Washington's warning rule (Ferrier) applies to police seeking entry to a home. Holding you after the stop's purpose ends needs reasonable suspicion, and consent may not cure an illegal hold (State v. Tijerina).",
+      "sources": [
+        {
+          "label": "CaseMine commentary on State v. Mercedes (Wash. 2025), scope of Ferrier warnings",
+          "url": "https://www.casemine.com/commentary/us/redefining-the-boundaries-of-consent-searches:-the-limited-reach-of-ferrier-warnings/view"
+        },
+        {
+          "label": "State v. Tijerina, 61 Wn. App. 626 (1991)",
+          "url": "https://law.counselstack.com/opinion/state-v-tijerina-washctapp-1991"
+        },
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "WV": {
+      "status": "federal-baseline",
+      "summary": "West Virginia adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "WI": {
+      "status": "federal-baseline",
+      "summary": "Wisconsin adds no special consent-search rules for traffic stops, so federal law applies: officers may ask to search your car without telling you that you can say no, if your consent is voluntary.",
+      "inPractice": "Saying no isn't by itself a reason to search you or hold you longer, but officers can still search with probable cause. They can't extend the stop to pursue a search without reasonable suspicion.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "WY": {
+      "status": "federal-baseline",
+      "summary": "No Wyoming statute adds consent-search rules for traffic stops, so federal law is the baseline: officers may ask to search without telling you that you can say no, if consent is voluntary.",
+      "inPractice": "Unconfirmed: Wyoming's Supreme Court has applied the state constitution to traffic-stop questioning (O'Boyle v. State, 2005); whether it limits consent requests wasn't verified. Refusing alone isn't grounds to search.",
+      "sources": [
+        {
+          "label": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/412/218"
+        },
+        {
+          "label": "Ohio v. Robinette, 519 U.S. 33 (1996)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/519/33"
+        },
+        {
+          "label": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/13-9972"
+        }
+      ],
+      "confidence": "low"
+    }
+  }
+}

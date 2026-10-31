@@ -1,0 +1,748 @@
+{
+  "topic": "firearm-disclosure",
+  "lastVerified": "2026-10-31",
+  "entries": {
+    "AL": {
+      "status": "if-asked",
+      "summary": "You don't have to bring it up. But if an officer asks whether you're armed, you must immediately say you have a pistol or firearm concealed on you or in your vehicle (Ala. Code § 13A-11-95).",
+      "inPractice": "Alabama also bars drivers and passengers from touching a loaded handgun in the vehicle once an officer approaches, unless told to (§ 13A-11-96). We couldn't load the official code site to confirm the current text.",
+      "detail": "Applies to anyone carrying concealed",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Alabama summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/alabama.pdf"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "AK": {
+      "status": "must-inform",
+      "summary": "If you're 21 or older and carrying a concealed deadly weapon on your person, you must tell the officer immediately when contacted, and let the officer secure it during the stop (AS 11.61.220).",
+      "inPractice": "\"Contacted\" means stopped, detained, questioned or addressed by an officer for an official purpose. Failing to inform, or to let the officer secure the weapon, is a class B misdemeanor.",
+      "detail": "Applies to anyone carrying concealed on their person",
+      "sources": [
+        {
+          "label": "Alaska Stat. § 11.61.220",
+          "url": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=11.61.220&secEnd=11.61.220"
+        },
+        {
+          "label": "Handgunlaw.us: States where you must inform officers (2026)",
+          "url": "https://handgunlaw.us/documents/Must_Inform_Officer.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AZ": {
+      "status": "if-asked",
+      "summary": "You don't have to volunteer it. But if an officer asks whether you're carrying a concealed deadly weapon during a stop, you must answer accurately (A.R.S. § 13-3102(A)(1)(b)).",
+      "inPractice": "\"Contacted\" includes a lawful traffic stop. Not answering accurately when asked is a class 1 misdemeanor. The rule applies whether or not you have a permit.",
+      "detail": "Applies to anyone carrying concealed",
+      "sources": [
+        {
+          "label": "Ariz. Rev. Stat. § 13-3102",
+          "url": "https://www.azleg.gov/ars/13/03102.htm"
+        },
+        {
+          "label": "Handgunlaw.us Arizona summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/arizona.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AR": {
+      "status": "if-asked",
+      "summary": "If you hold a concealed handgun license and have a handgun with you, then when an officer asks for ID you must show your carry license with photo ID and tell the officer you're licensed and have a handgun.",
+      "inPractice": "Under State Police rule 5 CAR § 1-201 (eff. July 8, 2025), you don't need to mention the license if you aren't carrying a handgun at the time. The rule covers licensees, not people carrying without a license.",
+      "detail": "Licensees must disclose when asked for ID",
+      "sources": [
+        {
+          "label": "Code of Arkansas Rules, CHCL, 5 CAR § 1-201 (2025)",
+          "url": "https://media.ark.org/dps/Code-of-Arkansas-Rules-CHCL-July_8_2025.pdf"
+        },
+        {
+          "label": "Handgunlaw.us: States where you must inform officers (2026)",
+          "url": "https://handgunlaw.us/documents/Must_Inform_Officer.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CA": {
+      "status": "no-duty",
+      "summary": "No California statute requires you to tell an officer you're armed. Under the state's standard license terms, you may not refuse to show your CCW license or hand over the gun when an officer demands it.",
+      "inPractice": "Local issuing agencies can add conditions to your license. Handgunlaw.us reports some require holders to inform officers on contact, so check the restrictions printed on your own license.",
+      "detail": "License conditions can add a duty",
+      "sources": [
+        {
+          "label": "Handgunlaw.us California summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/california.pdf"
+        },
+        {
+          "label": "Handgunlaw.us: States where you must inform officers (2026)",
+          "url": "https://handgunlaw.us/documents/Must_Inform_Officer.pdf"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "CO": {
+      "status": "no-duty",
+      "summary": "Colorado has no duty-to-inform law. If you carry concealed with a permit, you must have it and photo ID with you and produce both if an officer demands them (C.R.S. § 18-12-204(2)(a)).",
+      "inPractice": "Failing to carry and produce the permit and ID on demand is a petty offense, dismissed if you later show the court a valid permit issued before the charge.",
+      "detail": "Permit holders show permit on demand",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Colorado summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/colorado.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CT": {
+      "status": "no-duty",
+      "summary": "Connecticut doesn't require you to tell an officer you're carrying. Permit holders must carry the permit and show it if an officer with reasonable suspicion of a crime sees the pistol and asks (C.G.S. § 29-35(b)).",
+      "inPractice": "The permit-display rule is narrow: it applies only when the officer has observed the pistol and has reasonable suspicion of a crime.",
+      "sources": [
+        {
+          "label": "Conn. Gen. Stat. ch. 529, § 29-35",
+          "url": "https://www.cga.ct.gov/current/pub/chap_529.htm"
+        }
+      ],
+      "confidence": "high"
+    },
+    "DE": {
+      "status": "no-duty",
+      "summary": "Delaware has no law requiring you to tell an officer you're carrying a firearm during a stop.",
+      "inPractice": "Handgunlaw.us found no Delaware statute or rule creating a duty to inform; it cites only the general power of officers to stop and question people (11 Del. C. § 1902). We didn't find an official agency statement either way.",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Delaware summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/delaware.pdf"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "DC": {
+      "status": "must-inform",
+      "summary": "If you're licensed and carrying a concealed pistol, during an investigative stop (including a traffic stop) you must tell the officer, show your license and registration, and say where the pistol is (D.C. Code § 7-2509.04).",
+      "inPractice": "You must also follow lawful orders, including a pat-down and letting the officer hold the pistol as long as needed for safety. A violation can lead to revocation of your license.",
+      "detail": "Applies to licensees (license required to carry)",
+      "sources": [
+        {
+          "label": "D.C. Code § 7-2509.04",
+          "url": "https://code.dccouncil.gov/us/dc/council/code/sections/7-2509.04"
+        },
+        {
+          "label": "Handgunlaw.us D.C. summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/dc.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "FL": {
+      "status": "no-duty",
+      "summary": "Florida has no duty-to-inform law. License holders must show their license and ID on demand (Fla. Stat. § 790.06(1)); people carrying without a license must carry ID and show it on demand (§ 790.013).",
+      "inPractice": "Florida allowed permitless concealed carry starting in 2023. Not having or showing the required license or ID is a noncriminal violation with a $25 fine.",
+      "detail": "Show license or ID on demand",
+      "sources": [
+        {
+          "label": "Fla. Stat. § 790.06",
+          "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0790/Sections/0790.06.html"
+        },
+        {
+          "label": "Fla. Stat. § 790.013",
+          "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0790/Sections/0790.013.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "GA": {
+      "status": "no-duty",
+      "summary": "Georgia has no law requiring you to tell an officer you're armed. Since 2022, a license isn't required for most adults who can legally carry.",
+      "inPractice": "Georgia law says you can't be detained just so an officer can check whether you have a weapons carry license or are a lawful carrier (O.C.G.A. § 16-11-137).",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Georgia summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/georgia.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "HI": {
+      "status": "must-inform",
+      "summary": "If you're carrying a firearm and are stopped, including as a driver or passenger in a stopped vehicle, you must immediately tell the officer. If asked, you must say where it is and show your license (HRS § 134-9.2).",
+      "inPractice": "On request you must also show photo ID and proof the gun is registered. Violations are a petty misdemeanor. The rule took effect July 1, 2023 (Act 52).",
+      "detail": "Applies to anyone carrying, incl. passengers",
+      "sources": [
+        {
+          "label": "Haw. Rev. Stat. § 134-9.2",
+          "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0134/HRS_0134-0009_0002.htm"
+        },
+        {
+          "label": "Handgunlaw.us: States where you must inform officers (2026)",
+          "url": "https://handgunlaw.us/documents/Must_Inform_Officer.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "ID": {
+      "status": "no-duty",
+      "summary": "Idaho has no law requiring you to tell an officer you're carrying, with or without a permit. Most adults can carry concealed without a license.",
+      "inPractice": "Handgunlaw.us lists Idaho as a no-duty state, and the state's concealed-weapons law (Idaho Code § 18-3302) contains no disclosure requirement.",
+      "sources": [
+        {
+          "label": "Idaho Code § 18-3302",
+          "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH33/SECT18-3302/"
+        },
+        {
+          "label": "Handgunlaw.us Idaho summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/idaho.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "IL": {
+      "status": "if-asked",
+      "summary": "If you hold an Illinois concealed carry license and are stopped, you must tell the officer you're carrying, or show your license, when the officer asks (430 ILCS 66/10(h)).",
+      "inPractice": "Showing your license counts as disclosure. If asked, you must also say where the gun is and let the officer secure it during the stop. Licensed passengers must follow the same rules.",
+      "detail": "Applies to license holders, incl. passengers",
+      "sources": [
+        {
+          "label": "430 ILCS 66/10",
+          "url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/043000660K10.htm"
+        }
+      ],
+      "confidence": "high"
+    },
+    "IN": {
+      "status": "no-duty",
+      "summary": "Indiana has no statute or rule requiring you to tell an officer you're carrying. Since 2022, a license isn't required for most adults.",
+      "inPractice": "Handgunlaw.us found no Indiana law creating a duty to inform during official contact.",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Indiana summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/indiana.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "IA": {
+      "status": "no-duty",
+      "summary": "Iowa has no duty-to-inform law. Since 2021, most adults can carry without a permit, whether openly or concealed.",
+      "inPractice": "Handgunlaw.us lists Iowa as a no-duty state. Iowa's permit law says the availability of permits doesn't ban lawful unlicensed carry (Iowa Code § 724.5).",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Iowa summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/iowa.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "KS": {
+      "status": "no-duty",
+      "summary": "Kansas has no law requiring you to tell an officer you have a firearm during a stop. Most adults can carry without a license.",
+      "inPractice": "Handgunlaw.us reports nothing in Kansas law requires you to tell an officer you're armed when approached on official business.",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Kansas summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/kansas.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "KY": {
+      "status": "no-duty",
+      "summary": "Kentucky has no duty-to-inform law. If you carry under a license, you must have it with you and show it if an officer asks (KRS 237.110).",
+      "inPractice": "Not showing the license on request is a noncriminal violation with a $25 penalty. Kentucky allows permitless carry for most adults.",
+      "detail": "License holders show license on request",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Kentucky summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/kentucky.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "LA": {
+      "status": "must-inform",
+      "summary": "If you're carrying a concealed handgun, with a permit or under the 2024 permitless-carry law, you must tell an officer who approaches you officially that you're armed (R.S. 40:1379.3(I)(2)).",
+      "inPractice": "You must also submit to a pat-down and let the officer temporarily disarm you. Permit holders who don't comply face an automatic six-month permit suspension; permitless carriers face separate penalties.",
+      "detail": "Applies to anyone carrying concealed",
+      "sources": [
+        {
+          "label": "La. R.S. 40:1379.3",
+          "url": "https://legis.la.gov/Legis/Law.aspx?d=97451"
+        },
+        {
+          "label": "Handgunlaw.us: States where you must inform officers (2026)",
+          "url": "https://handgunlaw.us/documents/Must_Inform_Officer.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "ME": {
+      "status": "must-inform",
+      "summary": "If you carry a concealed handgun without a Maine permit, you must immediately tell the officer at an arrest, detention or traffic stop (25 M.R.S. § 2003-A). Permit holders must show their permit on demand instead.",
+      "inPractice": "Failing to inform is a civil violation with a fine of up to $100 (§ 2004). Permit holders have no duty to volunteer, but must display the permit if an officer demands it (§ 2003(11)).",
+      "detail": "Applies to people carrying without a permit",
+      "sources": [
+        {
+          "label": "25 M.R.S. § 2003-A",
+          "url": "https://legislature.maine.gov/statutes/25/title25sec2003-A.html"
+        },
+        {
+          "label": "25 M.R.S. § 2003",
+          "url": "https://legislature.maine.gov/statutes/25/title25sec2003.html"
+        },
+        {
+          "label": "Handgunlaw.us: States where you must inform officers (2026)",
+          "url": "https://handgunlaw.us/documents/Must_Inform_Officer.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MD": {
+      "status": "no-duty",
+      "summary": "Maryland has no law requiring you to tell an officer you're armed. You need a permit to carry a handgun, and you must have the permit with you whenever you carry or transport one (Public Safety § 5-308).",
+      "inPractice": "Handgunlaw.us notes it is illegal to carry a loaded firearm in a vehicle in Maryland without a Maryland carry permit. No statute requires you to volunteer that you're armed.",
+      "sources": [
+        {
+          "label": "Md. Code, Public Safety § 5-308",
+          "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gps&section=5-308&enactments=false"
+        },
+        {
+          "label": "Handgunlaw.us Maryland summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/maryland.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MA": {
+      "status": "no-duty",
+      "summary": "No Massachusetts statute requires you to tell an officer you're carrying. A license to carry is required to carry a handgun.",
+      "inPractice": "The heading of Chapter 140 § 129C still mentions exhibiting a license on demand, but handgunlaw.us reports that text was dropped in the 2024 rewrite, and we couldn't find a replacement provision.",
+      "sources": [
+        {
+          "label": "Mass. Gen. Laws ch. 140, § 129C",
+          "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter140/Section129C"
+        },
+        {
+          "label": "Handgunlaw.us Massachusetts summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/massachusetts.pdf"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MI": {
+      "status": "must-inform",
+      "summary": "If you have a concealed pistol license (CPL) and are carrying a concealed pistol, on you or in your vehicle, you must immediately tell the officer when stopped (MCL 28.425f(3)).",
+      "inPractice": "A first violation is a state civil infraction with a $500 fine and a six-month CPL suspension; a repeat within three years brings a $1,000 fine and revocation.",
+      "detail": "Applies to CPL holders (license required)",
+      "sources": [
+        {
+          "label": "Mich. Comp. Laws § 28.425f",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-28-425f"
+        },
+        {
+          "label": "Handgunlaw.us: States where you must inform officers (2026)",
+          "url": "https://handgunlaw.us/documents/Must_Inform_Officer.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MN": {
+      "status": "no-duty",
+      "summary": "Minnesota doesn't require you to tell an officer you're armed. Permit holders must carry the permit and photo ID and show them upon an officer's lawful demand (Minn. Stat. § 624.714, subd. 1b).",
+      "inPractice": "Some guides list Minnesota as \"inform if asked\" because of this display rule; the statute itself only requires showing the permit on demand. A violation is a petty misdemeanor (first-offense fine up to $25).",
+      "detail": "Permit holders show permit on demand",
+      "sources": [
+        {
+          "label": "Minn. Stat. § 624.714",
+          "url": "https://www.revisor.mn.gov/statutes/cite/624.714"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MS": {
+      "status": "no-duty",
+      "summary": "Mississippi has no duty-to-inform law. If you carry under a license, you must have it and ID with you and show both if an officer demands them (Miss. Code § 45-9-101(1)(b)).",
+      "inPractice": "Not showing them is a noncriminal violation with a $25 penalty. Mississippi allows permitless carry for most adults.",
+      "detail": "License holders show license on demand",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Mississippi summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/mississippi.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MO": {
+      "status": "no-duty",
+      "summary": "Missouri has no duty-to-inform law. Permit holders carrying concealed must show their permit and photo ID if a peace officer asks (RSMo § 571.121).",
+      "inPractice": "Failing to show the permit isn't a crime, but can bring a citation of up to $35. Missouri allows permitless carry for most adults.",
+      "detail": "Permit holders show permit on request",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Missouri summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/missouri.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MT": {
+      "status": "no-duty",
+      "summary": "Montana has no law requiring you to tell an officer you're carrying. Most adults can carry concealed without a permit.",
+      "inPractice": "Handgunlaw.us lists Montana as a no-duty state; its cited permit rules deal only with having an out-of-state permit and photo ID in your possession (MCA § 45-8-329).",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Montana summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/montana.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NE": {
+      "status": "must-inform",
+      "summary": "If you're carrying a concealed handgun, with or without a permit, you must immediately tell an officer who contacts you, and comply if the officer secures the gun during the stop (Neb. Rev. Stat. § 28-1202.04).",
+      "inPractice": "This doesn't apply if the handgun is unloaded, cased and kept separate from ammunition. A first failure to inform is a Class III misdemeanor. The rule was expanded to all carriers by LB77 (2023).",
+      "detail": "Applies to anyone carrying concealed",
+      "sources": [
+        {
+          "label": "Neb. Rev. Stat. § 28-1202.04",
+          "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=28-1202.04"
+        },
+        {
+          "label": "Handgunlaw.us: States where you must inform officers (2026)",
+          "url": "https://handgunlaw.us/documents/Must_Inform_Officer.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NV": {
+      "status": "no-duty",
+      "summary": "Nevada has no duty-to-inform law. Permit holders must carry the permit and ID and present both if a peace officer requests them (NRS 202.3667).",
+      "inPractice": "Not carrying or presenting them brings a $25 civil penalty.",
+      "detail": "Permit holders show permit on request",
+      "sources": [
+        {
+          "label": "Nev. Rev. Stat. § 202.3667",
+          "url": "https://www.leg.state.nv.us/nrs/nrs-202.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NH": {
+      "status": "no-duty",
+      "summary": "New Hampshire has no law requiring you to tell an officer you're carrying. Adults who can legally have a gun may carry concealed without a license.",
+      "inPractice": "Handgunlaw.us lists New Hampshire as a no-duty state and recommends carrying a state ID when carrying without a license.",
+      "sources": [
+        {
+          "label": "Handgunlaw.us New Hampshire summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/newhampshire.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NJ": {
+      "status": "must-inform",
+      "summary": "If you hold a NJ permit to carry and are stopped while carrying in public or with a handgun in your vehicle, you must immediately tell the officer and show your permit (N.J.S. 2C:58-4.4(b)).",
+      "inPractice": "As enacted in 2022 (P.L. 2022, c. 131), failing to disclose is a fourth-degree crime; failing to show the permit is a disorderly persons offense for a first offense.",
+      "detail": "Applies to permit holders (permit required)",
+      "sources": [
+        {
+          "label": "P.L. 2022, c. 131, § 5 (N.J.S. 2C:58-4.4)",
+          "url": "https://pub.njleg.state.nj.us/Bills/2022/PL22/131_.PDF"
+        },
+        {
+          "label": "Handgunlaw.us New Jersey summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/newjersey.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NM": {
+      "status": "no-duty",
+      "summary": "New Mexico has no duty-to-inform law. Licensees must have the license with them while carrying concealed and display it upon an officer's demand (NMSA § 29-19-9; 10.8.2.16 NMAC).",
+      "inPractice": "Handgunlaw.us lists New Mexico as a no-duty state.",
+      "detail": "Licensees show license on demand",
+      "sources": [
+        {
+          "label": "Handgunlaw.us New Mexico summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/newmexico.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NY": {
+      "status": "no-duty",
+      "summary": "New York has no duty-to-inform law. Licensees must carry their license and show it to a police officer on demand (Penal Law § 400.00(8)).",
+      "inPractice": "A New York license is required to carry a handgun. Handgunlaw.us lists New York as a no-duty state.",
+      "detail": "Licensees show license on demand",
+      "sources": [
+        {
+          "label": "Handgunlaw.us New York summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/newyork.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NC": {
+      "status": "must-inform",
+      "summary": "If you have a concealed handgun permit and are carrying, you must tell an officer who approaches or addresses you that you have a permit and are carrying, and show the permit and ID on request (G.S. 14-415.11(a)).",
+      "inPractice": "Failing to disclose is an infraction (G.S. 14-415.21). North Carolina has not adopted permitless concealed carry as of 2026, per handgunlaw.us.",
+      "detail": "Applies to permit holders",
+      "sources": [
+        {
+          "label": "N.C. Gen. Stat. § 14-415.11",
+          "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_14/GS_14-415.11.html"
+        },
+        {
+          "label": "Handgunlaw.us North Carolina summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/northcarolina.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "ND": {
+      "status": "if-asked",
+      "summary": "If you carry concealed without a license, you must tell an officer about the gun if the officer asks, and show your driver's license or ID on request. License holders must show their license on request (N.D.C.C. § 62.1-04-04).",
+      "inPractice": "Violations are a noncriminal offense with a $20 fee. Some guides still say permitless carriers must inform immediately; the current code text requires it only when the officer asks.",
+      "detail": "Permitless: tell if asked; licensees: show license",
+      "sources": [
+        {
+          "label": "N.D. Cent. Code ch. 62.1-04",
+          "url": "https://ndlegis.gov/cencode/t62-1c04.pdf"
+        },
+        {
+          "label": "Handgunlaw.us North Dakota summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/northdakota.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "OH": {
+      "status": "if-asked",
+      "summary": "If you're carrying a concealed handgun, licensed or not, you must disclose it when an officer asks during a stop (ORC 2923.12(B)(1), 2923.16(E)(1)). Ohio removed the old tell-right-away rule in 2022 (SB 215).",
+      "inPractice": "You must also keep your hands in sight, not touch the gun, and obey lawful orders. Permitless carriers (\"qualifying adults\") have the same duties as licensees (ORC 2923.111). Not disclosing is a 2nd-degree misdemeanor.",
+      "detail": "Applies to anyone carrying concealed",
+      "sources": [
+        {
+          "label": "Ohio Rev. Code § 2923.12",
+          "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.12"
+        },
+        {
+          "label": "Ohio Rev. Code § 2923.16",
+          "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.16"
+        },
+        {
+          "label": "Ohio Rev. Code § 2923.111",
+          "url": "https://codes.ohio.gov/ohio-revised-code/section-2923.111"
+        }
+      ],
+      "confidence": "high"
+    },
+    "OK": {
+      "status": "if-asked",
+      "summary": "If you're carrying a firearm, licensed or not, you must tell an officer about it during an arrest, detention or traffic stop when the officer asks. You don't have to say so if the officer doesn't ask (21 O.S. § 1290.8(D)).",
+      "inPractice": "A violation can bring a citation of up to $100. We confirmed this from the 2023 amending bill (HB 1789), not the codified statute; handgunlaw.us also lists Oklahoma as not requiring immediate disclosure.",
+      "detail": "Applies to anyone carrying",
+      "sources": [
+        {
+          "label": "Okla. HB 1789 (2023), amending 21 O.S. § 1290.8",
+          "url": "https://www.oklegislature.gov/cf_pdf/2023-24%20ENR/hB/HB1789%20ENR.PDF"
+        },
+        {
+          "label": "Handgunlaw.us Oklahoma summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/oklahoma.pdf"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "OR": {
+      "status": "no-duty",
+      "summary": "Oregon has no duty-to-inform law. Concealed handgun licensees must carry the license whenever they carry concealed (ORS 166.292).",
+      "inPractice": "Not having the license with you is treated as evidence that you don't have one. Handgunlaw.us lists Oregon as a no-duty state.",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Oregon summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/oregon.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "PA": {
+      "status": "no-duty",
+      "summary": "Pennsylvania has no duty-to-inform law. If you're licensed and carrying concealed on you or in a vehicle, you must produce your license when an officer lawfully demands it (18 Pa.C.S. § 6122).",
+      "inPractice": "Not producing the license at arrest or at the preliminary hearing creates a presumption that you're unlicensed. Handgunlaw.us lists Pennsylvania as a no-duty state.",
+      "detail": "Licensees show license on demand",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Pennsylvania summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/pennsylvania.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "RI": {
+      "status": "no-duty",
+      "summary": "Rhode Island has no law requiring you to tell an officer you're carrying. A license or permit is required to carry a handgun.",
+      "inPractice": "Handgunlaw.us lists Rhode Island as a no-duty state but notes that, under state law, carrying a gun is treated as evidence of unlawful carry unless you show it was lawful, such as with a valid license (R.I. Gen. Laws § 11-47-27).",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Rhode Island summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/rhodeisland.pdf"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "SC": {
+      "status": "no-duty",
+      "summary": "South Carolina no longer has a duty-to-inform law. The 2024 permitless-carry law (Act 111, H.3594) rewrote § 23-31-215(K), which used to require permit holders to tell officers.",
+      "inPractice": "The current subsection (K) deals only with reporting lost or stolen permits and firearms. Older guides listing South Carolina as a must-inform state are out of date.",
+      "detail": "Duty removed in 2024",
+      "sources": [
+        {
+          "label": "S.C. Code Title 23, Ch. 31 (incl. § 23-31-215)",
+          "url": "https://www.scstatehouse.gov/code/t23c031.php"
+        },
+        {
+          "label": "Handgunlaw.us South Carolina summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/southcarolina.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "SD": {
+      "status": "no-duty",
+      "summary": "South Dakota has no law requiring you to tell an officer you're carrying. Adults who can legally have a gun may carry without a permit.",
+      "inPractice": "Handgunlaw.us reports nothing in South Dakota statutes or rules requires carriers to inform an officer on official contact.",
+      "sources": [
+        {
+          "label": "Handgunlaw.us South Dakota summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/southdakota.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "TN": {
+      "status": "no-duty",
+      "summary": "Tennessee has no duty-to-inform law. Permit holders must show their permit on demand only when carrying where or how they couldn't without the permit (Tenn. Code §§ 39-17-1351, 39-17-1366).",
+      "inPractice": "Tennessee allows permitless handgun carry for most adults, so many carriers have no permit-display duty at all.",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Tennessee summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/tennessee.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "TX": {
+      "status": "if-asked",
+      "summary": "If you hold a Texas License to Carry and have a handgun on or about you, then when an officer asks for ID you must show your handgun license along with your driver's license or ID (Gov't Code § 411.205).",
+      "inPractice": "This applies to license holders only. Since 2021, many adults carry without a license, and they have no duty to disclose or show a license. You don't have to say anything if not asked for ID.",
+      "detail": "License holders: show LTC with ID when asked",
+      "sources": [
+        {
+          "label": "Tex. Gov't Code § 411.205 (as amended, HB 918, 2021)",
+          "url": "https://capitol.texas.gov/tlodocs/87R/billtext/html/HB00918F.HTM"
+        },
+        {
+          "label": "Handgunlaw.us Texas summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/texas.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "UT": {
+      "status": "no-duty",
+      "summary": "Utah has no legal requirement to tell an officer you're armed, with or without a permit.",
+      "inPractice": "Utah's Bureau of Criminal Identification says there's no legal requirement but recommends telling the officer right away that you're a permit holder and armed, for everyone's safety.",
+      "detail": "State recommends telling, but not required",
+      "sources": [
+        {
+          "label": "Utah BCI Firearm FAQs",
+          "url": "https://bci.utah.gov/firearm-faqs/"
+        },
+        {
+          "label": "Handgunlaw.us Utah summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/utah.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "VT": {
+      "status": "no-duty",
+      "summary": "Vermont has no law requiring you to tell an officer you're carrying. Vermont doesn't issue carry permits; adults who can legally have a gun may carry.",
+      "inPractice": "Handgunlaw.us lists Vermont as a no-duty state.",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Vermont summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/vermont.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "VA": {
+      "status": "no-duty",
+      "summary": "Virginia has no duty-to-inform law. Permit holders must carry the permit and photo ID and display them upon an officer's demand (Va. Code § 18.2-308.01).",
+      "inPractice": "Nonresident permit holders must also display the permit on demand. The duty to show a permit only applies once an officer demands it.",
+      "detail": "Permit holders show permit on demand",
+      "sources": [
+        {
+          "label": "Va. Code § 18.2-308.01",
+          "url": "https://law.lis.virginia.gov/vacode/title18.2/chapter7/section18.2-308.01/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WA": {
+      "status": "no-duty",
+      "summary": "Washington has no duty-to-inform law. Concealed pistol license holders must have the license with them and display it upon an officer's demand (RCW 9.41.050(1)(b)).",
+      "inPractice": "Not doing so is a class 1 civil infraction. Washington generally requires a license to carry a loaded pistol in a vehicle.",
+      "detail": "License holders show license on demand",
+      "sources": [
+        {
+          "label": "RCW 9.41.050",
+          "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.050"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WV": {
+      "status": "no-duty",
+      "summary": "West Virginia has no statute or rule requiring you to tell an officer you're carrying. Most adults can carry without a permit.",
+      "inPractice": "Handgunlaw.us found no West Virginia law creating a duty to inform on official contact.",
+      "sources": [
+        {
+          "label": "Handgunlaw.us West Virginia summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/westvirginia.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WI": {
+      "status": "no-duty",
+      "summary": "Wisconsin has no duty-to-inform law. If an officer acting officially asks, a licensee carrying concealed must show the license and photo ID (Wis. Stat. § 175.60(2g)(c)).",
+      "inPractice": "Out-of-state licensees must likewise show their license and photo ID on request. A Wisconsin license (or a recognized out-of-state one) is generally needed to carry concealed.",
+      "detail": "Licensees show license on request",
+      "sources": [
+        {
+          "label": "Wis. Stat. § 175.60",
+          "url": "https://docs.legis.wisconsin.gov/statutes/statutes/175/60"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WY": {
+      "status": "no-duty",
+      "summary": "Wyoming has no duty-to-inform law. Permit holders must carry the permit and ID and show both on an officer's request (Wyo. Stat. § 6-8-104(b)).",
+      "inPractice": "Wyoming allows permitless carry for most adults, who have no permit-display duty.",
+      "detail": "Permit holders show permit on request",
+      "sources": [
+        {
+          "label": "Handgunlaw.us Wyoming summary (updated 2026)",
+          "url": "https://handgunlaw.us/states/wyoming.pdf"
+        }
+      ],
+      "confidence": "high"
+    }
+  }
+}

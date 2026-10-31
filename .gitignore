@@ -1,0 +1,6 @@
+node_modules
+dist
+dist-artifact
+artifact
+.claude
+.DS_Store

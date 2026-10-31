@@ -1,0 +1,925 @@
+{
+  "topic": "digital-proof",
+  "lastVerified": "2026-10-31",
+  "entries": {
+    "AL": {
+      "status": "insurance-only",
+      "summary": "Alabama lets you show proof of insurance on your phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "By law, showing your phone isn't consent for police to look at anything else on it (Ala. Code § 32-7A-6). Officers can also check coverage in the state's online insurance verification system.",
+      "detail": "Showing phone isn't consent to search",
+      "sources": [
+        {
+          "label": "Ala. Code § 32-7A-6 (SB 273, 2015)",
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2015RS/PrintFiles/SB273-Eng.pdf"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AK": {
+      "status": "insurance-only",
+      "summary": "Alaska lets you show your insurer's proof of coverage on a phone. Alaska has a state Mobile ID, but the DMV says you must still carry your physical license.",
+      "inPractice": "Showing proof on your phone isn't consent for an officer to look at other contents (AS 28.22.019). The DMV says Mobile ID doesn't replace the physical card.",
+      "detail": "mDL: Alaska Mobile ID (not a substitute)",
+      "sources": [
+        {
+          "label": "AS 28.22.019",
+          "url": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.22.019&secEnd=28.22.019"
+        },
+        {
+          "label": "Alaska DMV: Mobile ID",
+          "url": "https://dmv.alaska.gov/mid/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AZ": {
+      "status": "insurance-only",
+      "summary": "Arizona lets you show proof of insurance on your phone. Arizona offers a mobile ID in phone wallets, but no state law makes it a substitute for your physical license at a stop.",
+      "inPractice": "Showing your phone isn't consent for police to view other contents (A.R.S. § 28-4135). We couldn't load ADOT's mobile ID page; § 28-3169 still requires a legible license on you.",
+      "detail": "mDL: Arizona Mobile ID (phone wallets)",
+      "sources": [
+        {
+          "label": "A.R.S. § 28-4135",
+          "url": "https://azleg.gov/ars/28/04135.htm"
+        },
+        {
+          "label": "A.R.S. § 28-3169",
+          "url": "https://www.azleg.gov/ars/28/03169.htm"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "AR": {
+      "status": "insurance-only",
+      "summary": "Arkansas lets you show insurance proof on your phone if it's as clear as a paper card. Arkansas Mobile ID exists, but the state says you should always carry your physical license.",
+      "inPractice": "Electronic proof doesn't authorize a search of other phone content without a warrant or probable cause (Act 175 of 2013). Officers also check the state's Vehicle Insurance Database.",
+      "detail": "mDL: Arkansas Mobile ID (not a substitute)",
+      "sources": [
+        {
+          "label": "Ark. Code § 27-22-104 (Act 175 of 2013)",
+          "url": "https://arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2013%2FPublic%2F&file=175.pdf&ddBienniumSession=2013%2F2013R"
+        },
+        {
+          "label": "Arkansas DFA: Mobile ID",
+          "url": "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CA": {
+      "status": "insurance-only",
+      "summary": "California lets you show proof of insurance on a phone. The state's mobile driver's license is a pilot; the DMV says the law requires you to show your physical license to police.",
+      "inPractice": "Officers may view only the insurance proof, and you assume liability if the phone is damaged (Veh. Code § 16028). Keep carrying your physical license.",
+      "detail": "mDL: CA DMV Wallet (pilot; not for police)",
+      "sources": [
+        {
+          "label": "Cal. Veh. Code § 16028 (AB 1708, 2012)",
+          "url": "https://www.leginfo.ca.gov/pub/11-12/bill/asm/ab_1701-1750/ab_1708_bill_20120907_chaptered.html"
+        },
+        {
+          "label": "CA DMV: mDL FAQs",
+          "url": "https://dmv.ca.gov/portal/ca-dmv-wallet/mdl-faqs/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CO": {
+      "status": "insurance-only",
+      "summary": "Colorado lets you show insurance proof on your phone. Colorado Digital ID is an official ID that some police agencies accept, but the state says to keep carrying your physical license.",
+      "inPractice": "Officers may not explore other phone contents and are immune if they accidentally damage it (C.R.S. 42-4-1409). If an agency doesn't accept or doubts the Digital ID, you'll need the card.",
+      "detail": "mDL: Colorado Digital ID (myColorado)",
+      "sources": [
+        {
+          "label": "C.R.S. § 42-4-1409 (unofficial text)",
+          "url": "https://colorado.public.law/statutes/crs_42-4-1409"
+        },
+        {
+          "label": "myColorado: Colorado Digital ID",
+          "url": "https://mycolorado.gov/colorado-digital-id"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "CT": {
+      "status": "insurance-only",
+      "summary": "Connecticut lets you show your insurance card on a phone, in person. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Police may view only the card; showing it isn't consent to view anything else, and the state isn't liable for damage to your phone (Conn. Gen. Stat. § 14-12b).",
+      "detail": "Showing phone isn't consent to search",
+      "sources": [
+        {
+          "label": "Conn. Gen. Stat. § 14-12b (ch. 246)",
+          "url": "https://www.cga.ct.gov/current/pub/chap_246.htm"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "DE": {
+      "status": "insurance-only",
+      "summary": "Delaware lets you show proof of insurance on your phone if you and your insurer agree to it. No state law makes a mobile license a substitute; you must carry your license when driving.",
+      "inPractice": "Showing your phone isn't consent to access other content, and an officer may ask you to forward the proof electronically (21 Del. C. § 2118). We couldn't confirm a current DMV mobile ID program.",
+      "detail": "Officer may ask you to forward proof",
+      "sources": [
+        {
+          "label": "21 Del. C. § 2118",
+          "url": "https://delcode.delaware.gov/title21/c021/sc01/index.html"
+        },
+        {
+          "label": "21 Del. C. § 2721",
+          "url": "https://delcode.delaware.gov/title21/c027/sc01/index.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "DC": {
+      "status": "insurance-only",
+      "summary": "D.C. lets you show your insurance card, and your registration, on a phone. D.C. has no mobile driver's license, so carry your physical license.",
+      "inPractice": "Showing your phone isn't consent to access other content, and officers are immune for damage except for recklessness or intentional misconduct (D.C. Code § 31-2413).",
+      "detail": "Showing phone isn't consent to search",
+      "sources": [
+        {
+          "label": "D.C. Code § 31-2413",
+          "url": "https://code.dccouncil.gov/us/dc/council/code/sections/31-2413"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "FL": {
+      "status": "insurance-only",
+      "summary": "Florida lets you show proof of insurance on your phone. A state law authorizes an optional digital license, but Florida's app is paused, so carry your physical license.",
+      "inPractice": "Showing your phone isn't consent for the officer to access other information, but you assume liability for any damage to it (Fla. Stat. § 316.646).",
+      "detail": "Digital license law exists; app paused",
+      "sources": [
+        {
+          "label": "Fla. Stat. § 316.646",
+          "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0316/Sections/0316.646.html"
+        },
+        {
+          "label": "Fla. Stat. § 322.032",
+          "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/Sections/0322.032.html"
+        },
+        {
+          "label": "Munio mDL state tracker (secondary, May 2026)",
+          "url": "https://munioid.com/resources/states-mdl-reader-requirements/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "GA": {
+      "status": "insurance-only",
+      "summary": "Georgia allows insurance cards on your phone, though police mainly verify coverage in the state's database. Georgia's digital license isn't a replacement for your physical card while driving.",
+      "inPractice": "Showing your phone isn't consent to access other contents (O.C.G.A. § 40-6-10). Officers can require the physical license. A state law (HB 296) reportedly requires police to accept mDLs by July 2027.",
+      "detail": "mDL: Georgia Digital ID (not for driving yet)",
+      "sources": [
+        {
+          "label": "O.C.G.A. § 40-6-10 (unofficial text)",
+          "url": "https://codes.findlaw.com/ga/title-40-motor-vehicles-and-traffic/ga-code-sect-40-6-10/"
+        },
+        {
+          "label": "Georgia DOR: Insurance coverage",
+          "url": "https://dor.georgia.gov/motor-vehicles/insurance/insurance-coverage"
+        },
+        {
+          "label": "Georgia DDS: Digital ID",
+          "url": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id"
+        },
+        {
+          "label": "Munio mDL state tracker (secondary, May 2026)",
+          "url": "https://munioid.com/resources/states-mdl-reader-requirements/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "HI": {
+      "status": "insurance-only",
+      "summary": "Hawaii lets you show your insurance card on a phone. Hawaii's mobile license in Apple Wallet can't be used with police yet, so you must carry your physical card.",
+      "inPractice": "Officers may view only the insurance card, and you assume liability for damage (HRS § 286-116). The state says new laws, rules, readers and training are needed before police use.",
+      "detail": "mDL: Apple Wallet (not for police yet)",
+      "sources": [
+        {
+          "label": "HRS § 286-116",
+          "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0286/HRS_0286-0116.htm"
+        },
+        {
+          "label": "Hawaii DOT: Mobile driver license",
+          "url": "https://hidot.hawaii.gov/highways/mobile-driver-license/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "ID": {
+      "status": "insurance-only",
+      "summary": "Idaho lets you show proof of insurance on a phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Idaho's law has no rule about phone privacy. If you're cited for no proof, showing valid proof before conviction resolves it (Idaho Code § 49-1232).",
+      "sources": [
+        {
+          "label": "Idaho Code § 49-1232",
+          "url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH12/SECT49-1232/"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "IL": {
+      "status": "insurance-only",
+      "summary": "Illinois lets you show proof of insurance on a phone. Illinois offers a mobile ID in Apple Wallet, but we found no law making it a substitute for your physical license at a stop.",
+      "inPractice": "Using your phone isn't consent to access other contents, and officers are immune for damage to it (625 ILCS 5/7-602). We couldn't load the Secretary of State's mobile ID page to confirm police use.",
+      "detail": "mDL: Illinois Mobile ID (Apple Wallet)",
+      "sources": [
+        {
+          "label": "625 ILCS 5/7-602",
+          "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=062500050K7-602"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "IN": {
+      "status": "insurance-only",
+      "summary": "Indiana lets you show proof of insurance as an electronic image on a phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Indiana's law doesn't address phone privacy. A 2025 change adds a real-time online insurance check for officers, starting in 2028 (IC 9-25-4-7).",
+      "sources": [
+        {
+          "label": "IC 9-25-4-7 (Title 9, 2025)",
+          "url": "https://iga.in.gov/ic/2025/Title_9.pdf"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "IA": {
+      "status": "insurance-only",
+      "summary": "Iowa lets you show your insurance card on a phone. Iowa Mobile ID exists, but Iowa DOT says it isn't a replacement for your physical card.",
+      "inPractice": "Iowa's insurance law doesn't address phone privacy (Iowa Code § 321.20B). The DOT says to always carry your physical ID as a backup.",
+      "detail": "mDL: Iowa Mobile ID (not a replacement)",
+      "sources": [
+        {
+          "label": "Iowa Code § 321.20B",
+          "url": "https://www.legis.iowa.gov/docs/code/321.20B.pdf"
+        },
+        {
+          "label": "Iowa DOT: Iowa Mobile ID",
+          "url": "https://iowadot.gov/mobileid"
+        },
+        {
+          "label": "Iowa DOT: Mobile ID for businesses",
+          "url": "https://iowadot.gov/drivers-licenses-ids/mobile-id/mobile-id-businesses-organizations"
+        }
+      ],
+      "confidence": "high"
+    },
+    "KS": {
+      "status": "insurance-only",
+      "summary": "Kansas lets you show proof of insurance on a phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Officers may view only the insurance proof and are barred from viewing other content on the phone (K.S.A. 40-3104).",
+      "detail": "Officer may view only the insurance proof",
+      "sources": [
+        {
+          "label": "K.S.A. 40-3104",
+          "url": "https://www.kslegislature.gov/li/b2025_26/statute/040_000_0000_chapter/040_031_0000_article/040_031_0004_section/040_031_0004_k/"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "KY": {
+      "status": "insurance-only",
+      "summary": "Kentucky lets you show your insurance card on a phone (a photo of a paper card doesn't count). Kentucky Mobile ID isn't valid for driving; you can be cited without your physical license.",
+      "inPractice": "Officers may view only the insurance image, and you assume liability for phone damage (KRS 304.39-117). These rules move to a rewritten section on Jan. 1, 2027.",
+      "detail": "mDL: KY Mobile ID (not valid for driving)",
+      "sources": [
+        {
+          "label": "KRS 304.39-117",
+          "url": "https://apps.legislature.ky.gov/law/Statutes/statute.aspx?id=42996"
+        },
+        {
+          "label": "Kentucky Transportation Cabinet: Mobile ID",
+          "url": "https://drive.ky.gov/Pages/Mobile-ID.aspx"
+        }
+      ],
+      "confidence": "high"
+    },
+    "LA": {
+      "status": "both",
+      "summary": "Louisiana accepts insurance proof on a phone, and its LA Wallet digital license is legally valid at stops: you can't be cited for lacking a physical license if you show it.",
+      "inPractice": "Showing LA Wallet isn't consent to search your phone, and the officer must promptly return it (R.S. 32:411). A photo of your license doesn't count. Off a stop, you may need the card.",
+      "detail": "mDL: LA Wallet",
+      "sources": [
+        {
+          "label": "La. R.S. 32:411",
+          "url": "https://legis.la.gov/Legis/LawPrint.aspx?d=88392"
+        },
+        {
+          "label": "La. R.S. 32:863.1",
+          "url": "https://www.legis.la.gov/Legis/LawPrint.aspx?d=88607"
+        },
+        {
+          "label": "LA Wallet (official app)",
+          "url": "https://lawallet.com/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "ME": {
+      "status": "insurance-only",
+      "summary": "Maine lets you show proof of insurance on your phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Using your phone isn't consent for an officer to access other contents of the device (29-A M.R.S. § 1601).",
+      "detail": "Showing phone isn't consent to search",
+      "sources": [
+        {
+          "label": "29-A M.R.S. § 1601",
+          "url": "https://legislature.maine.gov/statutes/29-A/title29-Asec1601.html"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MD": {
+      "status": "insurance-only",
+      "summary": "Maryland lets you show proof of insurance on a phone. Maryland Mobile ID counts at a stop only if the officer can verify it electronically, and the MVA says to always carry your physical license.",
+      "inPractice": "State law treats a mobile ID as shown only if the officer can reach the verification system (Transp. § 16-112). The insurance law has no phone-privacy clause (§ 17-104.2).",
+      "detail": "mDL: Maryland Mobile ID (phone wallets)",
+      "sources": [
+        {
+          "label": "Md. Code, Transp. § 17-104.2",
+          "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtr&section=17-104.2&enactments=false"
+        },
+        {
+          "label": "Md. Code, Transp. § 16-112",
+          "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtr&section=16-112&enactments=false"
+        },
+        {
+          "label": "Maryland MVA: Mobile ID",
+          "url": "https://mva.maryland.gov/Pages/mdMobileID.aspx"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MA": {
+      "status": "physical-only",
+      "summary": "Massachusetts doesn't use insurance cards at stops; insurance is proven when your car is registered. No law lets you show registration on a phone, and there's no state mobile license.",
+      "inPractice": "State law requires you to carry your license and registration certificate (M.G.L. c. 90 § 11) and doesn't address electronic copies. Carry the paper registration and physical license.",
+      "detail": "Carry paper registration",
+      "sources": [
+        {
+          "label": "M.G.L. c. 90 § 11",
+          "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90/Section11"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MI": {
+      "status": "insurance-only",
+      "summary": "Michigan lets you show proof of insurance on your phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Officers may view only the electronic proof and can't manipulate your phone; you aren't presumed to consent to a search, and the state isn't liable for damage (MCL 257.328).",
+      "detail": "Showing phone isn't consent to search",
+      "sources": [
+        {
+          "label": "MCL 257.328",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-257-328"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MN": {
+      "status": "insurance-only",
+      "summary": "Minnesota lets you show proof of insurance on your phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Showing your phone isn't consent to access other contents, and officers are immune for damage unless they fail to use due care (Minn. Stat. § 169.791).",
+      "detail": "Showing phone isn't consent to search",
+      "sources": [
+        {
+          "label": "Minn. Stat. § 169.791",
+          "url": "https://www.revisor.mn.gov/statutes/cite/169.791"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MS": {
+      "status": "insurance-only",
+      "summary": "Mississippi lets you show your insurance card on a phone. The state's Mobile ID app exists, but we found no official statement that it replaces your physical license at a stop.",
+      "inPractice": "Officers may not access anything on your phone except the insurance card (Miss. Code § 63-15-4). We couldn't confirm Mobile ID's legal status at stops, so carry your physical license.",
+      "detail": "mDL: Mississippi Mobile ID (app)",
+      "sources": [
+        {
+          "label": "Miss. Code § 63-15-4 (unofficial text)",
+          "url": "https://codes.findlaw.com/ms/title-63-motor-vehicles-and-traffic-regulations/ms-code-sect-63-15-4/"
+        },
+        {
+          "label": "Mississippi DPS: Mobile ID",
+          "url": "https://www.driverservicebureau.dps.ms.gov/mobile-id/"
+        }
+      ],
+      "confidence": "low"
+    },
+    "MO": {
+      "status": "insurance-only",
+      "summary": "Missouri lets you show your insurance card on a phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Showing your phone isn't consent to view other content; you assume liability for damage unless an officer causes it willfully or maliciously (RSMo § 303.024).",
+      "detail": "Showing phone isn't consent to search",
+      "sources": [
+        {
+          "label": "RSMo § 303.024",
+          "url": "https://revisor.mo.gov/main/OneSection.aspx?section=303.024"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MT": {
+      "status": "both",
+      "summary": "Montana accepts insurance proof on a phone, and since Sept. 1, 2025, state law lets a state-issued digital license (Montana Mobile ID) meet the duty to carry and show your license.",
+      "inPractice": "Only a digital license issued by the state counts, not a photo (MCA 61-5-116). You can't be convicted of no insurance if coverage shows in the state's online verification system (MCA 61-6-302).",
+      "detail": "mDL: Montana Mobile ID (Apple/Google Wallet)",
+      "sources": [
+        {
+          "label": "MCA 61-5-116",
+          "url": "https://mca.legmt.gov/bills/mca/title_0610/chapter_0050/part_0010/section_0160/0610-0050-0010-0160.html"
+        },
+        {
+          "label": "MCA 61-6-302",
+          "url": "https://mca.legmt.gov/bills/mca/title_0610/chapter_0060/part_0030/section_0020/0610-0060-0030-0020.html"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NE": {
+      "status": "insurance-only",
+      "summary": "Nebraska lets you show proof of insurance on your phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Showing your phone isn't consent for police to access other contents, and you assume liability for any damage (Neb. Rev. Stat. § 60-387.01).",
+      "detail": "Showing phone isn't consent to search",
+      "sources": [
+        {
+          "label": "Neb. Rev. Stat. § 60-387.01",
+          "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=60-387.01"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NV": {
+      "status": "insurance-only",
+      "summary": "Nevada lets you show proof of insurance on your phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Officers may view only the insurance proof and must not intentionally view other content; you assume liability for damage (NRS 484A.650; NRS 690B.023).",
+      "detail": "Officer may view only the insurance proof",
+      "sources": [
+        {
+          "label": "NRS 484A.650",
+          "url": "https://www.leg.state.nv.us/NRS/NRS-484A.html"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NH": {
+      "status": "insurance-only",
+      "summary": "New Hampshire doesn't require most drivers to carry auto insurance or an insurance card, so there's no paper-versus-phone rule at a stop. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Proof of financial responsibility is filed with the DMV after certain crashes or convictions (RSA ch. 264), not shown at stops. We found no NH law on electronic insurance cards.",
+      "detail": "No insurance card required at stops",
+      "sources": [
+        {
+          "label": "N.H. RSA ch. 264",
+          "url": "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XXI-264.htm"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NJ": {
+      "status": "insurance-only",
+      "summary": "New Jersey lets you show your insurance card on a phone, tablet or computer. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Showing your device isn't consent for police or a judge to access other contents, and they're immune for damage to it (N.J.S.A. 39:3-29).",
+      "detail": "Showing phone isn't consent to search",
+      "sources": [
+        {
+          "label": "N.J.S.A. 39:3-29 (unofficial text)",
+          "url": "https://codes.findlaw.com/nj/title-39-motor-vehicles-and-traffic-regulation/nj-st-sect-39-3-29/"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NM": {
+      "status": "physical-only",
+      "summary": "New Mexico has no law requiring police to accept insurance proof on a phone, so carry a paper card. Its mobile ID in phone wallets isn't accepted by law enforcement.",
+      "inPractice": "Some officers have accepted phone proof at their discretion, but it isn't guaranteed. The MVD says state law still requires a physical ID for law enforcement.",
+      "detail": "mDL: NM Mobile ID (not for police)",
+      "sources": [
+        {
+          "label": "NM MVD: New Mexico Mobile ID",
+          "url": "https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/new-mexico-mobile-id/"
+        },
+        {
+          "label": "Ron Bell Law: digital proof in NM (secondary, July 2025)",
+          "url": "https://ronbell.com/digital-proof-of-insurance-new-mexico/"
+        },
+        {
+          "label": "Insurance Business: e-proof in NM (secondary, 2017)",
+          "url": "https://www.insurancebusinessmag.com/us/news/technology/eproof-not-good-enough-for-new-mexico-70226.aspx"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NY": {
+      "status": "insurance-only",
+      "summary": "New York allows electronic insurance ID cards on your phone under DMV rules. NY Mobile ID doesn't replace your physical license, and not all police agencies accept it.",
+      "inPractice": "Electronic cards aren't allowed for temporary ID cards or fleet, dealer or self-insured vehicles. The DMV says to keep carrying your physical license.",
+      "detail": "mDL: NY MiD (not a replacement)",
+      "sources": [
+        {
+          "label": "NYS DMV: electronic insurance ID cards notice (2015)",
+          "url": "https://dmv.ny.gov/book/export/html/15411"
+        },
+        {
+          "label": "NYS DMV: Mobile ID (MiD)",
+          "url": "https://dmv.ny.gov/id-card/mobile-id-mid-for-license-permit-and-id-holders"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NC": {
+      "status": "insurance-only",
+      "summary": "North Carolina allows insurance proof in electronic form, including on a phone, and relies mainly on DMV records rather than cards. There's no state mobile license yet; carry your physical license.",
+      "inPractice": "We found no NC law requiring you to show an insurance card at a stop (N.C.G.S. § 20-309). A state law directs DMV to plan a mobile license, but none was available as of this check.",
+      "detail": "Insurance checked via DMV records",
+      "sources": [
+        {
+          "label": "N.C.G.S. § 20-309",
+          "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_20/GS_20-309.html"
+        },
+        {
+          "label": "Munio mDL state tracker (secondary, May 2026)",
+          "url": "https://munioid.com/resources/states-mdl-reader-requirements/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "ND": {
+      "status": "both",
+      "summary": "North Dakota accepts written or electronic proof of insurance, and state law lets you carry and show an electronic (mobile) license instead of the physical card.",
+      "inPractice": "N.D.C.C. § 39-06-16 allows a physical or electronic license, and you needn't hand over your phone (§ 39-06-14.3). NDDOT still recommends carrying the card as a backup.",
+      "detail": "mDL: ND Mobile ID ($5; phone wallets)",
+      "sources": [
+        {
+          "label": "N.D.C.C. ch. 39-06 (§§ 39-06-14.3, 39-06-16)",
+          "url": "https://www.ndlegis.gov/cencode/t39c06.pdf"
+        },
+        {
+          "label": "N.D.C.C. § 39-08-20",
+          "url": "https://www.ndlegis.gov/cencode/t39c08.pdf"
+        },
+        {
+          "label": "NDDOT: Mobile ID",
+          "url": "https://www.dot.nd.gov/driver/mobile-id-information"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "OH": {
+      "status": "insurance-only",
+      "summary": "Ohio lets you show proof of insurance on your phone. Ohio Mobile ID doesn't replace your physical license; the BMV says you must keep carrying the card.",
+      "inPractice": "Officials may view no other content on your phone; you assume the risk of damage unless an official causes it purposely, knowingly or recklessly (R.C. 4509.101).",
+      "detail": "mDL: Ohio Mobile ID (not a replacement)",
+      "sources": [
+        {
+          "label": "Ohio R.C. 4509.101",
+          "url": "https://codes.ohio.gov/ohio-revised-code/section-4509.101"
+        },
+        {
+          "label": "Ohio BMV: Mobile ID",
+          "url": "https://www.bmv.ohio.gov/dl-mobile-id.aspx"
+        }
+      ],
+      "confidence": "high"
+    },
+    "OK": {
+      "status": "insurance-only",
+      "summary": "Oklahoma allows insurance verification forms in state-approved electronic formats. Oklahoma's Digital ID doesn't replace your license; the state says to keep carrying the physical card.",
+      "inPractice": "You must carry a security verification form and show it to police (47 O.S. § 7-602); the state may approve electronic versions (§ 7-601.1). We found no phone-privacy clause.",
+      "detail": "mDL: Oklahoma Digital ID (not a replacement)",
+      "sources": [
+        {
+          "label": "47 O.S. § 7-601.1",
+          "url": "https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=82226"
+        },
+        {
+          "label": "47 O.S. § 7-602",
+          "url": "https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=440184"
+        },
+        {
+          "label": "Oklahoma.gov: Digital ID",
+          "url": "https://oklahoma.gov/service/popular-services/digitalid.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "OR": {
+      "status": "insurance-only",
+      "summary": "Oregon lets you show proof of insurance on your phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Showing your phone isn't consent for an officer to access other contents (ORS 806.011). You can't be cited for not carrying proof if the officer confirms coverage in police databases (ORS 806.012).",
+      "detail": "Showing phone isn't consent to search",
+      "sources": [
+        {
+          "label": "ORS 806.011 and 806.012",
+          "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors806.html"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "PA": {
+      "status": "insurance-only",
+      "summary": "Pennsylvania lets you show your insurance card on your phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Officers may view only what's reasonably necessary, and you assume liability for damage while police have the phone (75 Pa.C.S. § 1786). An online verification system is due around 2027.",
+      "detail": "Officer may view only what's necessary",
+      "sources": [
+        {
+          "label": "75 Pa.C.S. § 1786",
+          "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=75&div=0&chapter=17&section=86&subsection=0"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "RI": {
+      "status": "insurance-only",
+      "summary": "Rhode Island lets you show proof of insurance on your phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Officers are barred from viewing other content, and you assume all liability for damage to the phone (R.I. Gen. Laws § 31-47-12).",
+      "detail": "Officer may view only the insurance proof",
+      "sources": [
+        {
+          "label": "R.I. Gen. Laws § 31-47-12",
+          "url": "https://webserver.rilegislature.gov/Statutes/TITLE31/31-47/31-47-12.htm"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "SC": {
+      "status": "insurance-only",
+      "summary": "South Carolina lets you show proof of insurance on your phone if your insurer provides it. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Your phone's contents aren't subject to search without a warrant or your express written consent (S.C. Code § 56-10-225). Insurers don't have to offer electronic cards.",
+      "detail": "No search without warrant or written consent",
+      "sources": [
+        {
+          "label": "S.C. Code § 56-10-225",
+          "url": "https://www.scstatehouse.gov/code/t56c010.php"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "SD": {
+      "status": "insurance-only",
+      "summary": "South Dakota accepts an electronic copy of proof of insurance on a phone if your insurer issued it as an official electronic document. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "At a stop, the proof needed is your insurer's name and policy number (SDCL 32-35-116). South Dakota's law doesn't address phone privacy.",
+      "sources": [
+        {
+          "label": "SDCL ch. 32-35 (§§ 32-35-116, 32-35-119)",
+          "url": "https://sdlegislature.gov/api/Statutes/32-35.html?all=true"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "TN": {
+      "status": "insurance-only",
+      "summary": "Tennessee lets you show proof of insurance on your phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Showing your phone isn't consent for police to access other contents (T.C.A. § 55-12-139). If you can't show proof, officers check the state's insurance verification program.",
+      "detail": "Showing phone isn't consent to search",
+      "sources": [
+        {
+          "label": "T.C.A. § 55-12-139 (unofficial text)",
+          "url": "https://codes.findlaw.com/tn/title-55-motor-and-other-vehicles/tn-code-sect-55-12-139/"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "TX": {
+      "status": "insurance-only",
+      "summary": "Texas lets you show proof of insurance on your phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Showing your phone isn't consent to access anything but the insurance information (Tex. Transp. Code § 601.053). Officers must try to verify coverage through TexasSure before citing you.",
+      "detail": "Showing phone isn't consent to search",
+      "sources": [
+        {
+          "label": "Tex. Transp. Code § 601.053",
+          "url": "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.601.htm#601.053"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "UT": {
+      "status": "insurance-only",
+      "summary": "Utah lets you show insurance proof on a phone. Utah's mDL (GET Mobile ID) ends Jan. 1, 2027, and we found no official word that it replaces your physical license at a stop.",
+      "inPractice": "Officers may not view other content, and can't cite you if the state database shows you're insured (Utah Code § 41-12a-302). A 2026 law (SB 275) creates a replacement state digital ID.",
+      "detail": "mDL: GET Mobile ID (ends Jan. 1, 2027)",
+      "sources": [
+        {
+          "label": "Utah Code § 41-12a-302",
+          "url": "https://le.utah.gov/xcode/Title41/Chapter12A/41-12a-S302.html"
+        },
+        {
+          "label": "Utah Code § 53-3-217",
+          "url": "https://le.utah.gov/xcode/Title53/Chapter3/C53-3-S217_2015051220150512.html"
+        },
+        {
+          "label": "Utah DLD: Mobile driver license",
+          "url": "https://dld.utah.gov/utah-mdl/"
+        }
+      ],
+      "confidence": "low"
+    },
+    "VT": {
+      "status": "insurance-only",
+      "summary": "Vermont lets you show proof of insurance on your phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Using your phone isn't in itself consent to access other contents (23 V.S.A. § 800). You won't be convicted if you show proof valid at the time of the stop within 7 business days.",
+      "detail": "Showing phone isn't consent to search",
+      "sources": [
+        {
+          "label": "23 V.S.A. § 800",
+          "url": "https://legislature.vermont.gov/statutes/section/23/011/00800"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "VA": {
+      "status": "insurance-only",
+      "summary": "Virginia doesn't require you to carry an insurance card; coverage is checked in DMV records. DMV calls Virginia Mobile ID a valid license but says to keep your physical card as a backup.",
+      "inPractice": "You don't hand over your phone, and officers can't see other content (DMV FAQ). Not all agencies can read mobile IDs; if yours isn't accepted or won't load, you'll need the card.",
+      "detail": "mDL: Virginia Mobile ID (keep card as backup)",
+      "sources": [
+        {
+          "label": "Va. Code § 46.2-707",
+          "url": "https://law.lis.virginia.gov/vacode/title46.2/chapter7/section46.2-707/"
+        },
+        {
+          "label": "Virginia DMV: Insurance requirements",
+          "url": "https://www.dmv.virginia.gov/vehicles/insurance-requirements"
+        },
+        {
+          "label": "Virginia DMV: Mobile ID FAQ",
+          "url": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "WA": {
+      "status": "insurance-only",
+      "summary": "Washington lets you show your insurance card on your phone. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Officers may view only the proof of insurance, and you assume all liability for damage to your phone (RCW 46.30.020).",
+      "detail": "Officer may view only the insurance proof",
+      "sources": [
+        {
+          "label": "RCW 46.30.020",
+          "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.30.020"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WV": {
+      "status": "insurance-only",
+      "summary": "West Virginia lets you show insurance proof on a phone. WV Mobile ID is a valid ID, but neither state law nor the DMV says it replaces your physical license at a stop.",
+      "inPractice": "The insurance law (W. Va. Code § 17D-2A-4) has no phone-privacy clause. The license law (§ 17B-2-9) requires your license on you, so carry the physical card.",
+      "detail": "mDL: WV Mobile ID (app, wallets)",
+      "sources": [
+        {
+          "label": "W. Va. Code § 17D-2A-4",
+          "url": "https://code.wvlegislature.gov/17D-2A-4/"
+        },
+        {
+          "label": "W. Va. Code § 17B-2-9",
+          "url": "https://code.wvlegislature.gov/17B-2-9/"
+        },
+        {
+          "label": "WV DMV: Mobile ID",
+          "url": "https://dmv.wv.gov/west-virginia-mobile-id"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "WI": {
+      "status": "insurance-only",
+      "summary": "Wisconsin lets you show printed or electronic proof of insurance. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "Producing electronic proof isn't consent for the officer to view other content on your phone (Wis. Stat. § 344.62).",
+      "detail": "Showing phone isn't consent to search",
+      "sources": [
+        {
+          "label": "Wis. Stat. § 344.62",
+          "url": "https://docs.legis.wisconsin.gov/document/statutes/344.62"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WY": {
+      "status": "insurance-only",
+      "summary": "Wyoming lets you show an electronic insurance card if you and your insurer agree to it. There's no state mobile driver's license, so carry your physical license.",
+      "inPractice": "If you lack proof, you have 7 days to produce it, and officers can check the state's online verification system (W.S. § 31-4-103, § 31-8-201). No phone-privacy clause.",
+      "sources": [
+        {
+          "label": "Wyo. Stat. Title 31 (§§ 31-4-103, 31-8-201)",
+          "url": "https://wyoleg.gov/statutes/compress/title31.pdf"
+        },
+        {
+          "label": "TSA: states with digital IDs (list of participating states)",
+          "url": "https://www.tsa.gov/digital-id/participating-states"
+        }
+      ],
+      "confidence": "high"
+    }
+  }
+}

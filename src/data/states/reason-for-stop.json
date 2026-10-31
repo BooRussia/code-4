@@ -1,0 +1,778 @@
+{
+  "topic": "reason-for-stop",
+  "lastVerified": "2026-10-31",
+  "entries": {
+    "AL": {
+      "status": "not-required",
+      "summary": "No Alabama law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "AK": {
+      "status": "not-required",
+      "summary": "No Alaska law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "AZ": {
+      "status": "not-required",
+      "summary": "No Arizona law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law requires you to show your license when an officer asks (A.R.S. § 28-3169). Nothing requires the officer to explain the stop first, though any ticket or warning will list the violation.",
+      "sources": [
+        {
+          "label": "A.R.S. § 28-3169",
+          "url": "https://www.azleg.gov/ars/28/03169.htm"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "AR": {
+      "status": "not-required",
+      "summary": "No Arkansas law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "CA": {
+      "status": "required",
+      "summary": "Officers must tell you why they stopped you before asking questions about a traffic violation or crime (Veh. Code § 2806.5, since Jan. 1, 2024). You still must show license, registration and insurance when asked.",
+      "inPractice": "The only exception is when an officer reasonably believes holding back the reason is needed to protect life or property from an imminent threat. The reason must also be written on any ticket or report. Pedestrian stops count too.",
+      "detail": "Reason before questioning; in effect Jan. 1, 2024",
+      "sources": [
+        {
+          "label": "Cal. Veh. Code § 2806.5 (official text)",
+          "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=2806.5"
+        },
+        {
+          "label": "Cal. Veh. Code § 2806.5 (FindLaw)",
+          "url": "https://codes.findlaw.com/ca/vehicle-code/veh-sect-2806-5/"
+        },
+        {
+          "label": "KQED: AB 2773 explained",
+          "url": "https://www.kqed.org/news/11974283/police-can-no-longer-ask-do-you-know-why-i-pulled-you-over-in-california-heres-why"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CO": {
+      "status": "partial",
+      "summary": "Colorado law doesn't require it, but State Patrol policy tells troopers to give the reason for the stop when they ask for your documents. You still must show license, registration and insurance when asked.",
+      "inPractice": "A 2025 bill (HB25-1243) to require all officers to state the reason was rejected in committee. State law does require officers to hand a business card to drivers stopped but not ticketed or arrested.",
+      "detail": "State Patrol policy only; 2025 bill failed",
+      "sources": [
+        {
+          "label": "Colo. State Patrol Policy 4.01.0104",
+          "url": "https://public.powerdms.com/COSP/documents/346"
+        },
+        {
+          "label": "HB25-1243 (postponed indefinitely)",
+          "url": "https://leg.colorado.gov/bills/HB25-1243"
+        },
+        {
+          "label": "C.R.S. § 24-31-309",
+          "url": "https://colorado.public.law/statutes/crs_24-31-309"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "CT": {
+      "status": "partial",
+      "summary": "Officers must tell you out loud why you were stopped, but only before the stop ends, not necessarily at the start (Conn. Gen. Stat. § 7-294oo, since June 2023). You still must show license, registration and insurance when asked.",
+      "inPractice": "The one-sentence law sets no penalty for officers who don't comply. Lawmakers who backed it described it as writing common courtesy into law.",
+      "detail": "Reason required before the stop ends",
+      "sources": [
+        {
+          "label": "Conn. Gen. Stat. § 7-294oo",
+          "url": "https://www.cga.ct.gov/current/pub/chap_104.htm#sec_7-294oo"
+        },
+        {
+          "label": "CT Mirror (June 2023)",
+          "url": "https://ctmirror.org/2023/06/05/ct-police-officer-traffic-stop-pull-over-driving/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "DE": {
+      "status": "not-required",
+      "summary": "No Delaware law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "A pending bill (HB 196) would only have officers record the main reason for each stop in a state database; it wouldn't require telling you. It was last listed as out of committee (June 2025).",
+      "sources": [
+        {
+          "label": "HB 196 (153rd General Assembly)",
+          "url": "https://www.legis.delaware.gov/BillDetail/142414"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "DC": {
+      "status": "not-required",
+      "summary": "No D.C. law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "MPD academy training (2023) teaches officers to identify themselves and state the reason before asking for documents, but that's training guidance, not a binding law.",
+      "sources": [
+        {
+          "label": "MPD Academy 12.3, Traffic Stops",
+          "url": "https://mpdc.dc.gov/sites/default/files/dc/sites/mpdc/publication/attachments/12.3%20Traffic%20Stops.pdf"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "FL": {
+      "status": "partial",
+      "summary": "No Florida statute requires it, but Florida Highway Patrol policy says troopers will tell the driver the reason for the stop, a step listed before collecting documents. You still must show license, registration and insurance.",
+      "inPractice": "This is FHP internal policy (17.21, revised 2023) and covers state troopers only. Florida law separately requires you to carry your license and show it when an officer demands it (Fla. Stat. § 322.15).",
+      "detail": "Highway Patrol policy only",
+      "sources": [
+        {
+          "label": "FHP Policy 17.21, Traffic Stops",
+          "url": "https://www.flhsmv.gov/pdf/fhp/policies/1721.pdf"
+        },
+        {
+          "label": "Fla. Stat. § 322.15",
+          "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/Sections/0322.15.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "GA": {
+      "status": "partial",
+      "summary": "No Georgia statute requires it, but Department of Public Safety policy tells state troopers to politely give the reason for the stop before asking for your license. You still must show license, registration and insurance.",
+      "inPractice": "This is internal policy (DPS Policy 11.03, revised 2018) for state troopers only; local police and sheriffs set their own rules. Federal law sets no duty to explain the reason first.",
+      "detail": "State Patrol (DPS) policy only",
+      "sources": [
+        {
+          "label": "Ga. DPS Policy 11.03, Traffic Stops",
+          "url": "https://dps.georgia.gov/document/document/1103-traffic-stops/download"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "HI": {
+      "status": "not-required",
+      "summary": "No Hawaii law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "Hawaii has no state police; county departments set policy. Honolulu police policy says officers should greet you, identify themselves and give the reason before asking for documents, but that isn't state law.",
+      "sources": [
+        {
+          "label": "Honolulu PD Policy 4.62, Traffic Stops",
+          "url": "https://www.honolulupd.org/wp-content/uploads/2020/01/TrafficStops-07-14-2017-16-22-34.pdf"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "ID": {
+      "status": "not-required",
+      "summary": "No Idaho law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law requires you to show your license when an officer asks (Idaho Code § 49-316). Nothing requires the officer to explain the stop first, though any ticket or warning will list the violation.",
+      "sources": [
+        {
+          "label": "Idaho Code § 49-316",
+          "url": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch3/sect49-316/"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "IL": {
+      "status": "not-required",
+      "summary": "No Illinois law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law requires you to show your license when an officer asks (625 ILCS 5/6-112). Nothing requires the officer to explain the stop first, though any ticket or warning will list the violation.",
+      "sources": [
+        {
+          "label": "625 ILCS 5/6-112",
+          "url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/062500050K6-112.htm"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "IN": {
+      "status": "not-required",
+      "summary": "No Indiana law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "An Indiana defense firm notes officers don't have to explain right away; the justification shows up later on the ticket or report. You can calmly ask why you were stopped.",
+      "sources": [
+        {
+          "label": "Marc Lopez Law: Indiana stops",
+          "url": "https://marclopezlaw.com/do-the-indiana-police-have-to-tell-me-why-they-stopped-me/"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "IA": {
+      "status": "not-required",
+      "summary": "No Iowa law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "KS": {
+      "status": "not-required",
+      "summary": "No Kansas law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law requires you to show your license when an officer asks (K.S.A. § 8-244). Nothing requires the officer to explain the stop first, though any ticket or warning will list the violation.",
+      "sources": [
+        {
+          "label": "K.S.A. § 8-244",
+          "url": "https://www.ksrevisor.gov/statutes/chapters/ch08/008_002_0044.html"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "KY": {
+      "status": "not-required",
+      "summary": "No Kentucky law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "LA": {
+      "status": "not-required",
+      "summary": "No Louisiana law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "ME": {
+      "status": "not-required",
+      "summary": "No Maine law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MD": {
+      "status": "required",
+      "summary": "At the start of a stop, unless there's an emergency, officers must show ID, give their name, ID number and agency, and tell you the reason for the stop (Crim. Proc. § 2-109). You still must show license, registration and insurance.",
+      "inPractice": "An officer who skips this can face discipline, but evidence can't be thrown out for that reason. A 2026 bill (HB 81) that would have allowed evidence to be excluded got a hearing but did not pass.",
+      "detail": "Reason at start of stop, absent exigent circumstances",
+      "sources": [
+        {
+          "label": "Md. Code, Crim. Proc. § 2-109",
+          "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcp&section=2-109&enactments=false"
+        },
+        {
+          "label": "HB 81 (2026) fiscal note",
+          "url": "https://mgaleg.maryland.gov/2026RS/fnotes/bil_0001/hb0081.pdf"
+        },
+        {
+          "label": "HB 81 (2026) bill status",
+          "url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0081?ys=2026RS"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MA": {
+      "status": "not-required",
+      "summary": "No Massachusetts law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law makes it an offense to refuse to show your license or registration when an officer demands it (G.L. c. 90, § 25). It doesn't require the officer to explain the stop first.",
+      "sources": [
+        {
+          "label": "Mass. G.L. c. 90, § 25",
+          "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90/Section25"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MI": {
+      "status": "not-required",
+      "summary": "No Michigan law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law requires you to show your license when an officer asks (MCL 257.311). Nothing requires the officer to explain the stop first, though any ticket or warning will list the violation.",
+      "sources": [
+        {
+          "label": "MCL 257.311",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-257-311"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MN": {
+      "status": "required",
+      "summary": "On traffic stops, officers can't ask whether you know why you were pulled over; they must tell you the reason unless that would be unreasonable in the circumstances (Minn. Stat. § 169.905). You still must show your license when asked.",
+      "inPractice": "The 2024 law doesn't name an exact moment, but it replaces the classic opening question. It covers stops for traffic or registration violations, and a violation can't get evidence excluded or a ticket dismissed.",
+      "detail": "No \"do you know why\" question; enacted 2024",
+      "sources": [
+        {
+          "label": "Minn. Stat. § 169.905",
+          "url": "https://www.revisor.mn.gov/statutes/cite/169.905"
+        },
+        {
+          "label": "MinnPost (June 2024)",
+          "url": "https://www.minnpost.com/public-safety/2024/06/minnesota-police-cannot-ask-why-a-driver-thinks-theyve-been-pulled-over-pretextual-stops/"
+        },
+        {
+          "label": "Minn. Stat. § 171.08 (show license on demand)",
+          "url": "https://www.revisor.mn.gov/statutes/cite/171.08"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MS": {
+      "status": "not-required",
+      "summary": "No Mississippi law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MO": {
+      "status": "not-required",
+      "summary": "No Missouri law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law requires you to show your license when an officer asks (RSMo § 302.181). Nothing requires the officer to explain the stop first, though any ticket or warning will list the violation.",
+      "sources": [
+        {
+          "label": "RSMo § 302.181",
+          "url": "https://revisor.mo.gov/main/OneSection.aspx?section=302.181"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MT": {
+      "status": "not-required",
+      "summary": "No Montana law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law requires you to show your license when an officer asks (MCA § 61-5-116). Nothing requires the officer to explain the stop first, though any ticket or warning will list the violation.",
+      "sources": [
+        {
+          "label": "MCA § 61-5-116",
+          "url": "https://mca.legmt.gov/bills/mca/title_0610/chapter_0050/part_0010/section_0160/0610-0050-0010-0160.html"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NE": {
+      "status": "not-required",
+      "summary": "No Nebraska law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NV": {
+      "status": "not-required",
+      "summary": "No Nevada law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law requires you to show your license when an officer asks (NRS 483.350). Nothing requires the officer to explain the stop first, though any ticket or warning will list the violation.",
+      "sources": [
+        {
+          "label": "NRS 483.350",
+          "url": "https://www.leg.state.nv.us/NRS/NRS-483.html"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NH": {
+      "status": "not-required",
+      "summary": "No New Hampshire law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law requires you to show your license when an officer asks (RSA 263:2). Nothing requires the officer to explain the stop first, though any ticket or warning will list the violation.",
+      "sources": [
+        {
+          "label": "RSA 263:2",
+          "url": "https://gc.nh.gov/rsa/html/XXI/263/263-2.htm"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NJ": {
+      "status": "not-required",
+      "summary": "No New Jersey law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NM": {
+      "status": "not-required",
+      "summary": "No New Mexico law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NY": {
+      "status": "not-required",
+      "summary": "No New York law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "New York City law doesn't require officers to give a reason for traffic stops, per the NYCLU, and no statewide rule was found. Any ticket will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "NY Daily News via Yahoo (Jan. 2024)",
+          "url": "https://au.news.yahoo.com/nypd-cops-pull-over-yusef-223600518.html"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NC": {
+      "status": "not-required",
+      "summary": "No North Carolina law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law requires you to show your license when an officer asks (G.S. § 20-29). Nothing requires the officer to explain the stop first, though any ticket or warning will list the violation.",
+      "sources": [
+        {
+          "label": "G.S. § 20-29",
+          "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_20/GS_20-29.html"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "ND": {
+      "status": "not-required",
+      "summary": "No North Dakota law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law requires you to show your license when an officer asks (N.D.C.C. § 39-06-16). Nothing requires the officer to explain the stop first, though any ticket or warning will list the violation.",
+      "sources": [
+        {
+          "label": "N.D.C.C. § 39-06-16",
+          "url": "https://ndlegis.gov/cencode/t39c06.pdf"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "OH": {
+      "status": "not-required",
+      "summary": "No Ohio law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law requires you to show your license when an officer asks (R.C. 4507.35). Nothing requires the officer to explain the stop first, though any ticket or warning will list the violation.",
+      "sources": [
+        {
+          "label": "R.C. 4507.35",
+          "url": "https://codes.ohio.gov/ohio-revised-code/section-4507.35"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "OK": {
+      "status": "not-required",
+      "summary": "No Oklahoma law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "OR": {
+      "status": "not-required",
+      "summary": "No Oregon law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "A 2019 bill (HB 3225) to require officers to tell you the reason and your right to refuse a search never left committee. Oregon law requires you to present your license to police when asked (ORS 807.570).",
+      "sources": [
+        {
+          "label": "HB 3225 (2019)",
+          "url": "https://olis.oregonlegislature.gov/liz/2019R1/Measures/Overview/HB3225"
+        },
+        {
+          "label": "ORS chapter 807 (§ 807.570)",
+          "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors807.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "PA": {
+      "status": "not-required",
+      "summary": "No Pennsylvania law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "RI": {
+      "status": "partial",
+      "summary": "State law says officers must tell any stopped driver the reason for the stop, but it doesn't say when, so it may not come first (R.I. Gen. Laws § 31-21.2-5(h)). You still must show license, registration and insurance when asked.",
+      "inPractice": "If you're stopped only for a traffic violation, officers generally can't demand ID or papers beyond license, registration and insurance unless they suspect a crime. A 2024 bill (H 7310) to require the reason first did not pass.",
+      "detail": "Reason required; timing not specified",
+      "sources": [
+        {
+          "label": "R.I. Gen. Laws § 31-21.2-5",
+          "url": "https://webserver.rilegislature.gov/Statutes/TITLE31/31-21.2/31-21.2-5.htm"
+        },
+        {
+          "label": "2024 H 7310 (bill text)",
+          "url": "https://webserver.rilegislature.gov/BillText24/HouseText24/H7310.htm"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "SC": {
+      "status": "not-required",
+      "summary": "No South Carolina law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law requires you to show your license when an officer asks (S.C. Code § 56-1-190). Nothing requires the officer to explain the stop first, though any ticket or warning will list the violation.",
+      "sources": [
+        {
+          "label": "S.C. Code § 56-1-190",
+          "url": "https://www.scstatehouse.gov/code/t56c001.php"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "SD": {
+      "status": "not-required",
+      "summary": "No South Dakota law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "TN": {
+      "status": "not-required",
+      "summary": "No Tennessee law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "TX": {
+      "status": "not-required",
+      "summary": "No Texas law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "UT": {
+      "status": "not-required",
+      "summary": "No Utah law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "VT": {
+      "status": "not-required",
+      "summary": "No Vermont law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law requires you to carry your license while driving (23 V.S.A. § 611). Nothing requires the officer to explain the stop first, though any ticket or warning will list the violation.",
+      "sources": [
+        {
+          "label": "23 V.S.A. § 611",
+          "url": "https://legislature.vermont.gov/statutes/section/23/009/00611"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "VA": {
+      "status": "not-required",
+      "summary": "No Virginia law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "A 2022 Senate bill to require the reason before asking for documents didn't become law; state law requires you to show license and registration on request. Some departments, like Richmond police, require officers to explain first.",
+      "sources": [
+        {
+          "label": "Va. Code § 46.2-104",
+          "url": "https://law.lis.virginia.gov/vacode/title46.2/chapter1/section46.2-104/"
+        },
+        {
+          "label": "Virginia Mercury (Jan. 2022)",
+          "url": "https://virginiamercury.com/2022/01/27/va-senate-votes-to-require-police-to-tell-drivers-why-they-were-pulled-over/"
+        },
+        {
+          "label": "Richmond PD General Order 06-03",
+          "url": "https://rva.gov/sites/default/files/2024-11/06-03%20Stopping%20Motorist%2011-12-2024_Redacted.pdf"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "WA": {
+      "status": "not-required",
+      "summary": "No Washington law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "A bill to make officers state the reason right at first contact (HB 1512) stalled in committee in 2025–26. State law requires you to show your license when an officer asks (RCW 46.20.017).",
+      "sources": [
+        {
+          "label": "HB 1512 (2025-26) bill summary",
+          "url": "https://app.leg.wa.gov/billsummary?BillNumber=1512&Year=2025"
+        },
+        {
+          "label": "HB 1512 House bill report",
+          "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Htm/Bill%20Reports/House/1512%20HBA%20CS%2025.htm"
+        },
+        {
+          "label": "RCW 46.20.017",
+          "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.20.017"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "WV": {
+      "status": "not-required",
+      "summary": "No West Virginia law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "State law requires you to show your license when an officer asks (W. Va. Code § 17B-2-9). Nothing requires the officer to explain the stop first, though any ticket or warning will list the violation.",
+      "sources": [
+        {
+          "label": "W. Va. Code § 17B-2-9",
+          "url": "https://code.wvlegislature.gov/17B-2-9/"
+        },
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "WI": {
+      "status": "not-required",
+      "summary": "No Wisconsin law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "WY": {
+      "status": "not-required",
+      "summary": "No Wyoming law requires an officer to tell you why you were stopped before asking questions or for documents. You still must show your license, registration and proof of insurance when asked.",
+      "inPractice": "The U.S. Supreme Court has called explaining the reason good police practice but not a constitutional requirement (Devenpeck v. Alford, 2004). Any ticket or warning will list the violation, and you can calmly ask why.",
+      "sources": [
+        {
+          "label": "Devenpeck v. Alford, 543 U.S. 146 (2004)",
+          "url": "https://www.law.cornell.edu/supct/html/03-710.ZO.html"
+        }
+      ],
+      "confidence": "medium"
+    }
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "topic": "passenger-id",
+  "lastVerified": "2026-10-31",
+  "entries": {
+    "AL": {
+      "status": "stop-and-identify",
+      "summary": "If police reasonably suspect you of a crime, they may demand your name, address and an explanation (Ala. Code § 15-5-30). A passenger is covered only if the officer suspects that passenger, not just because the car was stopped.",
+      "inPractice": "In Jennings v. Smith (March 2026), Alabama's Supreme Court said not giving enough ID during a lawful stop can lead to an obstruction arrest, and officers may ask for physical ID. A false name is a crime (§ 13A-9-18.1).",
+      "detail": "Alabama Supreme Court confirmed the duty in 2026",
+      "sources": [
+        { "label": "Jennings v. Smith, No. SC-2025-0372 (Ala. 2026)", "url": "https://caselaw.findlaw.com/court/al-supreme-court/118219103.html" },
+        { "label": "WBRC: Alabama Supreme Court says police may demand ID (Mar. 2026)", "url": "https://www.wbrc.com/2026/03/14/alabama-supreme-court-says-police-may-demand-id-during-investigative-stops" }
+      ],
+      "confidence": "high"
+    },
+    "AK": {
+      "status": "no-duty",
+      "summary": "Alaska has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Giving an officer false information about your identity while you're arrested, detained, investigated for a crime, or being cited is a class A misdemeanor (AS 11.56.800).",
+      "detail": "False identity to police: class A misdemeanor",
+      "sources": [
+        { "label": "AS 11.56.800 (FindLaw)", "url": "https://codes.findlaw.com/ak/title-11-criminal-law/ak-st-sect-11-56-800/" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "high"
+    },
+    "AZ": {
+      "status": "stop-and-identify",
+      "summary": "If an officer lawfully detains you on reasonable suspicion of a crime and warns you that refusing is unlawful, you must give your true full name (A.R.S. § 13-2412). Passengers are covered only if the officer suspects that passenger.",
+      "inPractice": "You don't have to answer other questions. Refusing is a class 2 misdemeanor. Arizona v. Johnson (2009), an Arizona case, lets officers frisk a passenger they reasonably believe is armed and dangerous.",
+      "detail": "True full name only; class 2 misdemeanor",
+      "sources": [
+        { "label": "A.R.S. § 13-2412", "url": "https://www.azleg.gov/ars/13/02412.htm" },
+        { "label": "Arizona v. Johnson, 555 U.S. 323 (2009)", "url": "https://en.wikipedia.org/wiki/Arizona_v._Johnson" }
+      ],
+      "confidence": "high"
+    },
+    "AR": {
+      "status": "limited",
+      "summary": "Arkansas has no general stop-and-identify law. Refusing to identify matters under its loitering law, which covers lingering in public in alarming circumstances. A passenger who isn't suspected of anything may politely decline.",
+      "inPractice": "Under Ark. Code § 5-71-213, refusal is one factor in a loitering arrest, and officers must usually let you identify yourself and explain first. We found no Arkansas ruling on passenger ID requests.",
+      "detail": "Loitering law only",
+      "sources": [
+        { "label": "Ark. Code § 5-71-213 (FindLaw)", "url": "https://codes.findlaw.com/ar/title-5-criminal-offenses/ar-code-sect-5-71-213/" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "medium"
+    },
+    "CA": {
+      "status": "no-duty",
+      "summary": "California has no stop-and-identify law, so a passenger who isn't suspected of anything doesn't have to give a name or ID. Officers may still ask. The U.S. Supreme Court struck down California's loitering-ID law in 1983.",
+      "inPractice": "Giving a false name during a lawful detention or arrest is a misdemeanor (Penal Code § 148.9). Appeals courts have allowed officers to ask passengers for ID during a lawful stop (People v. Vibanco, 2007).",
+      "detail": "False name to police: misdemeanor (PC 148.9)",
+      "sources": [
+        { "label": "Cal. Penal Code § 148.9 (FindLaw)", "url": "https://codes.findlaw.com/ca/penal-code/pen-sect-148-9/" },
+        { "label": "Kolender v. Lawson, 461 U.S. 352 (1983)", "url": "https://en.wikipedia.org/wiki/Kolender_v._Lawson" },
+        { "label": "The Civil Rights Lawyer: Can Passengers Refuse to ID? (2023)", "url": "https://thecivilrightslawyer.com/2023/11/28/whys-he-running-can-passengers-refuse-to-id/" }
+      ],
+      "confidence": "high"
+    },
+    "CO": {
+      "status": "limited",
+      "summary": "If police reasonably suspect you of a crime, they may require your name, address, ID if available and an explanation (C.R.S. § 16-3-103). The statute has no penalty of its own, and a passenger who isn't suspected isn't covered.",
+      "inPractice": "In Dempsey v. People (2005), Colorado's Supreme Court let a refusal to give ID count toward an obstruction charge along with other conduct. An appeals court has allowed officers to ask passengers for ID (People v. Bowles, 2009).",
+      "detail": "Refusal can feed an obstruction charge",
+      "sources": [
+        { "label": "Dempsey v. People, No. 04SC362 (Colo. 2005)", "url": "https://www.coloradojudicial.gov/sites/default/files/2024-05/04SC362.pdf" },
+        { "label": "The Civil Rights Lawyer: Can Passengers Refuse to ID? (2023)", "url": "https://thecivilrightslawyer.com/2023/11/28/whys-he-running-can-passengers-refuse-to-id/" }
+      ],
+      "confidence": "medium"
+    },
+    "CT": {
+      "status": "limited",
+      "summary": "Connecticut has no stop-and-identify statute, and a passenger who isn't suspected of anything may politely decline to give a name. Its broad interfering-with-an-officer law (§ 53a-167a) may apply if you're detained as a suspect.",
+      "inPractice": "Unconfirmed: Connecticut's Supreme Court is reported to have held (State v. Aloi, 2007) that refusing ID during a lawful investigative stop can be interfering. We couldn't check the opinion text for this page.",
+      "sources": [
+        { "label": "Conn. Gen. Stat. § 53a-167a (FindLaw)", "url": "https://codes.findlaw.com/ct/title-53a-penal-code/ct-gen-st-sect-53a-167a/" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "low"
+    },
+    "DE": {
+      "status": "limited",
+      "summary": "Police who reasonably suspect you of a crime may demand your name, address, business and destination (11 Del. C. § 1902). Refusing isn't a crime, but you may be held and questioned up to 2 hours. Unsuspected passengers aren't covered.",
+      "inPractice": "Delaware's Supreme Court has allowed officers to ask passengers about their identity during a lawful traffic stop (Loper v. State, 2010). A § 1902 detention isn't recorded as an arrest.",
+      "detail": "Refusal can mean up to 2 hours' detention",
+      "sources": [
+        { "label": "11 Del. C. § 1902", "url": "https://delcode.delaware.gov/title11/c019/sc01/index.html" },
+        { "label": "The Civil Rights Lawyer: Can Passengers Refuse to ID? (2023)", "url": "https://thecivilrightslawyer.com/2023/11/28/whys-he-running-can-passengers-refuse-to-id/" }
+      ],
+      "confidence": "high"
+    },
+    "DC": {
+      "status": "no-duty",
+      "summary": "D.C. has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Under Brendlin v. California (2007), passengers are 'seized' during a traffic stop and can challenge an unlawful stop. We found no D.C. statute requiring passengers to identify themselves.",
+      "sources": [
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" },
+        { "label": "Brendlin v. California, 551 U.S. 249 (2007)", "url": "https://en.wikipedia.org/wiki/Brendlin_v._California" }
+      ],
+      "confidence": "medium"
+    },
+    "FL": {
+      "status": "limited",
+      "summary": "Florida has no general duty to identify. Officers who reasonably suspect a crime may briefly detain you to learn who you are (§ 901.151), and refusal is a factor under the loitering law (§ 856.021). Unsuspected passengers aren't covered.",
+      "inPractice": "Giving a false name when arrested or lawfully detained is a crime (§ 901.36). In Johnson v. Nocco (2023), a federal appeals court split over a Florida passenger arrested for refusing ID; deputies got immunity.",
+      "detail": "False name when detained: 1st-degree misdemeanor",
+      "sources": [
+        { "label": "Fla. Stat. § 901.151", "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0900-0999/0901/Sections/0901.151.html" },
+        { "label": "Fla. Stat. § 856.021", "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0856/Sections/0856.021.html" },
+        { "label": "Fla. Stat. § 901.36", "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0900-0999/0901/Sections/0901.36.html" },
+        { "label": "Lexipol: Johnson v. Nocco (11th Cir. 2023)", "url": "https://www.lexipol.com/resources/blog/requiring-passenger-to-provide-identification-was-lawful/" }
+      ],
+      "confidence": "medium"
+    },
+    "GA": {
+      "status": "limited",
+      "summary": "Georgia has no general stop-and-identify law. Refusing to identify matters under its loitering law (O.C.G.A. § 16-11-36), where it's one factor. A passenger who isn't suspected of anything may politely decline.",
+      "inPractice": "Giving an officer a false name, address or birth date to mislead them is a misdemeanor (§ 16-10-25). Georgia courts have allowed officers to ask passengers for ID during lawful stops (State v. Williams, 2003).",
+      "detail": "Loitering law only",
+      "sources": [
+        { "label": "O.C.G.A. § 16-11-36 (FindLaw)", "url": "https://codes.findlaw.com/ga/title-16-crimes-and-offenses/ga-code-sect-16-11-36/" },
+        { "label": "O.C.G.A. § 16-10-25 (FindLaw)", "url": "https://codes.findlaw.com/ga/title-16-crimes-and-offenses/ga-code-sect-16-10-25/" },
+        { "label": "The Civil Rights Lawyer: Can Passengers Refuse to ID? (2023)", "url": "https://thecivilrightslawyer.com/2023/11/28/whys-he-running-can-passengers-refuse-to-id/" }
+      ],
+      "confidence": "medium"
+    },
+    "HI": {
+      "status": "no-duty",
+      "summary": "Hawaii has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Hawaii's obstruction law (HRS § 710-1010) requires using or threatening force, physical interference or an obstacle. We found no Hawaii statute or ruling requiring passengers to identify themselves.",
+      "sources": [
+        { "label": "HRS § 710-1010 (FindLaw)", "url": "https://codes.findlaw.com/hi/division-5-crimes-and-criminal-proceedings/hi-rev-st-sect-710-1010/" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "medium"
+    },
+    "ID": {
+      "status": "no-duty",
+      "summary": "Idaho has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Idaho Code § 18-705 punishes willfully delaying or obstructing an officer and knowingly giving a false report to an officer. We found no Idaho ruling specific to passenger ID requests.",
+      "sources": [
+        { "label": "Idaho Code § 18-705", "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH7/SECT18-705/" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "medium"
+    },
+    "IL": {
+      "status": "limited",
+      "summary": "Police who reasonably suspect you of a crime may demand your name, address and an explanation (725 ILCS 5/107-14), but no law makes refusing a crime. A passenger who isn't suspected isn't covered.",
+      "inPractice": "People v. Fernandez (2011) held that merely refusing to give your name isn't obstruction. Illinois' Supreme Court has allowed officers to ID and check passengers during lawful stops (People v. Harris, 2008).",
+      "detail": "False name to police is a crime (720 ILCS 5/31-4.5)",
+      "sources": [
+        { "label": "People v. Fernandez, 2011 IL App (2d) 100473", "url": "https://www.illinoiscourts.gov/files/2100473.pdf/opinion" },
+        { "label": "The Civil Rights Lawyer: Can Passengers Refuse to ID? (2023)", "url": "https://thecivilrightslawyer.com/2023/11/28/whys-he-running-can-passengers-refuse-to-id/" }
+      ],
+      "confidence": "high"
+    },
+    "IN": {
+      "status": "stop-and-identify",
+      "summary": "If an officer stops you for an infraction or ordinance violation, refusing to give your name, address and birth date (or license, if you have it) is a misdemeanor (IC 34-28-5-3.5). Passengers are covered only if suspected themselves.",
+      "inPractice": "In Starr v. State (2010), Indiana's Court of Appeals reversed a passenger's conviction because officers had no reasonable suspicion he committed an infraction. Officers may still ask passengers for ID (Cade v. State, 2007).",
+      "detail": "Applies to infraction and ordinance stops",
+      "sources": [
+        { "label": "Indiana Courts: Starr v. State (Ind. Ct. App. 2010)", "url": "https://caseclips.courts.in.gov/2010/06/29/starr-v-state" },
+        { "label": "Indiana Lawyer: refusal-to-identify law and passengers", "url": "https://theindianalawyer.com/?p=113103" }
+      ],
+      "confidence": "high"
+    },
+    "IA": {
+      "status": "no-duty",
+      "summary": "Iowa has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Iowa's Supreme Court has allowed officers to ask passengers for ID during a lawful stop (State v. Smith, 2004). Knowingly resisting or obstructing an officer is a separate offense (Iowa Code § 719.1).",
+      "sources": [
+        { "label": "Iowa Code § 719.1", "url": "https://www.legis.iowa.gov/docs/code/719.1.pdf" },
+        { "label": "The Civil Rights Lawyer: Can Passengers Refuse to ID? (2023)", "url": "https://thecivilrightslawyer.com/2023/11/28/whys-he-running-can-passengers-refuse-to-id/" }
+      ],
+      "confidence": "medium"
+    },
+    "KS": {
+      "status": "limited",
+      "summary": "Police who reasonably suspect you of a crime may demand your name, address and an explanation (K.S.A. 22-2402), but the statute sets no penalty for refusing. A passenger who isn't suspected isn't covered.",
+      "inPractice": "In State v. Griffith (2020, unpublished), a Kansas appeals court upheld suppression where a passenger's ID and warrant check extended a traffic stop without reasonable suspicion.",
+      "sources": [
+        { "label": "K.S.A. 22-2402", "url": "https://www.ksrevisor.gov/statutes/chapters/ch22/022_024_0002.html" },
+        { "label": "State v. Griffith (Kan. Ct. App. 2020, unpublished)", "url": "https://16jd.kscourts.gov/Cases-Decisions/Decisions/Unpublished/State-v-Griffith" }
+      ],
+      "confidence": "medium"
+    },
+    "KY": {
+      "status": "no-duty",
+      "summary": "Kentucky has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Giving an officer a false name, address or birth date is a Class B misdemeanor if the officer first warns you that it's a crime (KRS 523.110).",
+      "detail": "False ID after a warning: Class B misdemeanor",
+      "sources": [
+        { "label": "KRS 523.110 (FindLaw)", "url": "https://codes.findlaw.com/ky/title-l-kentucky-penal-code/ky-rev-st-sect-523-110/" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "high"
+    },
+    "LA": {
+      "status": "stop-and-identify",
+      "summary": "If police reasonably suspect you of an offense, they may demand your name, address and an explanation (La. C.Cr.P. art. 215.1). A passenger is covered only if the officer suspects that passenger, not just because the car was stopped.",
+      "inPractice": "A detained person who refuses to give their name, or gives a false identity, can be charged with resisting an officer (R.S. 14:108), punishable by up to 6 months and $500. Louisiana courts allow asking passengers for ID.",
+      "detail": "Refusal when detained: up to 6 months in jail",
+      "sources": [
+        { "label": "La. R.S. 14:108", "url": "https://legis.la.gov/legis/Law.aspx?d=78264" },
+        { "label": "The Civil Rights Lawyer: Can Passengers Refuse to ID? (2023)", "url": "https://thecivilrightslawyer.com/2023/11/28/whys-he-running-can-passengers-refuse-to-id/" }
+      ],
+      "confidence": "high"
+    },
+    "ME": {
+      "status": "limited",
+      "summary": "Maine has no general stop-and-identify law. But if an officer has probable cause that you committed a crime or broke a motor-vehicle law, refusing to give your correct name, address and birth date is a Class E crime.",
+      "inPractice": "This reaches a passenger only if the officer has probable cause about that passenger (29-A M.R.S. § 105; 17-A M.R.S. § 15-A, which requires a warning first). A passenger who isn't suspected may politely decline.",
+      "detail": "Requires probable cause, not just suspicion",
+      "sources": [
+        { "label": "29-A M.R.S. § 105", "url": "https://legislature.maine.gov/statutes/29-A/title29-Asec105.html" },
+        { "label": "17-A M.R.S. § 15-A", "url": "https://legislature.maine.gov/statutes/17-A/title17-Asec15-A.html" }
+      ],
+      "confidence": "high"
+    },
+    "MD": {
+      "status": "no-duty",
+      "summary": "Maryland has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "If you're arrested, knowingly giving police a false name, address or birth date is a misdemeanor punishable by up to 6 months and $500 (Md. Code, Crim. Law § 9-502).",
+      "sources": [
+        { "label": "Md. Code, Crim. Law § 9-502", "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcr&section=9-502&enactments=false" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "high"
+    },
+    "MA": {
+      "status": "no-duty",
+      "summary": "Massachusetts has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "In Commonwealth v. Alvarez (1998), an appeals court found that asking a passenger for ID as routine practice, with no basis for suspicion, violated the state constitution. False ID after arrest is a crime (c. 268 § 34A).",
+      "sources": [
+        { "label": "M.G.L. c. 268 § 34A", "url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter268/Section34A" },
+        { "label": "The Civil Rights Lawyer: Can Passengers Refuse to ID? (2023)", "url": "https://thecivilrightslawyer.com/2023/11/28/whys-he-running-can-passengers-refuse-to-id/" }
+      ],
+      "confidence": "high"
+    },
+    "MI": {
+      "status": "no-duty",
+      "summary": "Michigan has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Once an officer tells you they're investigating a crime, knowingly making a false or misleading statement to them is a crime (MCL 750.479c). We found no Michigan ruling specific to passenger ID requests.",
+      "sources": [
+        { "label": "MCL 750.479c", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-750-479c" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "medium"
+    },
+    "MN": {
+      "status": "no-duty",
+      "summary": "Minnesota has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Giving a fictitious name or false birth date to an officer during a lawful stop or arrest is a crime (Minn. Stat. § 609.506). An appeals court has limited suspicionless passenger ID requests (State v. Johnson, 2002).",
+      "sources": [
+        { "label": "Minn. Stat. § 609.506", "url": "https://www.revisor.mn.gov/statutes/cite/609.506" },
+        { "label": "The Civil Rights Lawyer: Can Passengers Refuse to ID? (2023)", "url": "https://thecivilrightslawyer.com/2023/11/28/whys-he-running-can-passengers-refuse-to-id/" }
+      ],
+      "confidence": "high"
+    },
+    "MS": {
+      "status": "no-duty",
+      "summary": "Mississippi has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Knowingly giving an officer a false identity to mislead them is a misdemeanor punishable by up to a year in jail and a $5,000 fine (Miss. Code § 97-9-79). We found no Mississippi passenger-ID ruling.",
+      "sources": [
+        { "label": "Miss. Code § 97-9-79 (FindLaw)", "url": "https://codes.findlaw.com/ms/title-97-crimes/ms-code-sect-97-9-79/" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "medium"
+    },
+    "MO": {
+      "status": "limited",
+      "summary": "Missouri's stop-and-demand law (RSMo 84.710) covers only Kansas City police: officers who reasonably suspect a crime may demand your name, address, business and destination. Elsewhere there's no general duty to identify.",
+      "inPractice": "The statute sets no separate penalty for refusing, and it doesn't reach a passenger who isn't suspected. We found no Missouri ruling on passenger ID requests.",
+      "detail": "Kansas City only",
+      "sources": [
+        { "label": "RSMo 84.710", "url": "https://revisor.mo.gov/main/OneSection.aspx?section=84.710" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "medium"
+    },
+    "MT": {
+      "status": "limited",
+      "summary": "After a lawful stop based on particularized suspicion, an officer may ask your name, address and an explanation (MCA 46-5-401), but the law sets no penalty for refusing. Drivers must show license, registration and insurance.",
+      "inPractice": "The statute only lets officers 'request' this from a person they've stopped; a passenger who isn't suspected of anything may politely decline. We found no Montana ruling on passenger ID requests.",
+      "sources": [
+        { "label": "MCA 46-5-401", "url": "https://mca.legmt.gov/bills/mca/title_0460/chapter_0050/part_0040/section_0010/0460-0050-0040-0010.html" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "medium"
+    },
+    "NE": {
+      "status": "limited",
+      "summary": "Police who reasonably suspect you of a crime may demand your name, address and an explanation (Neb. Rev. Stat. § 29-829), but the statute sets no penalty for refusing. A passenger who isn't suspected isn't covered.",
+      "inPractice": "Nebraska's Court of Appeals has allowed officers to ask passengers for ID during a lawful stop (State v. Gutierrez, 2000). We found no Nebraska ruling making a refusal alone a crime.",
+      "sources": [
+        { "label": "Neb. Rev. Stat. § 29-829", "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=29-829" },
+        { "label": "The Civil Rights Lawyer: Can Passengers Refuse to ID? (2023)", "url": "https://thecivilrightslawyer.com/2023/11/28/whys-he-running-can-passengers-refuse-to-id/" }
+      ],
+      "confidence": "medium"
+    },
+    "NV": {
+      "status": "stop-and-identify",
+      "summary": "If an officer reasonably suspects you of a crime or civil infraction, you may be detained and must identify yourself (NRS 171.123), the law upheld in Hiibel (2004). A passenger is covered only if the officer suspects that passenger.",
+      "inPractice": "You don't have to answer other questions, and the detention can't exceed 60 minutes. Nevada's Supreme Court has allowed officers to ask passengers for ID during lawful stops (Cortes v. State, 2011).",
+      "detail": "The Hiibel state; detention capped at 60 minutes",
+      "sources": [
+        { "label": "NRS 171.123", "url": "https://www.leg.state.nv.us/nrs/nrs-171.html" },
+        { "label": "The Civil Rights Lawyer: Can Passengers Refuse to ID? (2023)", "url": "https://thecivilrightslawyer.com/2023/11/28/whys-he-running-can-passengers-refuse-to-id/" }
+      ],
+      "confidence": "high"
+    },
+    "NH": {
+      "status": "limited",
+      "summary": "Police who reasonably suspect you of a crime may ask your name and address (RSA 594:2), but the law says they may not arrest you solely for refusing. A passenger who isn't suspected may politely decline.",
+      "inPractice": "The no-arrest rule is written into the statute itself. We found no New Hampshire ruling specific to passenger ID requests.",
+      "detail": "No arrest solely for refusing",
+      "sources": [
+        { "label": "RSA 594:2", "url": "https://gc.nh.gov/rsa/html/LIX/594/594-2.htm" }
+      ],
+      "confidence": "high"
+    },
+    "NJ": {
+      "status": "no-duty",
+      "summary": "New Jersey has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Giving false information to police to hinder your own detention or investigation is an offense (N.J.S.A. 2C:29-3(b)(4)), from a disorderly persons offense up to a crime. We didn't verify NJ passenger-ID rulings.",
+      "sources": [
+        { "label": "N.J.S.A. 2C:29-3 (FindLaw)", "url": "https://codes.findlaw.com/nj/title-2c-the-new-jersey-code-of-criminal-justice/nj-st-sect-2c-29-3/" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "medium"
+    },
+    "NM": {
+      "status": "stop-and-identify",
+      "summary": "Concealing your true name or identity to obstruct an officer is a petty misdemeanor (N.M. Stat. § 30-22-3), which acts as New Mexico's stop-and-identify rule. Passengers are covered only if the officer suspects that passenger.",
+      "inPractice": "In an older ruling (State v. Affsprung, 2004), an appeals court held general safety concerns alone didn't justify asking a passenger for ID and running a warrant check. We didn't confirm how later rulings affect it.",
+      "sources": [
+        { "label": "N.M. Stat. § 30-22-3 (FindLaw)", "url": "https://codes.findlaw.com/nm/chapter-30-criminal-offenses/nm-st-sect-30-22-3/" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" },
+        { "label": "The Civil Rights Lawyer: Can Passengers Refuse to ID? (2023)", "url": "https://thecivilrightslawyer.com/2023/11/28/whys-he-running-can-passengers-refuse-to-id/" }
+      ],
+      "confidence": "medium"
+    },
+    "NY": {
+      "status": "limited",
+      "summary": "Police who reasonably suspect you of a felony or Penal Law misdemeanor may demand your name, address and an explanation (CPL 140.50), but refusing isn't a crime by itself. A passenger who isn't suspected isn't covered.",
+      "inPractice": "Courts have generally held that passively refusing to identify isn't obstructing governmental administration. Knowingly giving police a false name, birth date or address after a warning is false personation (Penal Law § 190.23).",
+      "sources": [
+        { "label": "N.Y. CPL § 140.50", "url": "https://www.nysenate.gov/legislation/laws/CPL/140.50" },
+        { "label": "N.Y. Penal Law § 190.23", "url": "https://www.nysenate.gov/legislation/laws/PEN/190.23" }
+      ],
+      "confidence": "high"
+    },
+    "NC": {
+      "status": "limited",
+      "summary": "North Carolina has no stop-and-identify statute. But courts have held that refusing to identify yourself during a lawful stop can be resisting, delaying or obstructing an officer (G.S. 14-223). Unsuspected passengers may decline.",
+      "inPractice": "In State v. Friend (2014), the Court of Appeals upheld a 14-223 charge against a man who refused to give ID so an officer could write him a seat-belt ticket. It's a Class 2 misdemeanor.",
+      "detail": "Court-made rule under G.S. 14-223",
+      "sources": [
+        { "label": "N.C.G.S. § 14-223", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_14/GS_14-223.html" },
+        { "label": "UNC School of Government: State v. Friend (2014)", "url": "https://www.sog.unc.edu/node/186331" }
+      ],
+      "confidence": "medium"
+    },
+    "ND": {
+      "status": "limited",
+      "summary": "Police who reasonably suspect you of a felony, weapons misdemeanor, burglary or drug offense may demand your name, address and an explanation (N.D.C.C. § 29-29-21). There's no penalty for refusing, and unsuspected passengers aren't covered.",
+      "inPractice": "The statute is limited to those listed offenses. We found no North Dakota ruling on passenger ID requests or on whether a refusal alone is a crime.",
+      "sources": [
+        { "label": "N.D.C.C. ch. 29-29 (§ 29-29-21)", "url": "https://www.ndlegis.gov/cencode/t29c29.pdf" }
+      ],
+      "confidence": "medium"
+    },
+    "OH": {
+      "status": "stop-and-identify",
+      "summary": "If police reasonably suspect you of a crime, or of witnessing a violent felony, you must give your name, address or birth date when asked (R.C. 2921.29). A passenger is covered only if the officer suspects that passenger.",
+      "inPractice": "Refusing is a 4th-degree misdemeanor, and you don't have to answer more. Ohio appeals courts say officers may ask passengers for ID during a lawful stop (State v. Foti, 2024). Lying can be falsification (R.C. 2921.13).",
+      "detail": "Name, address or birth date only",
+      "sources": [
+        { "label": "R.C. 2921.29", "url": "https://codes.ohio.gov/ohio-revised-code/section-2921.29" },
+        { "label": "State v. Foti, 2024-Ohio-39 (11th Dist.)", "url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/11/2024/2024-Ohio-39.pdf" }
+      ],
+      "confidence": "high"
+    },
+    "OK": {
+      "status": "no-duty",
+      "summary": "Oklahoma isn't on lists of stop-and-identify states, and we found no such law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Unconfirmed: we couldn't check Oklahoma's obstruction or false-identity statutes against official text for this page, so treat this entry as a general summary. Never give an officer a false name.",
+      "sources": [
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" },
+        { "label": "Brendlin v. California, 551 U.S. 249 (2007)", "url": "https://en.wikipedia.org/wiki/Brendlin_v._California" }
+      ],
+      "confidence": "low"
+    },
+    "OR": {
+      "status": "no-duty",
+      "summary": "Oregon has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. Drivers must carry and show a license.",
+      "inPractice": "Oregon's Supreme Court found a passenger unlawfully seized when an officer kept the passenger's ID for a records check without reasonable suspicion (State v. Thompkin, 2006). A false name to traffic police is a crime (ORS 807.620).",
+      "detail": "False name to traffic police: Class A misdemeanor",
+      "sources": [
+        { "label": "ORS 807.620", "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors807.html" },
+        { "label": "The Civil Rights Lawyer: Can Passengers Refuse to ID? (2023)", "url": "https://thecivilrightslawyer.com/2023/11/28/whys-he-running-can-passengers-refuse-to-id/" }
+      ],
+      "confidence": "high"
+    },
+    "PA": {
+      "status": "no-duty",
+      "summary": "Pennsylvania has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Giving police false information about your identity is a misdemeanor once an officer has told you that you're the subject of an official investigation (18 Pa.C.S. § 4914).",
+      "sources": [
+        { "label": "18 Pa.C.S. § 4914", "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=PDF&ttl=18&div=0&chapter=49&section=14&subsctn=0" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "high"
+    },
+    "RI": {
+      "status": "limited",
+      "summary": "Police who suspect you of a crime may detain you and demand your name, address, business and destination (R.I. Gen. Laws § 12-7-1). If you don't identify, you may be held up to 2 hours, but refusing isn't itself a crime.",
+      "inPractice": "The detention can't exceed two hours and isn't recorded as an arrest. A passenger who isn't suspected isn't covered. We found no Rhode Island ruling specific to passengers.",
+      "detail": "Refusal can mean up to 2 hours' detention",
+      "sources": [
+        { "label": "R.I. Gen. Laws § 12-7-1", "url": "https://webserver.rilegislature.gov/Statutes/TITLE12/12-7/12-7-1.htm" }
+      ],
+      "confidence": "medium"
+    },
+    "SC": {
+      "status": "no-duty",
+      "summary": "South Carolina has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Misrepresenting your identity to an officer during a traffic stop, or to avoid arrest, is a misdemeanor punishable by up to $200 or 30 days (S.C. Code § 16-17-725).",
+      "detail": "False ID at a traffic stop: misdemeanor",
+      "sources": [
+        { "label": "S.C. Code § 16-17-725", "url": "https://www.scstatehouse.gov/code/t16c017.php" }
+      ],
+      "confidence": "high"
+    },
+    "SD": {
+      "status": "no-duty",
+      "summary": "South Dakota has no stop-and-identify law; its ID rules at traffic stops apply to drivers. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask.",
+      "inPractice": "South Dakota's obstruction law (SDCL 22-11-6) requires using or threatening violence, force, or physical interference or an obstacle. We found no South Dakota ruling on passenger ID requests.",
+      "sources": [
+        { "label": "SDCL 22-11-6", "url": "https://sdlegislature.gov/api/Statutes/22-11-6.html" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "medium"
+    },
+    "TN": {
+      "status": "no-duty",
+      "summary": "Tennessee has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Knowingly making a false statement in answer to an officer's legitimate questions, to hinder an investigation, can be a Class D felony (Tenn. Code § 39-16-502). We found no Tennessee passenger-ID ruling.",
+      "sources": [
+        { "label": "Tenn. Code § 39-16-502 (FindLaw)", "url": "https://codes.findlaw.com/tn/title-39-criminal-offenses/tn-code-sect-39-16-502/" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "medium"
+    },
+    "TX": {
+      "status": "limited",
+      "summary": "In Texas you must give your name, address and birth date only if you've been lawfully arrested and are asked (Penal Code § 38.02). A passenger who is only detained, or not suspected at all, may politely decline.",
+      "inPractice": "Giving a false name, address or birth date while lawfully detained or arrested is a Class B misdemeanor. Refusing after a lawful arrest is a Class C misdemeanor.",
+      "detail": "Must identify only after a lawful arrest",
+      "sources": [
+        { "label": "Tex. Penal Code § 38.02 (FindLaw)", "url": "https://codes.findlaw.com/tx/penal-code/penal-sect-38-02/" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "high"
+    },
+    "UT": {
+      "status": "stop-and-identify",
+      "summary": "During a lawful stop based on reasonable suspicion, you must give your name or birth date if the demand relates to the stop (Utah Code §§ 76-8-301.5, 77-7-15). Passengers are covered only if the officer suspects that passenger.",
+      "inPractice": "Refusing is a class B misdemeanor, unless answering would risk self-incrimination. Utah's Supreme Court upheld a brief warrant check on a passenger who was politely asked for ID (State v. Martinez, 2017).",
+      "detail": "Refusal: class B misdemeanor",
+      "sources": [
+        { "label": "Utah Code § 76-8-301.5", "url": "https://le.utah.gov/xcode/Title76/Chapter8/C76-8-S301.5_2024050120240501.pdf" },
+        { "label": "Lexipol: State v. Martinez (Utah 2017)", "url": "https://archive.lexipol.com/resources/blog/utah-high-court-upholds-passenger-check-for-warrants" }
+      ],
+      "confidence": "high"
+    },
+    "VT": {
+      "status": "limited",
+      "summary": "Vermont has no general stop-and-identify law. An officer may detain you only if they reasonably believe you broke a municipal ordinance and you refuse to identify (24 V.S.A. § 1983). A passenger who isn't suspected may decline.",
+      "inPractice": "If you still won't identify, you can be brought before a judge, and refusing there can lead to civil contempt. The statute has no criminal penalty.",
+      "detail": "Municipal ordinance violations only",
+      "sources": [
+        { "label": "24 V.S.A. § 1983", "url": "https://legislature.vermont.gov/statutes/section/24/059/01983" }
+      ],
+      "confidence": "high"
+    },
+    "VA": {
+      "status": "no-duty",
+      "summary": "Virginia has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "If you're lawfully detained and asked to identify yourself, falsely identifying yourself to deceive the officer is a Class 1 misdemeanor (Va. Code § 19.2-82.1).",
+      "detail": "False ID when detained: Class 1 misdemeanor",
+      "sources": [
+        { "label": "Va. Code § 19.2-82.1", "url": "https://law.lis.virginia.gov/vacode/title19.2/chapter7/section19.2-82.1/" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "high"
+    },
+    "WA": {
+      "status": "limited",
+      "summary": "Washington has no general stop-and-identify law. But anyone an officer is investigating for a traffic infraction must give their name and address (RCW 46.61.021); refusing is a misdemeanor. Unsuspected passengers may decline.",
+      "inPractice": "In State v. Rankin (2004), Washington's Supreme Court held the state constitution bars officers from asking passengers for ID for investigative purposes without an independent reason.",
+      "detail": "Duty applies only if you're the one cited",
+      "sources": [
+        { "label": "RCW 46.61.021", "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.61.021" },
+        { "label": "RCW 46.61.022", "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.61.022" },
+        { "label": "The Civil Rights Lawyer: Can Passengers Refuse to ID? (2023)", "url": "https://thecivilrightslawyer.com/2023/11/28/whys-he-running-can-passengers-refuse-to-id/" }
+      ],
+      "confidence": "high"
+    },
+    "WV": {
+      "status": "no-duty",
+      "summary": "West Virginia has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Knowingly making a materially false statement to impede an officer's investigation is a misdemeanor (W. Va. Code § 61-5-17(c)), with exceptions. We found no West Virginia passenger-ID ruling.",
+      "sources": [
+        { "label": "W. Va. Code § 61-5-17", "url": "https://code.wvlegislature.gov/61-5-17/" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "medium"
+    },
+    "WI": {
+      "status": "limited",
+      "summary": "Police who reasonably suspect you of a crime may demand your name, address and an explanation (Wis. Stat. § 968.24), but the law sets no penalty for refusing. A passenger who isn't suspected isn't covered.",
+      "inPractice": "Henes v. Morrissey (1995) said silence alone isn't obstructing. But State v. Griffith (2000) allowed asking a passenger's name during a stop, and giving police false information is obstructing.",
+      "sources": [
+        { "label": "Wis. Stat. § 968.24", "url": "https://docs.legis.wisconsin.gov/statutes/statutes/968/24" },
+        { "label": "Henes v. Morrissey (Wis. 1995)", "url": "https://law.counselstack.com/opinion/henes-v-morrissey-wis-1995" },
+        { "label": "Wisconsin State Public Defender: passenger records checks (2022)", "url": "https://www.wispd.gov/2022/04/extension-of-traffic-stop-to-check-records-of-passengers-wasnt-unlawful/" }
+      ],
+      "confidence": "high"
+    },
+    "WY": {
+      "status": "no-duty",
+      "summary": "Wyoming has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Wyoming's interference law (Wyo. Stat. § 6-5-204) punishes knowingly obstructing or impeding an officer doing lawful duties. We found no Wyoming ruling on passenger ID requests.",
+      "sources": [
+        { "label": "Wyo. Stat. § 6-5-204 (FindLaw)", "url": "https://codes.findlaw.com/wy/title-6-crimes-and-offenses/wy-st-sect-6-5-204/" },
+        { "label": "Wikipedia: Stop and identify statutes", "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes" }
+      ],
+      "confidence": "medium"
+    }
+  }
+}

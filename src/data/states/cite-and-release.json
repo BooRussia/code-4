@@ -1,0 +1,838 @@
+{
+  "topic": "cite-and-release",
+  "lastVerified": "2026-10-31",
+  "entries": {
+    "AL": {
+      "status": "cite-required",
+      "summary": "For most traffic misdemeanors, Alabama law says the officer issues a ticket and releases you once you give a written bond (promise) to appear. Exceptions include DUI, crashes causing injury or death, and suspected felonies.",
+      "inPractice": "If you refuse to give the written bond, the officer takes you before a magistrate. With e-tickets, you're treated as having promised to appear on the listed date. You can also ask to see a magistrate.",
+      "detail": "Refusing to give bond means seeing a magistrate",
+      "sources": [
+        {
+          "label": "Ala. Code § 32-1-4",
+          "url": "https://codes.findlaw.com/al/title-32-motor-vehicles-and-traffic/al-code-sect-32-1-4/"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AK": {
+      "status": "cite-required",
+      "summary": "Most minor Alaska traffic offenses are infractions, which are not crimes and can't bring jail time. For an infraction, the officer must issue a citation instead of taking you before a judge.",
+      "inPractice": "An officer may still arrest if you don't show satisfactory ID or refuse to accept the citation. Traffic misdemeanors like DUI or reckless driving fall under a separate rule that leaves more to the officer.",
+      "detail": "No ID or refusing the citation can lead to arrest",
+      "sources": [
+        {
+          "label": "Alaska Stat. § 12.25.180",
+          "url": "https://codes.findlaw.com/ak/title-12-code-of-criminal-procedure/ak-st-sect-12-25-180/"
+        },
+        {
+          "label": "Alaska Stat. § 28.90.010",
+          "url": "https://codes.findlaw.com/ak/title-28-motor-vehicles/ak-st-sect-28-90-010/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AZ": {
+      "status": "cite-required",
+      "summary": "Most Arizona traffic violations, like routine speeding, seatbelt and equipment violations, are civil matters, not crimes. An officer may detain you only as long as reasonably needed to investigate and serve the complaint.",
+      "inPractice": "Some traffic offenses, such as DUI or reckless driving, are crimes; release on a signed promise to appear is then up to the officer. Refusing to show your license or give your identity is a separate misdemeanor.",
+      "detail": "Most violations are civil, not crimes",
+      "sources": [
+        {
+          "label": "A.R.S. § 28-1591",
+          "url": "https://www.azleg.gov/ars/28/01591.htm"
+        },
+        {
+          "label": "A.R.S. § 28-1594",
+          "url": "https://www.azleg.gov/ars/28/01594.htm"
+        },
+        {
+          "label": "A.R.S. § 28-1595",
+          "url": "https://www.azleg.gov/ars/28/01595.htm"
+        },
+        {
+          "label": "A.R.S. § 13-3903",
+          "url": "https://www.azleg.gov/ars/13/03903.htm"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AR": {
+      "status": "arrest-allowed",
+      "summary": "Arkansas lets officers choose between a citation and arrest for misdemeanors, including traffic misdemeanors. If you're given a written citation and sign the promise to appear, the officer must then release you.",
+      "inPractice": "Court rules tell officers to weigh things like your ID, local ties, record, and whether you'll sign before choosing custody, but they don't require a citation. An officer who refuses release after a signed promise commits misconduct.",
+      "detail": "Citation is optional; signing secures release",
+      "sources": [
+        {
+          "label": "Ark. Code § 27-50-603",
+          "url": "https://codes.findlaw.com/ar/title-27-transportation/ar-code-sect-27-50-603/"
+        },
+        {
+          "label": "Ark. R. Crim. P. 5.2",
+          "url": "https://www.courtrules.net/arkansas/arkansas-criminal-procedure/rule-5-2"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "CA": {
+      "status": "cite-required",
+      "summary": "For infractions like speeding or seatbelt tickets, California lets officers take you into custody only if you can't show ID or refuse to sign the notice to appear. Signing is your written promise to appear in court.",
+      "inPractice": "Under Vehicle Code § 40302, you go before a magistrate if you lack ID, refuse to sign, demand to see a judge, or are charged with DUI. If you have no ID, an officer may take a thumbprint instead.",
+      "detail": "Refusing to sign or no ID can lead to custody",
+      "sources": [
+        {
+          "label": "Cal. Penal Code § 853.5",
+          "url": "https://codes.findlaw.com/ca/penal-code/pen-sect-853-5/"
+        },
+        {
+          "label": "Cal. Veh. Code § 40302",
+          "url": "https://codes.findlaw.com/ca/vehicle-code/veh-sect-40302/"
+        },
+        {
+          "label": "Cal. Veh. Code § 40504",
+          "url": "https://codes.findlaw.com/ca/vehicle-code/veh-sect-40504/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CO": {
+      "status": "cite-required",
+      "summary": "Most minor Colorado traffic violations are class A or B traffic infractions, which state law treats as civil matters, not crimes. For an infraction, the officer gives you a penalty assessment notice (ticket).",
+      "inPractice": "Misdemeanor traffic offenses like DUI or reckless driving are criminal; for those, the officer may issue a summons but isn't required to, and some charges require taking you to court.",
+      "detail": "Most violations are civil traffic infractions",
+      "sources": [
+        {
+          "label": "C.R.S. § 42-4-1701",
+          "url": "https://colorado.public.law/statutes/crs_42-4-1701"
+        },
+        {
+          "label": "C.R.S. § 42-4-1707",
+          "url": "https://colorado.public.law/statutes/crs_42-4-1707"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "CT": {
+      "status": "cite-required",
+      "summary": "Many minor Connecticut traffic violations are 'infractions.' By law, a summons for an infraction is not an arrest, and committing an infraction is not a criminal offense.",
+      "inPractice": "You can usually pay or plead not guilty by mail through the Centralized Infractions Bureau. More serious motor vehicle offenses, like DUI or leaving the scene, are crimes with different arrest rules.",
+      "detail": "An infraction summons is not an arrest",
+      "sources": [
+        {
+          "label": "Conn. Gen. Stat. § 51-164n",
+          "url": "https://codes.findlaw.com/ct/title-51-courts/ct-gen-st-sect-51-164n/"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "DE": {
+      "status": "cite-default",
+      "summary": "Delaware officers may arrest without a warrant for traffic violations they witness, but they can issue a summons instead. When a ticket is issued, the officer verifies your ID, gives you a copy, and releases you.",
+      "inPractice": "Many tickets can be paid through 'voluntary assessment' instead of going to court. Because the law lets officers choose between a summons and taking you to a Justice of the Peace court, custody is still possible.",
+      "detail": "Summons is an option, not a requirement",
+      "sources": [
+        {
+          "label": "21 Del. C. §§ 701, 703, 712",
+          "url": "https://delcode.delaware.gov/title21/c007/index.html"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "DC": {
+      "status": "cite-required",
+      "summary": "In D.C., most moving and non-moving traffic violations are civil infractions decided by the DMV, not crimes. The officer serves you a notice of infraction, which you can answer by paying or contesting it.",
+      "inPractice": "Listed offenses, such as felonies and certain serious misdemeanors like DUI, are still prosecuted as crimes in Superior Court, where arrest rules differ. Notices can be handed to you or left on the vehicle.",
+      "detail": "Most violations are civil, decided by DMV",
+      "sources": [
+        {
+          "label": "D.C. Code tit. 50, ch. 23 (Traffic Adjudication)",
+          "url": "https://code.dccouncil.gov/us/dc/council/code/titles/50/chapters/23/index.full.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "FL": {
+      "status": "cite-required",
+      "summary": "Most Florida traffic violations are 'noncriminal infractions,' and the officer must cite you for them. You must sign and accept the citation, which serves as your promise to appear or respond.",
+      "inPractice": "Willfully refusing to sign and accept the citation is a second-degree misdemeanor. Paying the fine counts as admitting the infraction, but that admission can't be used as evidence in other proceedings.",
+      "detail": "Refusing to sign is a misdemeanor",
+      "sources": [
+        {
+          "label": "Fla. Stat. § 318.14",
+          "url": "https://flsenate.gov/Laws/Statutes/2025/318.14"
+        }
+      ],
+      "confidence": "high"
+    },
+    "GA": {
+      "status": "cite-required",
+      "summary": "In Georgia, a traffic 'arrest' is usually made by issuing a citation. For most traffic violations, if you show a valid driver's license, the officer must release you with a ticket instead of jail or bond.",
+      "inPractice": "The license option excludes offenses that can suspend a license on a first conviction and some weight, carrier and hazmat violations. Officers can still arrest drivers with fake, suspended or no licenses.",
+      "detail": "Showing a valid license generally secures release",
+      "sources": [
+        {
+          "label": "O.C.G.A. § 17-6-11",
+          "url": "https://codes.findlaw.com/ga/title-17-criminal-procedure/ga-code-sect-17-6-11/"
+        },
+        {
+          "label": "O.C.G.A. § 17-4-23",
+          "url": "https://codes.findlaw.com/ga/title-17-criminal-procedure/ga-code-sect-17-4-23/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "HI": {
+      "status": "cite-required",
+      "summary": "Hawaii's traffic infractions are not crimes by law, and no penalty that includes jail can apply to them. Everyday violations like routine speeding are handled with a notice of traffic infraction.",
+      "inPractice": "Some traffic offenses remain crimes, such as DUI and excessive speeding, and those can lead to arrest. If an infraction happens alongside a crime, the two can be handled together.",
+      "detail": "No jail for traffic infractions",
+      "sources": [
+        {
+          "label": "Haw. Rev. Stat. § 291D-3",
+          "url": "https://codes.findlaw.com/hi/division-1-government/hi-rev-st-sect-291d-3/"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "high"
+    },
+    "ID": {
+      "status": "cite-default",
+      "summary": "Idaho treats most minor traffic violations as infractions, which the law calls 'civil public offenses' handled by citation. For traffic misdemeanors, the officer chooses between a ticket and taking you before a judge.",
+      "inPractice": "You must be taken to a magistrate if you can't show ID or the officer thinks you'll ignore the ticket, and for charges like DUI. Idaho law doesn't expressly bar custody for infractions.",
+      "detail": "Officer discretion for traffic misdemeanors",
+      "sources": [
+        {
+          "label": "Idaho Code § 49-1502",
+          "url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH15/SECT49-1502/"
+        },
+        {
+          "label": "Idaho Code § 49-1407",
+          "url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH14/SECT49-1407/"
+        },
+        {
+          "label": "Idaho Code § 49-1405",
+          "url": "https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH14/SECT49-1405/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "IL": {
+      "status": "cite-required",
+      "summary": "Since Illinois' SAFE-T Act took effect in 2023, officers must issue a citation instead of a custodial arrest for offenses below a Class A misdemeanor, which covers most minor traffic tickets, if you're properly identified.",
+      "inPractice": "Exceptions: the officer reasonably believes you're a threat, the offense continues after a ticket, or you have an obvious medical or mental-health risk. Some online copies of the statute still show the older text.",
+      "detail": "Proper ID is required for a citation",
+      "sources": [
+        {
+          "label": "725 ILCS 5/107-12",
+          "url": "https://codes.findlaw.com/il/chapter-725-criminal-procedure/il-st-sect-725-5-107-12/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "IN": {
+      "status": "cite-required",
+      "summary": "Indiana traffic infractions are civil. An officer may detain you only long enough to explain the violation, get your name, address and birth date, and let you sign a notice to appear.",
+      "inPractice": "For traffic misdemeanors, Indiana residents must be released after signing a written promise to appear, except for OWI and cases needing an immediate court appearance. Nonresidents may have to post a deposit.",
+      "detail": "Infractions: detention only long enough to cite",
+      "sources": [
+        {
+          "label": "Ind. Code § 34-28-5-3",
+          "url": "https://codes.findlaw.com/in/title-34-civil-law-and-procedure/in-code-sect-34-28-5-3/"
+        },
+        {
+          "label": "Ind. Code § 9-30-2-5",
+          "url": "https://codes.findlaw.com/in/title-9-motor-vehicles/in-code-sect-9-30-2-5/"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "high"
+    },
+    "IA": {
+      "status": "arrest-allowed",
+      "summary": "Iowa lets officers choose: for traffic misdemeanors, they may arrest you and take you to a magistrate, or write a citation. If you sign, you may be released, and signing counts as your written promise to appear.",
+      "inPractice": "State law encourages the 'maximum possible use' of citations and lists factors like refusing to sign or lacking ID, but it doesn't require a citation for minor traffic offenses.",
+      "detail": "Signing is a promise to appear",
+      "sources": [
+        {
+          "label": "Iowa Code § 321.485",
+          "url": "https://www.legis.iowa.gov/docs/code/321.485.pdf"
+        },
+        {
+          "label": "Iowa Code § 805.1",
+          "url": "https://www.legis.iowa.gov/docs/code/805.1.pdf"
+        },
+        {
+          "label": "Iowa Code § 805.6",
+          "url": "https://www.legis.iowa.gov/docs/code/805.6.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "KS": {
+      "status": "cite-required",
+      "summary": "Most minor Kansas traffic violations are 'traffic infractions.' If you're stopped only for an infraction, state law says you shall not be taken before a judge; you get a citation instead.",
+      "inPractice": "For traffic misdemeanors, the officer decides whether to take you into custody or accept your signed promise to appear. DUI charges, or demanding to see a judge, mean going before a judge.",
+      "detail": "Infractions: no trip to the judge",
+      "sources": [
+        {
+          "label": "K.S.A. § 8-2104",
+          "url": "https://ksrevisor.gov/statutes/chapters/ch08/008_021_0004.html"
+        },
+        {
+          "label": "K.S.A. § 8-2106",
+          "url": "https://ksrevisor.gov/statutes/chapters/ch08/008_021_0006.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "KY": {
+      "status": "cite-required",
+      "summary": "Kentucky officers must issue a citation instead of arresting for most misdemeanors committed in their presence if they reasonably believe you'll come to court. For lesser 'violations,' arrest is allowed only if you likely won't appear.",
+      "inPractice": "Officers may still arrest if you pose a danger, refuse their reasonable instructions, or for certain listed offenses. Arrest is required for some protective-order violations.",
+      "detail": "Arrest allowed for danger or ignoring instructions",
+      "sources": [
+        {
+          "label": "KRS § 431.015",
+          "url": "https://codes.findlaw.com/ky/title-xl-crimes-and-punishments/ky-rev-st-sect-431-015/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "LA": {
+      "status": "arrest-allowed",
+      "summary": "Louisiana generally leaves it to the officer whether to issue a summons instead of arresting for a misdemeanor, including traffic misdemeanors, when conditions like a likely court appearance are met.",
+      "inPractice": "NCSL's 2019 chart lists no citation presumption for Louisiana except for driving without a license in your possession. We couldn't fetch the current statute text to confirm details (La. C.Cr.P. art. 211).",
+      "sources": [
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "low"
+    },
+    "ME": {
+      "status": "cite-required",
+      "summary": "Maine's traffic infractions are civil, not crimes. You get a violation summons, and the summons must say that signing it is not an admission or a guilty plea.",
+      "inPractice": "If an officer orders you to sign and you refuse, the refusal is a separate Class E crime. Criminal traffic offenses, like OUI, use a different summons and can involve arrest.",
+      "detail": "Refusing to sign is a separate crime",
+      "sources": [
+        {
+          "label": "29-A M.R.S. § 2601",
+          "url": "https://legislature.maine.gov/statutes/29-A/title29-Asec2601.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MD": {
+      "status": "cite-required",
+      "summary": "Maryland officers may arrest without a warrant for vehicle-law violations only in listed situations, such as DUI, fleeing, a suspended license, or when you can't be identified. For most minor violations, you get a citation.",
+      "inPractice": "An officer may also arrest if you refuse to sign the citation, which only acknowledges you received it. If arrested, you can be released on a written promise to appear for trial.",
+      "detail": "Refusing to sign can lead to arrest",
+      "sources": [
+        {
+          "label": "Md. Code, Transp. § 26-202",
+          "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtr&section=26-202&enactments=false"
+        },
+        {
+          "label": "Md. Code, Crim. Proc. § 4-101",
+          "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcp&section=4-101&enactments=false"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MA": {
+      "status": "cite-required",
+      "summary": "Most Massachusetts traffic tickets are civil motor vehicle infractions, not crimes. The officer writes a citation and gives you a copy; only the officer has to sign it.",
+      "inPractice": "Criminal motor vehicle offenses, like OUI or driving after a license suspension, can still lead to arrest, and the citation notes whether you were arrested.",
+      "detail": "Your signature isn't required on the citation",
+      "sources": [
+        {
+          "label": "Mass. Gen. Laws ch. 90C, § 2",
+          "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90C/Section2"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MI": {
+      "status": "cite-required",
+      "summary": "Most Michigan traffic violations are civil infractions, not crimes. For a civil infraction, an officer may stop you, detain you temporarily to check records, and write a citation.",
+      "inPractice": "The civil infraction law authorizes only temporary detention, not arrest. Traffic misdemeanors, such as drunk or reckless driving, are crimes and follow separate arrest rules.",
+      "detail": "Civil infractions: temporary detention only",
+      "sources": [
+        {
+          "label": "MCL § 257.742",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-257-742"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MN": {
+      "status": "cite-required",
+      "summary": "Minnesota court rules require officers who decide to prosecute a misdemeanor, which includes most traffic offenses, to issue a citation and release you instead of jailing you, unless an exception applies.",
+      "inPractice": "Exceptions: detention is needed to prevent bodily injury, more criminal conduct is likely, or there's a substantial likelihood you won't respond to the citation.",
+      "detail": "Exceptions: danger, ongoing crime, flight risk",
+      "sources": [
+        {
+          "label": "Minn. R. Crim. P. 6.01",
+          "url": "https://www.revisor.mn.gov/court_rules/cr/id/6/"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MS": {
+      "status": "arrest-allowed",
+      "summary": "In Mississippi, an officer may release you on a written promise to appear instead of taking you before a judge for a misdemeanor, including traffic offenses, but the law makes that release discretionary.",
+      "inPractice": "If released, you sign a notice to appear at least five days out unless you waive that. If you're booked, staff may review your background to decide on release.",
+      "detail": "Release on a signed promise is discretionary",
+      "sources": [
+        {
+          "label": "Miss. Code § 99-3-18",
+          "url": "https://codes.findlaw.com/ms/title-99-criminal-procedure/ms-code-sect-99-3-18/"
+        },
+        {
+          "label": "Miss. Code § 63-9-21",
+          "url": "https://codes.findlaw.com/ms/title-63-motor-vehicles-and-traffic-regulations/ms-code-sect-63-9-21/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MO": {
+      "status": "arrest-allowed",
+      "summary": "Missouri law doesn't set a presumption that officers issue a citation instead of arresting for traffic violations, so the choice is left to the officer.",
+      "inPractice": "NCSL's 2019 chart lists Missouri's traffic citation law (RSMo § 300.580) with no citation presumption. We couldn't fetch the current statute text to confirm details.",
+      "sources": [
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "low"
+    },
+    "MT": {
+      "status": "cite-default",
+      "summary": "Montana lets officers issue a notice to appear instead of arresting when they could arrest without a warrant, but the statute makes this optional.",
+      "inPractice": "In State v. Bauer (2001), Montana's Supreme Court held that a custodial arrest for an offense that can't carry jail time generally violates the state constitution unless special circumstances exist.",
+      "detail": "Notice to appear is optional by statute",
+      "sources": [
+        {
+          "label": "Mont. Code § 46-6-310",
+          "url": "https://mca.legmt.gov/bills/mca/title_0460/chapter_0060/part_0030/section_0100/0460-0060-0030-0100.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NE": {
+      "status": "cite-required",
+      "summary": "Nebraska law says anyone charged with a traffic infraction shall be issued a citation, and state policy favors citations over arrest. Most minor moving violations are traffic infractions.",
+      "inPractice": "An officer may still take you into custody if you can't identify yourself, refuse to sign, or for listed reasons like a risk you won't appear. Refusing to sign a traffic infraction citation is a misdemeanor.",
+      "detail": "Refusing to sign is a misdemeanor",
+      "sources": [
+        {
+          "label": "Neb. Rev. Stat. § 60-684",
+          "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=60-684"
+        },
+        {
+          "label": "Neb. Rev. Stat. § 29-427",
+          "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=29-427"
+        },
+        {
+          "label": "Neb. Rev. Stat. § 29-422",
+          "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=29-422"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NV": {
+      "status": "cite-required",
+      "summary": "Since 2023, most minor Nevada traffic violations are civil infractions. For traffic violations, the law says you must be given a citation unless it's a repeat or 'prohibited' offense, such as DUI or reckless driving.",
+      "inPractice": "Officers can still arrest when there's probable cause for a crime. If you're arrested for a traffic violation, there's a presumption you'll be released on your own recognizance, except for DUI and similar charges.",
+      "detail": "Citation required unless repeat or serious offense",
+      "sources": [
+        {
+          "label": "NRS ch. 484A (§§ 484A.7033, 484A.730, 484A.774)",
+          "url": "https://www.leg.state.nv.us/NRS/NRS-484A.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NH": {
+      "status": "arrest-allowed",
+      "summary": "New Hampshire allows officers to arrest without a warrant for a misdemeanor or a non-criminal 'violation' committed in their presence, including traffic violations. A summons instead of arrest is optional.",
+      "inPractice": "Many minor motor vehicle violations are handled by summons with a fine you can pay by mail, but state law doesn't require a summons instead of arrest.",
+      "detail": "Summons in lieu of arrest is optional",
+      "sources": [
+        {
+          "label": "RSA 594:10",
+          "url": "https://gc.nh.gov/rsa/html/LIX/594/594-10.htm"
+        },
+        {
+          "label": "RSA 594:14",
+          "url": "https://gc.nh.gov/rsa/html/LIX/594/594-14.htm"
+        },
+        {
+          "label": "RSA 262:44",
+          "url": "https://gc.nh.gov/rsa/html/XXI/262/262-44.htm"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NJ": {
+      "status": "arrest-allowed",
+      "summary": "New Jersey law lets officers arrest without a warrant anyone who violates the motor vehicle laws in their presence, though they may serve a summons instead. Choosing a summons is up to the officer.",
+      "inPractice": "No statute requires a summons for minor traffic offenses. If you're arrested, you generally must be brought before a municipal court judge or court official.",
+      "detail": "Summons instead of arrest is discretionary",
+      "sources": [
+        {
+          "label": "N.J.S.A. § 39:5-25",
+          "url": "https://codes.findlaw.com/nj/title-39-motor-vehicles-and-traffic-regulation/nj-st-sect-39-5-25/"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NM": {
+      "status": "cite-required",
+      "summary": "In New Mexico, for most Motor Vehicle Code misdemeanors, the officer must write a notice to appear (or a penalty assessment you can pay), have you sign it, and release you.",
+      "inPractice": "A separate statute requires taking some people to a magistrate, such as for DUI or reckless driving. Your signed promise to appear or pay is required for release.",
+      "detail": "Signing secures release",
+      "sources": [
+        {
+          "label": "NMSA § 66-8-123",
+          "url": "https://codes.findlaw.com/nm/chapter-66-motor-vehicles/nm-st-sect-66-8-123/"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NY": {
+      "status": "cite-required",
+      "summary": "New York officers must issue an appearance ticket instead of arresting for most offenses short of serious felonies, including traffic infractions and misdemeanors, unless a listed exception applies.",
+      "inPractice": "Exceptions include an outstanding warrant, not verifying your identity, a recent missed court date, and charges for which a court could suspend or revoke your license.",
+      "detail": "No ID or license-suspending charges are exceptions",
+      "sources": [
+        {
+          "label": "N.Y. Crim. Proc. Law § 150.20",
+          "url": "https://www.nysenate.gov/legislation/laws/CPL/150.20"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NC": {
+      "status": "cite-required",
+      "summary": "Many minor North Carolina traffic violations, like seatbelt and many equipment violations, are infractions, which aren't crimes. An officer may detain you only for a reasonable time to issue and serve a citation.",
+      "inPractice": "Some traffic offenses, like higher-level speeding, DWI, and driving while license revoked, are misdemeanors, and officers keep discretion to arrest for those.",
+      "detail": "Infractions: detention only long enough to cite",
+      "sources": [
+        {
+          "label": "N.C.G.S. § 15A-1113",
+          "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_15A/GS_15A-1113.html"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "ND": {
+      "status": "cite-required",
+      "summary": "In North Dakota, most traffic violations are noncriminal. You can pay the fee, post bond, or ask for a hearing, where the state must prove the violation by a preponderance of the evidence.",
+      "inPractice": "Excluded offenses stay criminal, including DUI, reckless driving, leaving the scene, and driving under suspension. The noncriminal-violation law doesn't expressly address custody.",
+      "detail": "Most traffic violations are noncriminal",
+      "sources": [
+        {
+          "label": "N.D.C.C. ch. 39-06.1",
+          "url": "https://www.ndlegis.gov/cencode/t39c06-1.pdf"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "OH": {
+      "status": "cite-required",
+      "summary": "For minor misdemeanors, which include many Ohio traffic violations like seatbelt and many speeding tickets, officers must issue a citation and may not arrest you, with a few exceptions.",
+      "inPractice": "Exceptions: you need medical care or can't look after your safety, can't or won't give satisfactory ID, refuse to sign, or previously ignored a citation for the same offense.",
+      "detail": "Refusing to sign can lead to arrest",
+      "sources": [
+        {
+          "label": "Ohio Rev. Code § 2935.26",
+          "url": "https://codes.ohio.gov/ohio-revised-code/section-2935.26"
+        }
+      ],
+      "confidence": "high"
+    },
+    "OK": {
+      "status": "arrest-allowed",
+      "summary": "Oklahoma law lets officers issue a citation instead of arresting for misdemeanors, but doesn't require it, so officers keep discretion for minor traffic offenses.",
+      "inPractice": "NCSL's 2019 chart lists 22 O.S. § 209 with no citation presumption for Oklahoma. We couldn't fetch the current statute text to confirm details.",
+      "sources": [
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "low"
+    },
+    "OR": {
+      "status": "cite-required",
+      "summary": "Oregon traffic violations, like most speeding and seatbelt tickets, are not crimes. By statute, an officer may not arrest you for a traffic violation; they can stop you, identify you, investigate, and issue a citation.",
+      "inPractice": "Officers may still arrest for a traffic crime, like DUII, or other crimes found during the stop. To search with your consent, they must first tell you that you can refuse.",
+      "detail": "No arrest for a traffic violation",
+      "sources": [
+        {
+          "label": "ORS § 810.410",
+          "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors810.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "PA": {
+      "status": "cite-required",
+      "summary": "Most minor Pennsylvania traffic offenses are 'summary' offenses. Court rules say a citation is issued except in exceptional circumstances, and arrest is allowed only where a law specifically authorizes it.",
+      "inPractice": "If you're arrested for a summary offense, the officer must promptly release you with a citation if you pose no threat of harm and will likely appear. Otherwise you must see a judge without unnecessary delay.",
+      "detail": "Prompt release if no threat and likely to appear",
+      "sources": [
+        {
+          "label": "Pa. R. Crim. P. 400, 440, 441",
+          "url": "https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/234/chapter4/chap4toc.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "RI": {
+      "status": "cite-default",
+      "summary": "Rhode Island officers who see a traffic violation must issue a written summons at the scene. But the same law says nothing stops an officer from using regular arrest powers instead.",
+      "inPractice": "Because the statute keeps arrest powers in place, custody remains legally possible, though the summons is the required default.",
+      "detail": "Summons required, but arrest powers preserved",
+      "sources": [
+        {
+          "label": "R.I. Gen. Laws § 31-27-12",
+          "url": "https://webserver.rilegislature.gov/Statutes/TITLE31/31-27/31-27-12.htm"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "SC": {
+      "status": "cite-default",
+      "summary": "South Carolina officers use a uniform traffic ticket to make traffic 'arrests,' which can let you leave with a court date. State law doesn't clearly require release instead of custody for minor offenses.",
+      "inPractice": "NCSL's 2019 chart lists a citation presumption for many traffic offenses under § 56-7-10, but the statute frames the ticket as an arrest tool, so officer discretion appears to remain.",
+      "detail": "Uniform traffic ticket is used for traffic arrests",
+      "sources": [
+        {
+          "label": "S.C. Code § 56-7-10",
+          "url": "https://www.scstatehouse.gov/code/t56c007.php"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "low"
+    },
+    "SD": {
+      "status": "cite-required",
+      "summary": "South Dakota law says that when you're arrested for a traffic misdemeanor, the officer shall release you once you give a written promise to appear in court.",
+      "inPractice": "If you refuse to sign the promise, you're taken immediately before a magistrate. Nonresidents may have to post bond, and serious charges like DUI are handled differently.",
+      "detail": "Refusing to sign means seeing a magistrate",
+      "sources": [
+        {
+          "label": "SDCL § 32-33-2",
+          "url": "https://sdlegislature.gov/api/Statutes/32-33-2.html"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "high"
+    },
+    "TN": {
+      "status": "cite-required",
+      "summary": "Tennessee officers who arrest you for a misdemeanor committed in their presence, including most traffic offenses, must issue a citation instead of keeping you in custody, unless an exception applies.",
+      "inPractice": "No citation is issued if you need medical care, the offense would continue, you can't or won't show ID, have warrants, demand a magistrate, or refuse to sign. You may later have to report for booking.",
+      "detail": "Refusing to sign means no citation",
+      "sources": [
+        {
+          "label": "Tenn. Code § 40-7-118",
+          "url": "https://codes.findlaw.com/tn/title-40-criminal-procedure/tn-code-sect-40-7-118/"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "high"
+    },
+    "TX": {
+      "status": "cite-default",
+      "summary": "Texas requires a written notice to appear instead of arrest only for speeding, open-container violations, and texting while driving. For other minor traffic offenses, officers may choose to arrest.",
+      "inPractice": "Atwater v. City of Lago Vista arose from a Texas seatbelt arrest. For the mandatory-ticket offenses, you must give a written promise to appear; out-of-state drivers fall under an interstate compact.",
+      "detail": "Mandatory ticket: speeding, open container, phone",
+      "sources": [
+        {
+          "label": "Tex. Transp. Code § 543.004",
+          "url": "https://texas.public.law/statutes/tex._transp._code_section_543.004"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "high"
+    },
+    "UT": {
+      "status": "arrest-allowed",
+      "summary": "Utah law says a person facing a misdemeanor or infraction 'may' be given a citation, which an officer can issue in lieu of or in addition to taking you into custody. The choice is discretionary.",
+      "inPractice": "The statute lists no presumption or exceptions for minor traffic offenses, so whether to cite or take you into custody is left to the officer.",
+      "detail": "Citation may come with or instead of custody",
+      "sources": [
+        {
+          "label": "Utah Code § 77-7-18",
+          "url": "https://codes.findlaw.com/ut/title-77-utah-code-of-criminal-procedure/ut-code-sect-77-7-18/"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "VT": {
+      "status": "cite-required",
+      "summary": "In Vermont, a traffic violation is not a crime and is treated as a civil action under state law, handled with a civil ticket rather than an arrest.",
+      "inPractice": "Criminal motor vehicle offenses, like DUI, are separate. For those, Vermont court rules generally favor citations for misdemeanors, with exceptions.",
+      "detail": "Traffic violations are civil, not crimes",
+      "sources": [
+        {
+          "label": "23 V.S.A. § 2302",
+          "url": "https://legislature.vermont.gov/statutes/section/23/024/02302"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "high"
+    },
+    "VA": {
+      "status": "cite-required",
+      "summary": "For Virginia traffic misdemeanors, the officer must issue a summons and release you once you give a written promise to appear, with limited exceptions.",
+      "inPractice": "If you refuse to sign, the officer notes the refusal on the summons, tells you the court date, and still releases you. Some license offenses can lead to a warrant with prior court approval.",
+      "detail": "Refusing to sign is noted; you're still released",
+      "sources": [
+        {
+          "label": "Va. Code § 46.2-936",
+          "url": "https://law.lis.virginia.gov/vacode/title46.2/chapter9/section46.2-936/"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WA": {
+      "status": "cite-required",
+      "summary": "Most Washington traffic violations are civil infractions. Even when a traffic citation is issued, the law says detention can last only as long as reasonably needed to issue and serve it.",
+      "inPractice": "The time limit doesn't apply to serious offenses listed in RCW 10.31.100(3), such as DUI and reckless driving, or to some nonresidents held for a hearing.",
+      "detail": "Detention limited to time needed to cite",
+      "sources": [
+        {
+          "label": "RCW 46.64.015",
+          "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.64.015"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WV": {
+      "status": "cite-required",
+      "summary": "For West Virginia traffic misdemeanors, if you aren't required to be taken before a magistrate, the officer must write a notice to appear and release you once you accept a copy.",
+      "inPractice": "You must see a magistrate for DUI, injury crashes, some license offenses, if you ask to, or if you refuse to accept the notice. NCSL's chart lists no presumption, so practice may vary.",
+      "detail": "Refusing the notice means seeing a magistrate",
+      "sources": [
+        {
+          "label": "W. Va. Code § 17C-19-4",
+          "url": "https://code.wvlegislature.gov/17C-19-4/"
+        },
+        {
+          "label": "W. Va. Code § 17C-19-3",
+          "url": "https://code.wvlegislature.gov/17C-19-3/"
+        },
+        {
+          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
+          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "WI": {
+      "status": "cite-default",
+      "summary": "Wisconsin allows officers to arrest without a warrant for any traffic regulation violation. After an arrest, though, they must release you if you post a cash deposit, deposit a valid Wisconsin license, or show an arrest bond certificate.",
+      "inPractice": "Most Wisconsin traffic violations are civil forfeitures, and a citation is issued with every arrest. If you aren't released, you must be taken before a judge without unreasonable delay.",
+      "detail": "Posting a deposit or license secures release",
+      "sources": [
+        {
+          "label": "Wis. Stat. § 345.22",
+          "url": "https://docs.legis.wisconsin.gov/document/statutes/345.22"
+        },
+        {
+          "label": "Wis. Stat. § 345.23",
+          "url": "https://docs.legis.wisconsin.gov/document/statutes/345.23"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WY": {
+      "status": "arrest-allowed",
+      "summary": "Wyoming leaves it to the officer: for traffic violations, you're either given a citation or taken before a judge, at the officer's discretion.",
+      "inPractice": "You must go before a judge if you can't show ID, the officer thinks you'll ignore the ticket, you demand it, or you refuse to promise to appear. Nonresidents may have to post bond.",
+      "detail": "Citation or judge is the officer's choice",
+      "sources": [
+        {
+          "label": "Wyo. Stat. § 31-5-1204",
+          "url": "https://codes.findlaw.com/wy/title-31-motor-vehicles/wy-st-sect-31-5-1204/"
+        },
+        {
+          "label": "Wyo. Stat. § 7-2-103",
+          "url": "https://codes.findlaw.com/wy/title-7-criminal-procedure/wy-st-sect-7-2-103/"
+        }
+      ],
+      "confidence": "medium"
+    }
+  }
+}

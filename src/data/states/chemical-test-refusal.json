@@ -1,0 +1,805 @@
+{
+  "topic": "chemical-test-refusal",
+  "lastVerified": "2026-10-31",
+  "entries": {
+    "AL": {
+      "status": "civil",
+      "summary": "Refusing the evidentiary test after a DUI arrest isn't a crime in Alabama, but the state suspends your license, and no test is given unless police get a court order.",
+      "inPractice": "If you're later convicted of DUI, the refusal also means a required ignition interlock period (Ala. Code 32-5A-191). Officers can seek a warrant or court order for a blood test.",
+      "detail": "First refusal: 90-day suspension (1 year with one prior alcohol contact in 10 years)",
+      "sources": [
+        {
+          "label": "Ala. Code § 32-5-192",
+          "url": "https://alison.legislature.state.al.us/code-of-alabama?section=32-5-192"
+        },
+        {
+          "label": "Ala. Code § 32-5A-304",
+          "url": "https://alison.legislature.state.al.us/code-of-alabama?section=32-5A-304"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AK": {
+      "status": "crime",
+      "summary": "Refusing a chemical test after a DUI arrest is its own crime in Alaska (a class A misdemeanor), separate from the DUI charge, and your license is revoked.",
+      "inPractice": "A first refusal conviction means at least 72 hours in jail, a $1,500 minimum fine, and 6 months of interlock. The refusal is admissible. Under Birchfield, this can apply to a breath-test refusal, not a blood test without a warrant.",
+      "detail": "First refusal: at least 90-day revocation, plus 72 hours in jail and a $1,500 fine if convicted",
+      "sources": [
+        {
+          "label": "Alaska Stat. § 28.35.032",
+          "url": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.35.032&secEnd=28.35.032"
+        },
+        {
+          "label": "Alaska Stat. § 28.15.165",
+          "url": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=28.15.165&secEnd=28.15.165"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AZ": {
+      "status": "civil",
+      "summary": "In Arizona, refusing the test after a DUI arrest isn't a separate crime, but your license is suspended, and you must complete alcohol or drug screening to get it back.",
+      "inPractice": "A second refusal within 84 months means a 2-year suspension. Failing to expressly agree to the test counts as a refusal. Officers can still seek a search warrant for a blood draw.",
+      "detail": "First refusal: 12-month suspension",
+      "sources": [
+        {
+          "label": "A.R.S. § 28-1321",
+          "url": "https://www.azleg.gov/ars/28/01321.htm"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AR": {
+      "status": "civil",
+      "summary": "In Arkansas, refusing the chemical test is a separate 'violation' (a non-criminal, strict-liability offense) that brings a license suspension.",
+      "inPractice": "Some first-time refusers can get an ignition interlock restricted license right away. Based on FindLaw's copy of the statute (current as of March 2024); any fine amount wasn't confirmed.",
+      "detail": "First refusal: 180-day suspension",
+      "sources": [
+        {
+          "label": "Ark. Code § 5-65-205 (FindLaw)",
+          "url": "https://codes.findlaw.com/ar/title-5-criminal-offenses/ar-code-sect-5-65-205/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "CA": {
+      "status": "enhanced",
+      "summary": "Refusing isn't its own crime in California, but the DMV suspends or revokes your license, and if you're convicted of DUI, a breath or urine refusal adds penalties.",
+      "inPractice": "On a first DUI, a refusal means a 9-month DUI program instead of 3 months; other cases add 48 hours to 10 days of jail. Officers can require drivers under 21 to take a roadside PAS breath test.",
+      "detail": "First refusal: 1-year suspension or revocation",
+      "sources": [
+        {
+          "label": "Cal. Veh. Code § 23577 (FindLaw)",
+          "url": "https://codes.findlaw.com/ca/vehicle-code/veh-sect-23577/"
+        },
+        {
+          "label": "Cal. Veh. Code § 23538 (FindLaw)",
+          "url": "https://codes.findlaw.com/ca/vehicle-code/veh-sect-23538/"
+        },
+        {
+          "label": "California DMV Driver's Handbook: Alcohol and Drugs",
+          "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/alcohol-and-drugs/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CO": {
+      "status": "civil",
+      "summary": "Colorado treats refusal as a license matter: refusing the test after a DUI arrest leads to revocation by the DMV, not a separate criminal charge.",
+      "inPractice": "Repeat refusals mean 2- and 3-year revocations. Officers can still seek a search warrant for blood. Based on FindLaw's copy of the statute (current as of January 2025).",
+      "detail": "First refusal: 1-year revocation",
+      "sources": [
+        {
+          "label": "C.R.S. § 42-2-126 (FindLaw)",
+          "url": "https://codes.findlaw.com/co/title-42-vehicles-and-traffic/co-rev-st-sect-42-2-126/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CT": {
+      "status": "civil",
+      "summary": "Refusing the test after a DUI arrest isn't a separate crime in Connecticut, but it brings a license suspension and then a required ignition interlock, and the refusal can be used in court.",
+      "inPractice": "Refusing the non-testimonial part of a drug recognition evaluation also counts as a refusal. Repeat refusals mean 2 or 3 years of interlock. Officers can still seek a warrant for blood.",
+      "detail": "First refusal: 45-day suspension, then 1 year with an ignition interlock",
+      "sources": [
+        {
+          "label": "Conn. Gen. Stat. § 14-227b (Chapter 248)",
+          "url": "https://www.cga.ct.gov/current/pub/chap_248.htm"
+        }
+      ],
+      "confidence": "high"
+    },
+    "DE": {
+      "status": "civil",
+      "summary": "Delaware handles refusal administratively: if you refuse the chemical test after a DUI arrest, your license is revoked. It isn't a separate crime.",
+      "inPractice": "Revocation is 18 or 24 months with prior DUI violations in 5 years. The law lets officers pursue testing without invoking implied consent, such as through a warrant, and requires testing after fatal crashes.",
+      "detail": "First refusal: 1-year revocation",
+      "sources": [
+        {
+          "label": "21 Del. C. §§ 2740-2742",
+          "url": "https://delcode.delaware.gov/title21/c027/sc03/index.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "DC": {
+      "status": "civil",
+      "summary": "In D.C., refusing the chemical test after a DUI arrest isn't a separate crime, but it leads to license revocation (or a required ignition interlock program for D.C. license holders).",
+      "inPractice": "The refusal is admissible in court, and if you have a prior DUI-type conviction, refusing creates a presumption that you were impaired. Officers can still seek a warrant for blood.",
+      "detail": "First refusal: 12-month revocation",
+      "sources": [
+        {
+          "label": "D.C. Code § 50-1905",
+          "url": "https://code.dccouncil.gov/us/dc/council/code/sections/50-1905"
+        }
+      ],
+      "confidence": "high"
+    },
+    "FL": {
+      "status": "crime",
+      "summary": "Since Oct. 1, 2025 ('Trenton's Law'), refusing a breath or urine test after a lawful DUI arrest is a crime in Florida even the first time: a second-degree misdemeanor.",
+      "inPractice": "A second or later refusal is a first-degree misdemeanor. Officers must first warn you that refusal is a crime and suspends your license. The crime covers breath and urine tests; for blood, officers can seek a warrant.",
+      "detail": "First refusal: 1-year suspension (18 months for a later refusal)",
+      "sources": [
+        {
+          "label": "Fla. Stat. § 316.1939",
+          "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0316/Sections/0316.1939.html"
+        },
+        {
+          "label": "Laws of Fla. ch. 2025-121 (HB 687)",
+          "url": "https://laws.flrules.org/2025/121"
+        }
+      ],
+      "confidence": "high"
+    },
+    "GA": {
+      "status": "civil",
+      "summary": "Refusing state-administered testing after a DUI arrest isn't a crime in Georgia, but it brings a license suspension; some drivers can get an ignition interlock limited permit.",
+      "inPractice": "After Elliott v. State (2019), a breath-test refusal can't be used as evidence; the warning now says only blood or urine refusals may be used at trial. Based on FindLaw (current as of March 2024).",
+      "detail": "First refusal: 1-year suspension",
+      "sources": [
+        {
+          "label": "O.C.G.A. § 40-5-67.1 (FindLaw)",
+          "url": "https://codes.findlaw.com/ga/title-40-motor-vehicles-and-traffic/ga-code-sect-40-5-67-1/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "HI": {
+      "status": "civil",
+      "summary": "Hawaii no longer treats refusal as a crime, but refusing a breath, blood, or urine test after an OVUII arrest brings a longer license revocation than failing the test.",
+      "inPractice": "Hawaii repealed its petty-misdemeanor refusal law in 2016 after State v. Won (2015) held the threat of criminal penalties coerced consent. Refusal sanctions apply only if the officer gave the required warnings.",
+      "detail": "First refusal: 2-year revocation",
+      "sources": [
+        {
+          "label": "HRS § 291E-41",
+          "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291E/HRS_0291E-0041.htm"
+        },
+        {
+          "label": "HRS § 291E-68 (repealed)",
+          "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291E/HRS_0291E-0068.htm"
+        },
+        {
+          "label": "Senate Committee Report on SB 2246 (2016)",
+          "url": "https://data.capitol.hawaii.gov/sessions/session2016/CommReports/SB2246_SSCR2691_.HTM"
+        }
+      ],
+      "confidence": "high"
+    },
+    "ID": {
+      "status": "civil",
+      "summary": "In Idaho, refusing evidentiary testing isn't a crime, but it brings a $250 civil penalty, a license suspension with no driving allowed, and a required ignition interlock afterward.",
+      "inPractice": "You have 7 days to request a court hearing to show cause for refusing. A second refusal within 10 years means a 2-year suspension. Officers can still seek a warrant for blood.",
+      "detail": "First refusal: 1-year absolute suspension and $250 civil penalty",
+      "sources": [
+        {
+          "label": "Idaho Code § 18-8002",
+          "url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH80/SECT18-8002/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "IL": {
+      "status": "civil",
+      "summary": "Illinois doesn't make refusal a crime, but refusing the test after a DUI arrest triggers a 'statutory summary suspension' that is longer than the one for failing the test.",
+      "inPractice": "A first offender who fails the test gets 6 months; one who refuses gets 12 months, and non-first offenders who refuse get 3 years. Officers can still seek a warrant for blood.",
+      "detail": "First refusal: 12-month summary suspension",
+      "sources": [
+        {
+          "label": "625 ILCS 5/6-208.1",
+          "url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/062500050K6-208.1.htm"
+        },
+        {
+          "label": "625 ILCS 5/11-501.1",
+          "url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/062500050K11-501.1.htm"
+        }
+      ],
+      "confidence": "high"
+    },
+    "IN": {
+      "status": "civil",
+      "summary": "Refusing a chemical test after an OWI stop isn't a separate crime in Indiana, but the BMV suspends your driving privileges.",
+      "inPractice": "The suspension is 2 years if you have a prior OWI conviction. Officers can still seek a search warrant for a blood draw. Based on FindLaw's copy of the statute (current as of January 2026).",
+      "detail": "First refusal: 1-year suspension",
+      "sources": [
+        {
+          "label": "Ind. Code § 9-30-6-9 (FindLaw)",
+          "url": "https://codes.findlaw.com/in/title-9-motor-vehicles/in-code-sect-9-30-6-9/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "IA": {
+      "status": "civil",
+      "summary": "Iowa treats refusal administratively: if you refuse chemical testing after an OWI arrest, your license is revoked, but refusal isn't its own crime.",
+      "inPractice": "A temporary restricted license is available only after you install an ignition interlock. A refusal with a prior revocation means 2 years. Officers can still seek a warrant for blood.",
+      "detail": "First refusal: 1-year revocation",
+      "sources": [
+        {
+          "label": "Iowa Code § 321J.9",
+          "url": "https://www.legis.iowa.gov/docs/code/321J.9.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "KS": {
+      "status": "civil",
+      "summary": "Kansas once made refusal a crime, but courts struck that law down and it was repealed in 2019. Today a refusal brings a license suspension and interlock, and it can be used at trial.",
+      "inPractice": "The Kansas Supreme Court held the criminal refusal law unconstitutional in State v. Ryce (2016, reaffirmed 2017). Officers can still get a warrant for blood. The roadside screening law sets no refusal penalty.",
+      "detail": "First refusal: 1-year suspension, then 2 years of ignition interlock",
+      "sources": [
+        {
+          "label": "K.S.A. 8-1014",
+          "url": "https://www.ksrevisor.gov/statutes/chapters/ch08/008_010_0014.html"
+        },
+        {
+          "label": "K.S.A. 8-1025 (repealed 2019)",
+          "url": "https://www.ksrevisor.gov/statutes/chapters/ch08/008_010_0025.html"
+        },
+        {
+          "label": "K.S.A. 8-1001",
+          "url": "https://www.ksrevisor.gov/statutes/chapters/ch08/008_010_0001.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "KY": {
+      "status": "enhanced",
+      "summary": "Refusal isn't a separate crime in Kentucky, but the court suspends your license at arraignment, the refusal can be used as evidence, and it can double jail time on a repeat DUI.",
+      "inPractice": "For a second or third DUI within 10 years, refusing doubles the mandatory minimum jail term; it isn't an aggravator on a first offense. Officers must seek a blood warrant after a fatal crash.",
+      "detail": "First refusal: license suspended by the court at arraignment",
+      "sources": [
+        {
+          "label": "KRS 189A.105 (FindLaw)",
+          "url": "https://codes.findlaw.com/ky/title-xvi-motor-vehicles/ky-rev-st-sect-189a-105/"
+        },
+        {
+          "label": "KRS 189A.010 (FindLaw)",
+          "url": "https://codes.findlaw.com/ky/title-xvi-motor-vehicles/ky-rev-st-sect-189a-010/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "LA": {
+      "status": "crime",
+      "summary": "A first refusal in Louisiana leads to a license suspension, but refusing after two previous refusals is a crime that carries jail time.",
+      "inPractice": "That third refusal carries 10 days to 6 months in jail and a $300-$1,000 fine (R.S. 14:98.7). After crashes with death or serious injury, officers must direct a test. Based on FindLaw (current as of 2023).",
+      "detail": "First refusal: 1-year suspension",
+      "sources": [
+        {
+          "label": "La. R.S. 32:666 (FindLaw)",
+          "url": "https://codes.findlaw.com/la/revised-statutes/la-rev-stat-tit-32-sect-666/"
+        },
+        {
+          "label": "La. R.S. 32:667 (FindLaw)",
+          "url": "https://codes.findlaw.com/la/revised-statutes/la-rev-stat-tit-32-sect-667/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "ME": {
+      "status": "enhanced",
+      "summary": "Refusal isn't its own crime in Maine, but it brings a long license suspension, and if you're convicted of OUI, refusing adds mandatory jail time and a higher fine.",
+      "inPractice": "A first OUI with a refusal carries at least 96 hours in jail and a $600 minimum fine. Repeat offenders also get longer jail terms. Officers can still seek a warrant for blood.",
+      "detail": "First refusal: 275-day suspension",
+      "sources": [
+        {
+          "label": "29-A M.R.S. § 2521",
+          "url": "https://legislature.maine.gov/statutes/29-A/title29-Asec2521.html"
+        },
+        {
+          "label": "29-A M.R.S. § 2411",
+          "url": "https://legislature.maine.gov/statutes/29-A/title29-Asec2411.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MD": {
+      "status": "enhanced",
+      "summary": "In Maryland, refusal brings an administrative license suspension, and if you're convicted of DUI and found to have knowingly refused, you face up to 2 more months in jail and a $500 fine.",
+      "inPractice": "The extra refusal penalty applies only if the prosecutor gives notice before a plea or trial (Transp. § 21-902). A second refusal means a 2-year suspension.",
+      "detail": "First refusal: 270-day suspension",
+      "sources": [
+        {
+          "label": "Md. Code, Transp. § 16-205.1",
+          "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtr&section=16-205.1&enactments=false"
+        },
+        {
+          "label": "Md. Code, Transp. § 21-902",
+          "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtr&section=21-902&enactments=false"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MA": {
+      "status": "civil",
+      "summary": "Massachusetts suspends your license if you refuse the breath test after an OUI arrest, but refusal isn't a crime, and the refusal can't be used against you at trial.",
+      "inPractice": "State law makes refusal evidence inadmissible in criminal and civil cases, except license proceedings. Suspensions are much longer if you're under 21 or have prior OUI convictions.",
+      "detail": "First refusal: 180-day suspension",
+      "sources": [
+        {
+          "label": "M.G.L. c. 90, § 24",
+          "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXIV/Chapter90/Section24"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MI": {
+      "status": "civil",
+      "summary": "Michigan doesn't make refusing the evidentiary test after arrest a crime, but it leads to a license suspension.",
+      "inPractice": "The roadside preliminary breath test (PBT) is different: refusing it is a civil infraction, like a ticket. A second evidentiary refusal within 7 years means 2 years. Officers can still seek a warrant for blood.",
+      "detail": "First refusal: 1-year suspension",
+      "sources": [
+        {
+          "label": "MCL 257.625f",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-257-625f"
+        },
+        {
+          "label": "MCL 257.625a",
+          "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-257-625a"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MN": {
+      "status": "crime",
+      "summary": "In Minnesota, refusing a breath test after a DWI arrest, or a blood or urine test ordered by a search warrant, is a crime, even on a first offense.",
+      "inPractice": "Test refusal is charged as third-degree DWI, a gross misdemeanor. After 2016 state supreme court rulings, a 2017 change limited blood or urine refusal crimes to cases with a warrant.",
+      "detail": "First refusal: at least 1-year revocation",
+      "sources": [
+        {
+          "label": "Minn. Stat. § 169A.20",
+          "url": "https://www.revisor.mn.gov/statutes/cite/169A.20"
+        },
+        {
+          "label": "Minn. Stat. § 169A.26",
+          "url": "https://www.revisor.mn.gov/statutes/cite/169A.26"
+        },
+        {
+          "label": "Minn. Stat. § 171.178",
+          "url": "https://www.revisor.mn.gov/statutes/cite/171.178"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MS": {
+      "status": "civil",
+      "summary": "Refusing the chemical test after a DUI arrest isn't a crime in Mississippi, but the Department of Public Safety suspends your license.",
+      "inPractice": "With a prior DUI conviction or nonadjudication, the suspension is 1 year. Interlock-restricted driving is possible if a court orders it. Based on FindLaw (current as of January 2025).",
+      "detail": "First refusal: 90-day suspension",
+      "sources": [
+        {
+          "label": "Miss. Code § 63-11-23 (FindLaw)",
+          "url": "https://codes.findlaw.com/ms/title-63-motor-vehicles-and-traffic-regulations/ms-code-sect-63-11-23/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MO": {
+      "status": "civil",
+      "summary": "In Missouri, your license is revoked right away if you refuse a chemical test after a DWI arrest. Refusal isn't a separate crime, but it's admissible in court.",
+      "inPractice": "If you have a prior alcohol-related enforcement contact, you need an ignition interlock for at least 6 months after reinstatement. Officers can still seek a warrant for blood.",
+      "detail": "First refusal: 1-year revocation",
+      "sources": [
+        {
+          "label": "RSMo § 302.574 (FindLaw)",
+          "url": "https://codes.findlaw.com/mo/title-xix-motor-vehicles-watercraft-and-aviation/mo-rev-st-302-574/"
+        },
+        {
+          "label": "RSMo § 577.041 (FindLaw)",
+          "url": "https://codes.findlaw.com/mo/title-xxxviii-crimes-and-punishment-peace-officers-and-public-defenders/mo-rev-st-577-041/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MT": {
+      "status": "civil",
+      "summary": "Montana suspends your license, with no restricted license available, if you refuse the required test after a DUI arrest. Refusal isn't a separate crime.",
+      "inPractice": "After a refusal, the officer may apply for a search warrant to take a blood or oral fluid sample. Refusing both the roadside screening and the main test counts as one refusal. Based on FindLaw (2024).",
+      "detail": "First refusal: 6-month suspension (12 months for a second within 5 years)",
+      "sources": [
+        {
+          "label": "Mont. Code § 61-8-1032 (FindLaw)",
+          "url": "https://codes.findlaw.com/mt/title-61-motor-vehicles/mt-code-ann-sect-61-8-1032/"
+        },
+        {
+          "label": "Mont. Code § 61-8-1016 (FindLaw)",
+          "url": "https://codes.findlaw.com/mt/title-61-motor-vehicles/mt-code-ann-sect-61-8-1016/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NE": {
+      "status": "crime",
+      "summary": "Nebraska makes refusing a chemical test after a DUI arrest a separate crime, punished on the same scale as DUI, on top of an administrative license revocation.",
+      "inPractice": "Refusing the roadside preliminary breath test is also a misdemeanor (Class V) and leads to arrest. Under Birchfield (2016), criminal refusal charges hold for breath tests but not warrantless blood tests.",
+      "detail": "First refusal: 1-year administrative revocation",
+      "sources": [
+        {
+          "label": "Neb. Rev. Stat. § 60-6,197",
+          "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=60-6,197"
+        },
+        {
+          "label": "Neb. Rev. Stat. § 60-498.02",
+          "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=60-498.02"
+        },
+        {
+          "label": "Neb. Rev. Stat. § 60-6,197.04",
+          "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=60-6,197.04"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NV": {
+      "status": "civil",
+      "summary": "Refusing an evidentiary test after a DUI arrest isn't a crime in Nevada, but your license is revoked and you must install an ignition interlock on any vehicle you drive meanwhile.",
+      "inPractice": "After a refusal, the officer may apply for a warrant or court order allowing reasonable force to draw blood. A refusal within 7 years of a prior refusal revocation means 3 years.",
+      "detail": "First refusal: 1-year revocation",
+      "sources": [
+        {
+          "label": "NRS 484C.160 and 484C.210",
+          "url": "https://www.leg.state.nv.us/NRS/NRS-484C.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NH": {
+      "status": "civil",
+      "summary": "New Hampshire suspends your license if you refuse the test after a DUI arrest; refusal itself isn't a crime.",
+      "inPractice": "With a prior DWI conviction or refusal, the suspension is 2 years. A change taking effect Jan. 1, 2027 raises these to 9 months for a first refusal and 3 years for repeats. Officers can still seek a warrant.",
+      "detail": "First refusal: 180-day suspension (9 months starting Jan. 1, 2027)",
+      "sources": [
+        {
+          "label": "RSA 265-A:14",
+          "url": "https://www.gencourt.state.nh.us/rsa/html/XXI/265-A/265-A-14.htm"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NJ": {
+      "status": "civil",
+      "summary": "In New Jersey, refusing a breath test is a separate traffic offense (not a crime) decided in municipal court, with fines, loss of your license, and an ignition interlock.",
+      "inPractice": "Under a 2019 law, a first refusal brings a $300-$500 fine, an Intoxicated Driver Resource Center referral, and 9-15 months of interlock. Confirmed from the 2019 law text, not the current code.",
+      "detail": "First refusal: license forfeited until an interlock is installed, then 9-15 months with it",
+      "sources": [
+        {
+          "label": "P.L. 2019, c. 248 (amending N.J.S.A. 39:4-50.4a)",
+          "url": "https://pub.njleg.state.nj.us/Bills/2018/PL19/248_.HTM"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NM": {
+      "status": "enhanced",
+      "summary": "New Mexico revokes your license for refusing the test, and if you're convicted of DWI, the refusal makes it 'aggravated DWI' with mandatory jail.",
+      "inPractice": "A first aggravated DWI carries at least 48 consecutive hours in jail. In State v. Vargas (2017), the state supreme court held refusing a warrantless blood test can't support aggravated DWI. Based on FindLaw (2024).",
+      "detail": "First refusal: 1-year revocation",
+      "sources": [
+        {
+          "label": "NMSA § 66-8-102 (FindLaw)",
+          "url": "https://codes.findlaw.com/nm/chapter-66-motor-vehicles/nm-st-sect-66-8-102/"
+        },
+        {
+          "label": "NMSA § 66-8-111 (FindLaw)",
+          "url": "https://codes.findlaw.com/nm/chapter-66-motor-vehicles/nm-st-sect-66-8-111/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NY": {
+      "status": "civil",
+      "summary": "New York doesn't make refusal a crime, but refusing a chemical test after a DWI arrest leads to license revocation and a $500 civil penalty.",
+      "inPractice": "The refusal can be used at trial only if you were clearly warned of its effect and still refused. Revocation is 18 months with a prior refusal or DWI in 5 years. Officers can still seek a warrant.",
+      "detail": "First refusal: at least 1-year revocation and $500 civil penalty",
+      "sources": [
+        {
+          "label": "N.Y. Veh. & Traf. Law § 1194",
+          "url": "https://www.nysenate.gov/legislation/laws/VAT/1194"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NC": {
+      "status": "civil",
+      "summary": "In North Carolina, you can refuse any test, but your license is revoked and the refusal can be used as evidence at trial. Refusal isn't a separate crime.",
+      "inPractice": "The official rights notice warns that an officer can compel testing under other laws, such as with a search warrant. Revocations can be longer in some situations.",
+      "detail": "First refusal: 12-month revocation",
+      "sources": [
+        {
+          "label": "N.C. Gen. Stat. § 20-16.2",
+          "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_20/GS_20-16.2.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "ND": {
+      "status": "crime",
+      "summary": "North Dakota makes refusing a chemical test after a DUI arrest a crime (a class B misdemeanor for a first offense). This is the law at the center of Birchfield v. North Dakota.",
+      "inPractice": "After Birchfield, criminal penalties hold for breath-test refusals, not warrantless blood tests. Refusing the roadside screening test can also cost your license unless you take the later chemical test.",
+      "detail": "First refusal: 180-day revocation",
+      "sources": [
+        {
+          "label": "N.D.C.C. § 39-08-01",
+          "url": "https://ndlegis.gov/cencode/t39c08.pdf"
+        },
+        {
+          "label": "N.D.C.C. §§ 39-20-04, 39-20-14",
+          "url": "https://ndlegis.gov/cencode/t39c20.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "OH": {
+      "status": "enhanced",
+      "summary": "For a first OVI arrest in Ohio, refusal brings a 1-year administrative suspension; with a prior OVI in 20 years, refusing becomes part of a tougher OVI charge.",
+      "inPractice": "Under R.C. 4511.19(A)(2), an impaired driver with a prior OVI who refuses faces high-tier penalties, such as 20 days of mandatory jail on a second offense. Officers can still seek a warrant.",
+      "detail": "First refusal: 1-year administrative license suspension",
+      "sources": [
+        {
+          "label": "Ohio Rev. Code § 4511.191",
+          "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.191"
+        },
+        {
+          "label": "Ohio Rev. Code § 4511.19",
+          "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.19"
+        },
+        {
+          "label": "Ohio Rev. Code § 4510.02",
+          "url": "https://codes.ohio.gov/ohio-revised-code/section-4510.02"
+        }
+      ],
+      "confidence": "high"
+    },
+    "OK": {
+      "status": "civil",
+      "summary": "Oklahoma doesn't make refusal a crime, but refusing a breath or blood test after a DUI arrest leads to revocation and the Impaired Driver Accountability Program (IDAP).",
+      "inPractice": "IDAP requires an ignition interlock. After a refusal, no test is given unless officers get a search warrant or believe you caused a death or serious injury.",
+      "detail": "First refusal: at least 180-day revocation and until IDAP is completed",
+      "sources": [
+        {
+          "label": "47 O.S. § 753",
+          "url": "https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=82947"
+        },
+        {
+          "label": "47 O.S. § 6-205.1",
+          "url": "https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=440141"
+        },
+        {
+          "label": "47 O.S. § 6-212.5 (IDAP)",
+          "url": "https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=486096"
+        }
+      ],
+      "confidence": "high"
+    },
+    "OR": {
+      "status": "civil",
+      "summary": "In Oregon, refusing a breath or urine test isn't a crime, but it's a traffic violation with a $650 presumptive fine, plus a license suspension.",
+      "inPractice": "Evidence of a refusal is admissible in court. Suspensions are longer if you have a recent prior. Officers can still seek a warrant for a blood draw.",
+      "detail": "First refusal: 1-year suspension",
+      "sources": [
+        {
+          "label": "ORS 813.095, 813.310, 813.420",
+          "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors813.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "PA": {
+      "status": "enhanced",
+      "summary": "Refusal isn't a separate crime in Pennsylvania, but PennDOT suspends your license, and if you're convicted of DUI, a breath refusal puts you in the highest penalty tier.",
+      "inPractice": "A first DUI with a breath refusal, or refusing blood under a warrant, means at least 72 hours in jail and a $1,000-$5,000 fine. Refusing a warrantless blood test doesn't trigger this.",
+      "detail": "First refusal: 12-month suspension (18 months with priors)",
+      "sources": [
+        {
+          "label": "75 Pa.C.S. § 1547",
+          "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=PDF&ttl=75&div=00.&chpt=015.&sctn=047.&subsctn=000."
+        },
+        {
+          "label": "75 Pa.C.S. § 3804",
+          "url": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=PDF&ttl=75&div=00.&chpt=038.&sctn=004.&subsctn=000."
+        }
+      ],
+      "confidence": "high"
+    },
+    "RI": {
+      "status": "crime",
+      "summary": "A first refusal in Rhode Island is a civil offense, but a second refusal of a breath test within 10 years is a misdemeanor that can mean up to 6 months in jail.",
+      "inPractice": "A first refusal brings a $200-$500 fine, 10-60 hours of community service, a DWI course, and a $500 assessment. Blood-test refusals stay civil even when repeated.",
+      "detail": "First refusal: 6-month to 1-year suspension",
+      "sources": [
+        {
+          "label": "R.I. Gen. Laws § 31-27-2.1",
+          "url": "https://webserver.rilegislature.gov/Statutes/TITLE31/31-27/31-27-2.1.htm"
+        }
+      ],
+      "confidence": "high"
+    },
+    "SC": {
+      "status": "civil",
+      "summary": "South Carolina suspends your license if you refuse the test after a DUI arrest. Refusal isn't a crime, but it can be used against you in court.",
+      "inPractice": "You can end the suspension early by enrolling in the Ignition Interlock Device Program. Officers can still seek a warrant for a blood draw.",
+      "detail": "First refusal: 6-month suspension",
+      "sources": [
+        {
+          "label": "S.C. Code §§ 56-5-2950, 56-5-2951",
+          "url": "https://www.scstatehouse.gov/code/t56c005.php"
+        }
+      ],
+      "confidence": "high"
+    },
+    "SD": {
+      "status": "civil",
+      "summary": "South Dakota revokes your license if you refuse chemical testing after a DUI arrest, and the refusal can be used at trial. It isn't a separate crime.",
+      "inPractice": "The state may let you drive for work during the revocation. You have 120 days from arrest to request a hearing. Officers can still seek a search warrant for blood.",
+      "detail": "First refusal: 1-year revocation",
+      "sources": [
+        {
+          "label": "SDCL 32-23-11",
+          "url": "https://sdlegislature.gov/Statutes/32-23-11"
+        },
+        {
+          "label": "SDCL 32-23-10.1",
+          "url": "https://sdlegislature.gov/Statutes/32-23-10.1"
+        }
+      ],
+      "confidence": "high"
+    },
+    "TN": {
+      "status": "civil",
+      "summary": "In Tennessee, a court decides whether you violated the implied consent law. A violation isn't a criminal offense, but it means losing your license.",
+      "inPractice": "Revocations are longer with a prior DUI (2 years) or a crash causing serious injury or death (2-5 years). After injury crashes, officers test via warrant or exigency. Based on FindLaw (Jan. 2024).",
+      "detail": "First refusal: 1-year revocation",
+      "sources": [
+        {
+          "label": "Tenn. Code § 55-10-407 (FindLaw)",
+          "url": "https://codes.findlaw.com/tn/title-55-motor-and-other-vehicles/tn-code-sect-55-10-407/"
+        },
+        {
+          "label": "Tenn. Code § 55-10-406 (FindLaw)",
+          "url": "https://codes.findlaw.com/tn/title-55-motor-and-other-vehicles/tn-code-sect-55-10-406/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "TX": {
+      "status": "civil",
+      "summary": "Refusing a breath or blood test after a DWI arrest isn't a crime in Texas, but your license is suspended, and the refusal can be introduced at your trial.",
+      "inPractice": "Suspensions are longer if you have prior alcohol-related contacts. Officers can seek a search warrant for a blood draw after a refusal. Based on FindLaw (current as of January 2026).",
+      "detail": "First refusal: 180-day suspension",
+      "sources": [
+        {
+          "label": "Tex. Transp. Code § 724.035 (FindLaw)",
+          "url": "https://codes.findlaw.com/tx/transportation-code/transp-sect-724-035/"
+        },
+        {
+          "label": "Tex. Transp. Code § 724.061 (FindLaw)",
+          "url": "https://codes.findlaw.com/tx/transportation-code/transp-sect-724-061/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "UT": {
+      "status": "civil",
+      "summary": "Utah revokes your license if you refuse a chemical test after a DUI arrest. Refusal isn't a separate crime.",
+      "inPractice": "Under the version effective July 1, 2026, you may get your license back after 90 days if you're in a 24-7 sobriety program and use an interlock. With a prior in 10 years, it's 36 months.",
+      "detail": "First refusal (age 21+): 18-month revocation",
+      "sources": [
+        {
+          "label": "Utah Code § 41-6a-521",
+          "url": "https://le.utah.gov/xcode/Title41/Chapter6A/41-6a-S521.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "VT": {
+      "status": "crime",
+      "summary": "For most first-time drivers, refusing an evidentiary test in Vermont brings a civil license suspension. But refusing is a crime if you have a prior DUI conviction or were in a crash causing serious injury or death.",
+      "inPractice": "During a refusal suspension, eligible drivers may drive with an ignition interlock license or certificate. Officers can still seek a warrant for a blood draw.",
+      "detail": "First refusal: 6-month suspension",
+      "sources": [
+        {
+          "label": "23 V.S.A. § 1201",
+          "url": "https://legislature.vermont.gov/statutes/section/23/013/01201"
+        },
+        {
+          "label": "23 V.S.A. § 1205",
+          "url": "https://legislature.vermont.gov/statutes/section/23/013/01205"
+        }
+      ],
+      "confidence": "high"
+    },
+    "VA": {
+      "status": "crime",
+      "summary": "A first refusal of the breath test in Virginia is a civil offense, but refusing again within 10 years of a prior refusal or DUI conviction is a Class 1 misdemeanor.",
+      "inPractice": "Blood-test refusals are always civil. The court's suspension is added to the administrative suspension at arrest. A criminal repeat refusal means a 3-year loss of driving privileges.",
+      "detail": "First refusal: 1-year suspension (civil)",
+      "sources": [
+        {
+          "label": "Va. Code § 18.2-268.3",
+          "url": "https://law.lis.virginia.gov/vacode/title18.2/chapter7/section18.2-268.3/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WA": {
+      "status": "enhanced",
+      "summary": "Washington revokes your license if you refuse the test after a DUI arrest, and if you're convicted, a refusal puts you in the same higher penalty tier as a 0.15+ BAC.",
+      "inPractice": "For a first offense, that means at least 48 hours in jail instead of 24 (or alternatives like home monitoring) and higher fines. A second refusal within 7 years means a 2-year revocation.",
+      "detail": "First refusal: 1-year revocation",
+      "sources": [
+        {
+          "label": "RCW 46.20.3101",
+          "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.20.3101"
+        },
+        {
+          "label": "RCW 46.61.5055",
+          "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.61.5055"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WV": {
+      "status": "civil",
+      "summary": "In West Virginia, a court decides at a 'refusal review hearing' whether you refused the secondary chemical test; if so, the DMV revokes your license. Refusal isn't its own crime.",
+      "inPractice": "You can take back a refusal within 15 minutes. You have 30 days after your first court appearance to request the hearing. You may choose 45 days plus a year in the interlock program instead.",
+      "detail": "First refusal: 1-year revocation, or 45 days plus 1 year of interlock",
+      "sources": [
+        {
+          "label": "W. Va. Code § 17C-5-7a",
+          "url": "https://code.wvlegislature.gov/17C-5-7a/"
+        },
+        {
+          "label": "W. Va. Code § 17C-5-7",
+          "url": "https://code.wvlegislature.gov/17C-5-7/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WI": {
+      "status": "civil",
+      "summary": "Wisconsin revokes your operating privilege after an improper refusal of a chemical test. Refusal isn't a crime, but the refusal can be used against you in court.",
+      "inPractice": "You can get an occupational license after 30 days; a change effective Sept. 1, 2027 instead ties it to installing an interlock. Repeat refusals mean 2 or 3 years.",
+      "detail": "First refusal: 1-year revocation",
+      "sources": [
+        {
+          "label": "Wis. Stat. § 343.305",
+          "url": "https://docs.legis.wisconsin.gov/statutes/statutes/343.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WY": {
+      "status": "civil",
+      "summary": "Wyoming is unusual: since 2011, refusing a chemical test doesn't automatically suspend a regular driver's license. Instead, officers can get a search warrant, even remotely, to test you.",
+      "inPractice": "Testing without consent is also allowed after crashes causing serious injury or death. Commercial drivers who refuse are disqualified from driving commercial vehicles.",
+      "detail": "First refusal: no automatic suspension for non-commercial drivers",
+      "sources": [
+        {
+          "label": "Wyo. Stat. §§ 31-6-102, 31-6-105, 31-7-307",
+          "url": "https://wyoleg.gov/statutes/compress/title31.pdf"
+        }
+      ],
+      "confidence": "high"
+    }
+  }
+}

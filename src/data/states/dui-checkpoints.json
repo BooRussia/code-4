@@ -1,0 +1,945 @@
+{
+  "topic": "dui-checkpoints",
+  "lastVerified": "2026-10-31",
+  "entries": {
+    "AL": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Alabama and police use them. They must serve a specific purpose such as catching impaired drivers; a general roadblock to deter \"trouble\" was struck down.",
+      "inPractice": "Alabama courts upheld stopping a driver who pulled into a private driveway to avoid a checkpoint (Smith v. State, 1987), so an obvious dodge can itself lead to a stop.",
+      "detail": "Avoiding a checkpoint can justify a stop",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        },
+        {
+          "label": "Michigan Dept. of State Police v. Sitz, 496 U.S. 444 (1990)",
+          "url": "https://law.cornell.edu/supremecourt/text/496/444"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AK": {
+      "status": "not-conducted",
+      "summary": "Alaska does not run sobriety checkpoints. No state law authorizes them, so a DUI stop there generally needs an officer's individual suspicion, such as a traffic violation.",
+      "inPractice": "IIHS (2020) lists Alaska as having \"no state authority,\" and FindLaw (2025) and AAA (2025) list it among states without checkpoints. Unconfirmed: no Alaska statute, ruling, or agency statement was found.",
+      "detail": "No state law authorizing checkpoints",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        },
+        {
+          "label": "AAA/MADD, Sobriety Checkpoints state map (Dec. 2025)",
+          "url": "https://newsroom.aaa.com/wp-content/uploads/2025/12/Impaired-Driving-Campaign-Sobriety-Checkpoints-Map-vFINAL.pdf"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "AZ": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Arizona and police use them regularly. Arizona courts have upheld them under the U.S. Constitution.",
+      "inPractice": "State v. Superior Court (Ariz. 1984) approved checkpoints, and evidence from a lawful one is admissible (State v. Tykwinski, 1991). FindLaw (2025) reports they are held at least monthly.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        },
+        {
+          "label": "Michigan Dept. of State Police v. Sitz, 496 U.S. 444 (1990)",
+          "url": "https://law.cornell.edu/supremecourt/text/496/444"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AR": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Arkansas under both the state and U.S. constitutions, and police use them.",
+      "inPractice": "A checkpoint must follow a neutral, pre-set plan that limits officers' on-scene discretion (Whalen v. State, 2016), but no outside official has to approve it first (Sheridan v. State, 2007).",
+      "detail": "Must follow a neutral, pre-set plan",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CA": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal and common in California. The state Supreme Court approved them in Ingersoll v. Palmer (1987) if they follow neutral guidelines that limit officer discretion.",
+      "inPractice": "Advance publicity is a factor courts weigh but is not required (People v. Banks, 1993). FindLaw (2025) reports more than 2,500 checkpoints a year statewide.",
+      "detail": "Advance publicity helps but isn't required",
+      "sources": [
+        {
+          "label": "People v. Banks, 6 Cal.4th 926 (1993)",
+          "url": "https://scocal.stanford.edu/opinion/people-v-banks-31551"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CO": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Colorado and police use them. The Colorado Supreme Court reads the state constitution the same as the federal one on this issue.",
+      "inPractice": "People v. Rister and Orr v. People (Colo. 1990) upheld checkpoints. FindLaw (2025) reports they are held about once or twice a month under a state checkpoint manual.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CT": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Connecticut and police use them. The state Supreme Court upheld them under the Connecticut Constitution.",
+      "inPractice": "State v. Mikolinski, 775 A.2d 274 (Conn. 2001), is the leading ruling. FindLaw (2025) lists Connecticut among checkpoint states with no set frequency.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "DE": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Delaware and used regularly. You can legally turn away before one if you obey traffic laws: a Delaware court held a legal U-turn before a checkpoint did not justify a stop.",
+      "inPractice": "The avoidance ruling is Howard v. Voshell (Del. Super. 1992), a trial-level decision. FindLaw (2025) reports checkpoints monthly early in the year and weekly from July to December.",
+      "detail": "Legal U-turn alone isn't grounds for a stop",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "DC": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Washington, D.C., and police use them. D.C.'s highest court has upheld them under the U.S. Constitution.",
+      "inPractice": "Galberth v. United States, 590 A.2d 990 (D.C. 1991), upheld checkpoint stops. FindLaw (2025) reports about one or two checkpoints a month in the District.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "FL": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Florida and used often. They must follow written guidelines, set in advance, that control how officers choose which cars to stop.",
+      "inPractice": "State v. Jones (Fla. 1986) set the written-guidelines rule. In Campbell v. State (Fla. 1996), a checkpoint failed because its guidelines didn't say how vehicles would be selected.",
+      "detail": "Written guidelines required",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "GA": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal and common in Georgia. Normal, legal driving that happens to avoid a checkpoint isn't grounds for a stop, but unusual evasive moves can give police reasonable suspicion.",
+      "inPractice": "LaFontaine v. State (Ga. 1998) requires, among other things, that a supervisor decide on the checkpoint in advance, not officers in the field. Taylor v. State (Ga. App. 2001) is the avoidance ruling.",
+      "detail": "Supervisor must approve in advance",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "HI": {
+      "status": "conducted",
+      "summary": "Hawaii law lets county police run \"intoxicant control roadblocks\" with advance warning by signs or flares. Police can't stop you just for legally turning away before a checkpoint.",
+      "inPractice": "HRS 291E-20 requires stopping all cars or a set sequence and caps each roadblock at three hours in one spot. State v. Heapy (Haw. 2007) barred stops based only on a turn ahead of a checkpoint.",
+      "detail": "Authorized by statute (HRS 291E-19)",
+      "sources": [
+        {
+          "label": "Haw. Rev. Stat. § 291E-19",
+          "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291E/HRS_0291E-0019.htm"
+        },
+        {
+          "label": "Haw. Rev. Stat. § 291E-20 (minimum standards; notes State v. Heapy, 2007)",
+          "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291E/HRS_0291E-0020.htm"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        }
+      ],
+      "confidence": "high"
+    },
+    "ID": {
+      "status": "prohibited",
+      "summary": "Sobriety checkpoints aren't allowed in Idaho. The Idaho Supreme Court held a DUI roadblock violated the state constitution without legislative authority, and state law allows roadblocks only to catch wanted suspects.",
+      "inPractice": "State v. Henderson (Idaho 1988) relied on art. I, sec. 17. Idaho Code 19-621 still limits roadblocks to apprehending people believed wanted for crimes, so DUI stops need individual suspicion.",
+      "detail": "Barred under state constitution (Henderson)",
+      "sources": [
+        {
+          "label": "State v. Henderson, 114 Idaho 293, 756 P.2d 1057 (1988)",
+          "url": "https://hallapproved.com/id/cases/supreme/1988/1162605"
+        },
+        {
+          "label": "Idaho Code § 19-621 (road blocks)",
+          "url": "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH6/SECT19-621"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        }
+      ],
+      "confidence": "high"
+    },
+    "IL": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal and widely used in Illinois. The Illinois Supreme Court upheld them under the U.S. Constitution in People v. Bartley (1985).",
+      "inPractice": "Bartley approved a checkpoint run under preset procedures that limited officer discretion. FindLaw (2025) reports about one or two checkpoints a month per county.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "IN": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Indiana and used occasionally. The Indiana Supreme Court said they don't automatically violate the state constitution, though a poorly run one can.",
+      "inPractice": "In State v. Gerschoffer (Ind. 2002) the court struck down the particular roadblock at issue. An appeals court has held that avoiding a checkpoint can justify a stop (Snyder v. State, 1989).",
+      "detail": "Avoiding a checkpoint can justify a stop",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "IA": {
+      "status": "prohibited",
+      "summary": "Iowa doesn't allow sobriety checkpoints. State law permits routine roadblocks only to check licenses, registration, safety equipment, and fish-and-game rules, so DUI checkpoints aren't authorized.",
+      "inPractice": "Iowa Code 321K.1 (2026) allows routine roadblocks \"only as provided\" there. Officers can still arrest impaired drivers found at a lawful license or equipment roadblock (State v. Day, 1995).",
+      "detail": "Statute limits what roadblocks can check",
+      "sources": [
+        {
+          "label": "Iowa Code § 321K.1 (2026)",
+          "url": "https://www.legis.iowa.gov/docs/code/321K.1.pdf"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "KS": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Kansas and used regularly. The Kansas Supreme Court upheld them and said no special authorization from the legislature is needed.",
+      "inPractice": "State v. Deskins (Kan. 1983) set factors for a reasonable checkpoint, and Davis v. Kansas Dept. of Revenue (1992) rejected the need for a statute. FindLaw (2025) reports one or two a month.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "KY": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal and common in Kentucky. Supervisors must set the time, place, and procedures in advance, and the checkpoint must be clearly visible to approaching drivers.",
+      "inPractice": "Commonwealth v. Buchanon (Ky. 2003) set these factors. Kentucky courts have held that turning to avoid a checkpoint can justify a stop (Bauder v. Commonwealth, Ky. 2009).",
+      "detail": "Avoiding a checkpoint can justify a stop",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "LA": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Louisiana. In 2000 the Louisiana Supreme Court reversed its earlier rulings and upheld them under the state constitution.",
+      "inPractice": "State v. Jackson (La. 2000) overruled State v. Church (1989). FindLaw (2025) says checkpoints are more common around holidays and major events.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "ME": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Maine and used, especially in summer. The state must show a checkpoint was planned and run under guidelines that limit officer discretion.",
+      "inPractice": "State v. Kent (Me. 2011) put that burden on the state. Maine's high court has held that avoiding a checkpoint can be grounds for an investigative stop (State v. D'Angelo, 1992).",
+      "detail": "Avoiding a checkpoint can justify a stop",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MD": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal and used often in Maryland. The state's highest court upheld them under both the Maryland and U.S. constitutions.",
+      "inPractice": "Little v. State, 479 A.2d 903 (Md. 1984), is the leading ruling. FindLaw (2025) reports Maryland agencies hold checkpoints about weekly.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MA": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Massachusetts when run under written guidelines that leave officers little discretion. Checkpoints aimed at finding drugs are not allowed.",
+      "inPractice": "Commonwealth v. Shields (Mass. 1988) upheld them, and later cases threw out checkpoints that didn't follow guidelines. Further testing at a checkpoint needs reasonable suspicion (Commonwealth v. Murphy, 2009).",
+      "detail": "Written guidelines required",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MI": {
+      "status": "prohibited",
+      "summary": "Sobriety checkpoints are banned in Michigan. The U.S. Supreme Court allowed Michigan's program in 1990, but the Michigan Supreme Court then held it violated the state constitution.",
+      "inPractice": "Sitz v. Department of State Police (Mich. 1993) rests on art. 1, sec. 11 of the Michigan Constitution. Police there need individual suspicion, such as a traffic violation, to stop a driver.",
+      "detail": "Banned by state constitution",
+      "sources": [
+        {
+          "label": "Sitz v. Dep't of State Police, 443 Mich. 744, 506 N.W.2d 209 (1993)",
+          "url": "https://law.justia.com/cases/michigan/supreme-court/1993/93851-6.html"
+        },
+        {
+          "label": "Michigan Dept. of State Police v. Sitz, 496 U.S. 444 (1990)",
+          "url": "https://law.cornell.edu/supremecourt/text/496/444"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MN": {
+      "status": "prohibited",
+      "summary": "Sobriety checkpoints are banned in Minnesota. The Minnesota Supreme Court held that roadblocks stopping drivers without individual suspicion violate the state constitution.",
+      "inPractice": "Ascher v. Commissioner of Public Safety (Minn. 1994) relied on art. I, sec. 10; Gray v. Commissioner, decided the same day, applied it to a St. Paul checkpoint.",
+      "detail": "Banned by state constitution",
+      "sources": [
+        {
+          "label": "Gray v. Comm'r of Public Safety, 519 N.W.2d 187 (Minn. 1994) (applying Ascher, 519 N.W.2d 183)",
+          "url": "https://hallapproved.com/mn/cases/supreme/1994/1668588/"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MS": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Mississippi and used often. Courts have upheld roadblocks that stop every vehicle, even without written procedures, because that removes officer discretion.",
+      "inPractice": "Miller v. State (Miss. 1979) and McLendon v. State (Miss. 2006) are the key rulings. FindLaw (2025) reports checkpoints about weekly.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MO": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Missouri, but the state budget prohibits funding them, including with federal grant money, so they are less common. Courts require written procedures.",
+      "inPractice": "State v. Canton (Mo. App. 1989) requires written procedures, and avoiding a checkpoint can justify a stop (Oughton v. Director of Revenue, 1996). How often local police still hold them is unconfirmed.",
+      "detail": "Budget limits funding for checkpoints",
+      "sources": [
+        {
+          "label": "AAA/MADD, Sobriety Checkpoints state map (Dec. 2025)",
+          "url": "https://newsroom.aaa.com/wp-content/uploads/2025/12/Impaired-Driving-Campaign-Sobriety-Checkpoints-Map-vFINAL.pdf"
+        },
+        {
+          "label": "NHTSA, Countermeasures That Work: Publicized sobriety checkpoints",
+          "url": "https://www.nhtsa.gov/book/countermeasures-that-work/alcohol-impaired-driving/countermeasures/enforcement/publicized"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MT": {
+      "status": "not-conducted",
+      "summary": "Montana has no law specifically authorizing sobriety checkpoints, and FindLaw (2025) lists it among states that don't use them. State law does allow planned safety roadblocks in high-crash areas.",
+      "inPractice": "Those roadblocks (MCA 46-5-502, -510) need a written plan, supervisor approval, and 48-hour media notice. IIHS (2020) says checkpoints have run under this law; current DUI use is unconfirmed.",
+      "detail": "Safety roadblocks need 48-hour media notice",
+      "sources": [
+        {
+          "label": "Mont. Code Ann. § 46-5-502 (temporary roadblocks)",
+          "url": "https://mca.legmt.gov/bills/mca/title_0460/chapter_0050/part_0050/section_0020/0460-0050-0050-0020.html"
+        },
+        {
+          "label": "Mont. Code Ann. § 46-5-510 (roadblock plan and notice)",
+          "url": "https://mca.legmt.gov/bills/mca/title_0460/chapter_0050/part_0050/section_0100/0460-0050-0050-0100.html"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "NE": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal and used often in Nebraska. You can legally turn off before one as long as you follow traffic laws: avoiding a checkpoint does not, by itself, justify a stop.",
+      "inPractice": "Per IIHS's case-law summary, Nebraska courts have held avoidance alone doesn't justify a stop. State v. Piper (Neb. 2014) requires the checkpoint plan to be approved at the policymaking level.",
+      "detail": "Plan needs policymaking-level approval",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NV": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal and used often in Nevada. State law allows \"administrative roadblocks\" that are clearly visible and marked with a stop sign, a flashing red light, and advance \"police stop\" warnings.",
+      "inPractice": "NRS 484B.570 requires warning signs at least a quarter mile ahead in rural areas and 700 feet in urban areas. FindLaw (2025) reports checkpoints several times a month.",
+      "detail": "Advance warning signs required by law",
+      "sources": [
+        {
+          "label": "Nev. Rev. Stat. § 484B.570 (administrative roadblocks)",
+          "url": "https://www.leg.state.nv.us/NRS/NRS-484B.html"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NH": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in New Hampshire only with a court order. Police must petition the superior court, which must find the checkpoint warranted and its stopping method constitutional.",
+      "inPractice": "RSA 265:1-a sets the court-order rule. More than 60 New Hampshire agencies ran checkpoints on St. Patrick's Day 2026.",
+      "detail": "Superior court order required",
+      "sources": [
+        {
+          "label": "N.H. Rev. Stat. Ann. § 265:1-a",
+          "url": "https://gc.nh.gov/rsa/html/XXI/265/265-1-a.htm"
+        },
+        {
+          "label": "The Pulse of NH, \"Sobriety Checkpoints Are Set For Tonight\" (Mar. 17, 2026)",
+          "url": "https://thepulseofnh.com/sobriety-checkpoints-are-set-for-tonight/"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NJ": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in New Jersey and used several times a month. Courts have upheld them under the state and U.S. constitutions.",
+      "inPractice": "In State v. Badessa (App. Div. 2004), stopping a driver for a lawful turn inside a checkpoint zone was invalid without posted no-turn warnings; the case was reversed on other grounds in 2005.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NM": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal and used often in New Mexico, especially in summer and on holidays. A legal turn away from a checkpoint, combined with other suspicious signs, can justify a stop.",
+      "inPractice": "City of Las Cruces v. Betancourt (N.M. App. 1987) is the leading checkpoint case; State v. Anaya (N.M. 2009) addressed turning away. Frequency is as reported by FindLaw (2025).",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NY": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in New York and used often, especially on weekends and holidays. Courts have upheld them, and written guidelines aren't required.",
+      "inPractice": "Pulling into a parking lot to evade a checkpoint justified a stop (People v. Chaffee, 1992), while a local court held that simply turning onto another road before one did not (People v. Rocket, 1992).",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NC": {
+      "status": "conducted",
+      "summary": "North Carolina law authorizes \"checking stations\" for impaired driving and other violations. They must follow a written policy with a preset stopping pattern, and at least one patrol car must have its blue light on.",
+      "inPractice": "G.S. 20-16.3A governs. The state Supreme Court has said officers may watch for drivers who turn away from a checkpoint and stop them to ask why (State v. Foreman, 2000).",
+      "detail": "Authorized by statute (G.S. 20-16.3A)",
+      "sources": [
+        {
+          "label": "N.C. Gen. Stat. § 20-16.3A",
+          "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_20/GS_20-16.3A.html"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        }
+      ],
+      "confidence": "high"
+    },
+    "ND": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in North Dakota under both the state and U.S. constitutions. Police don't have to give drivers a way to avoid a checkpoint.",
+      "inPractice": "City of Bismarck v. Uhden (N.D. 1994) upheld them; State v. Hahne (N.D. 2007) held no avoidance route is required. FindLaw (2025) says they're more common on holiday weekends.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "OH": {
+      "status": "conducted",
+      "summary": "Sobriety (OVI) checkpoints are legal in Ohio and police use them. Ohio appeals courts have upheld them under the state and U.S. constitutions.",
+      "inPractice": "State v. Bauer (Ohio App. 1994) and State v. Goines (Ohio App. 1984) are key rulings. FindLaw (2025) lists Ohio among checkpoint states with no set frequency.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "OK": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Oklahoma and are typically held once or twice a month. Courts have upheld them under the state and U.S. constitutions.",
+      "inPractice": "Geopfert v. State ex rel. Dept. of Public Safety (Okla. Civ. App. 1994) is the key ruling; frequency is as reported by FindLaw (2025).",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "OR": {
+      "status": "prohibited",
+      "summary": "Sobriety checkpoints aren't allowed in Oregon. The Oregon Supreme Court held a DUI roadblock was an unlawful seizure under the state constitution because no law explicitly authorized it.",
+      "inPractice": "Nelson v. Lane County and State v. Boyanovsky (Or. 1987) rest on art. I, sec. 9. The court said the legislature could authorize a program, but Oregon still doesn't use checkpoints (FindLaw, 2025).",
+      "detail": "Unlawful without explicit legislative OK",
+      "sources": [
+        {
+          "label": "Nelson v. Lane County, 304 Or 97, 743 P2d 692 (1987)",
+          "url": "https://hallapproved.com/or/cases/supreme/1987/2604156"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "PA": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Pennsylvania and run year-round. You can legally turn away before one: a court held a legal U-turn ahead of a checkpoint doesn't justify a stop.",
+      "inPractice": "Tarbert (1987) and Blouse (1992) set the state's guidelines; checkpoints must be placed where DUI is common (Blee, 1997). Commonwealth v. Scavello (1997) is the U-turn ruling.",
+      "detail": "Legal U-turn alone isn't grounds for a stop",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "RI": {
+      "status": "prohibited",
+      "summary": "Sobriety checkpoints are banned in Rhode Island. The Rhode Island Supreme Court held in 1989 that drunk-driving roadblocks violate the state constitution.",
+      "inPractice": "Pimental v. Department of Transportation (R.I. 1989) rests on art. I, sec. 6 of the state constitution, so the 1990 federal Sitz ruling did not change the result there.",
+      "detail": "Banned by state constitution",
+      "sources": [
+        {
+          "label": "Pimental v. Dep't of Transportation, 561 A.2d 1348 (R.I. 1989)",
+          "url": "https://law.justia.com/cases/rhode-island/supreme-court/1989/561-a-2d-1348-1.html"
+        },
+        {
+          "label": "ACLU of Rhode Island, Pimental v. Department of Transportation",
+          "url": "https://www.riaclu.org/cases/pimental-v-department-transportation/"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        }
+      ],
+      "confidence": "high"
+    },
+    "SC": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in South Carolina under the federal standard from Michigan v. Sitz, and police use them. No state statute specifically authorizes them.",
+      "inPractice": "IIHS (2020) notes South Carolina has no state checkpoint authority but conducts them. Unconfirmed: FindLaw (2025) says judicial approval is required, which no other source reviewed mentions.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        },
+        {
+          "label": "Michigan Dept. of State Police v. Sitz, 496 U.S. 444 (1990)",
+          "url": "https://law.cornell.edu/supremecourt/text/496/444"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "SD": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in South Dakota and held about monthly. Avoiding a checkpoint isn't enough on its own for a stop, but other driving behavior seen before the stop can be.",
+      "inPractice": "State v. Rademaker (S.D. 2012) said avoidance alone isn't reasonable suspicion, but factors like time of night and wide turns can add up. Frequency is as reported by FindLaw (2025).",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "TN": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Tennessee if properly run. Supervisors, not officers at the scene, must decide where and how a checkpoint operates, and officer discretion must be limited.",
+      "inPractice": "State v. Downey (Tenn. 1997) and State v. Hicks (2001) set these rules. Avoiding a checkpoint may justify a stop, but a legal U-turn doesn't necessarily (State v. Binion, 1994).",
+      "detail": "Supervisors must set the plan",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "TX": {
+      "status": "prohibited",
+      "summary": "Sobriety checkpoints aren't used in Texas. The state's top criminal court held in 1994 that they're unconstitutional without statewide rules, and the legislature has never passed such rules.",
+      "inPractice": "Holt v. State (Tex. Crim. App. 1994) controls; bills to authorize checkpoints, such as 2009's SB 298, did not become law. Police rely on increased and saturation patrols instead.",
+      "detail": "Struck down absent statewide authorization",
+      "sources": [
+        {
+          "label": "Holt v. State, 887 S.W.2d 16 (Tex. Crim. App. 1994)",
+          "url": "https://law.justia.com/cases/texas/court-of-criminal-appeals/1994/599-93-4.html"
+        },
+        {
+          "label": "Texas Senate Research Center, bill analysis of C.S.S.B. 298 (2009)",
+          "url": "https://www.lrl.texas.gov/scanned/srcBillAnalyses/81-0/SB298RPT.PDF"
+        },
+        {
+          "label": "Yahoo News, \"Can Texas police set up DWI checkpoints in Dallas-Fort Worth?\" (Feb. 2024)",
+          "url": "https://ca.news.yahoo.com/texas-police-set-dwi-checkpoints-134306985.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "UT": {
+      "status": "conducted",
+      "summary": "Utah allows DUI checkpoints only with a magistrate's written approval of a detailed plan. A court held that legally avoiding a checkpoint doesn't justify a stop, so you may turn away if you obey traffic laws.",
+      "inPractice": "Utah Code 77-23-104 requires the plan, which officers must show a stopped driver on request; checkpoint signs can't be posted without approval (77-23-104.5). State v. Talbot (1990) is the avoidance case.",
+      "detail": "Magistrate approval required",
+      "sources": [
+        {
+          "label": "Utah Code § 77-23-104 (as amended 2023)",
+          "url": "https://le.utah.gov/xcode/Title77/Chapter23/C77-23-S104_2023050320230701.html"
+        },
+        {
+          "label": "Utah Code § 77-23-104.5",
+          "url": "https://le.utah.gov/xcode/Title77/Chapter23/C77-23-S104.5_1800010118000101.html"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        }
+      ],
+      "confidence": "high"
+    },
+    "VT": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal and used often in Vermont. The Vermont Supreme Court upheld them under the state and U.S. constitutions.",
+      "inPractice": "State v. Martin (Vt. 1985) and State v. Record (Vt. 1988) are the leading rulings. FindLaw (2025) reports checkpoints about weekly.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "VA": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in Virginia. Legal driving moves that take you away from a checkpoint don't justify a stop by themselves, though some avoidance maneuvers can.",
+      "inPractice": "Lowe v. Commonwealth (Va. 1985) upheld checkpoints; Murphy v. Commonwealth (1989) and Bass v. Commonwealth (Va. 2000) addressed legal turnarounds. FindLaw (2025) says checkpoints are held occasionally.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WA": {
+      "status": "prohibited",
+      "summary": "Sobriety checkpoints aren't allowed in Washington. The state Supreme Court held Seattle's checkpoint program violated the state constitution's privacy clause, which protects more than the Fourth Amendment.",
+      "inPractice": "City of Seattle v. Mesiani (Wash. 1988) found no \"authority of law\" for the stops. Later bills to authorize checkpoints, such as 1991's HB 2013, did not become law.",
+      "detail": "Banned under state constitution",
+      "sources": [
+        {
+          "label": "City of Seattle v. Mesiani, 110 Wn.2d 454, 755 P.2d 775 (1988)",
+          "url": "https://law.justia.com/cases/washington/supreme-court/1988/53825-5-1.html"
+        },
+        {
+          "label": "Wash. Senate Bill Report, HB 2013 (1991-92)",
+          "url": "https://lawfilesext.leg.wa.gov/biennium/1991-92/Htm/Bill%20Reports/Senate/2013.SBR.htm"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WV": {
+      "status": "conducted",
+      "summary": "Sobriety checkpoints are legal in West Virginia and held several times a month. They must follow a preset plan with neutral procedures for choosing which vehicles to stop.",
+      "inPractice": "Carte v. Cline (W. Va. 1995) upheld them; State v. Sigler (2009) set a balancing test, and Reed v. Pettit (2015) held minor departures from guidelines don't automatically void a checkpoint.",
+      "sources": [
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WI": {
+      "status": "prohibited",
+      "summary": "Sobriety checkpoints are banned by statute in Wisconsin. Officers may not stop a vehicle just to check compliance with traffic laws, including drunk-driving laws, without reasonable cause to suspect a violation.",
+      "inPractice": "Wis. Stat. 349.02(2)(a) is the bar. Bills to allow checkpoints, such as 2015 SB 683, did not pass, so DUI stops require reasonable suspicion of a violation.",
+      "detail": "Banned by state statute",
+      "sources": [
+        {
+          "label": "Wis. Stat. § 349.02(2)(a)",
+          "url": "https://docs.legis.wisconsin.gov/document/statutes/349.02(2)(a)"
+        },
+        {
+          "label": "Wisconsin 2015 Senate Bill 683 (sobriety checkpoints)",
+          "url": "https://docs.legis.wisconsin.gov/2015/proposals/sb683"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WY": {
+      "status": "not-conducted",
+      "summary": "Wyoming does not conduct sobriety checkpoints. Its roadblock law covers catching people believed to be wanted for crimes, and Wyoming attorneys general have read it as not authorizing DUI checkpoints.",
+      "inPractice": "W.S. 7-17-102 governs; a 2003 bill (HB 128) to add sobriety checkpoints did not change that, per later sources. AG opinions (1986, 1996) called checkpoints constitutional but not authorized.",
+      "detail": "No statutory authority for checkpoints",
+      "sources": [
+        {
+          "label": "NORML, Wyoming Drugged Driving (citing Wyo. Stat. § 7-17-102 and AG opinions)",
+          "url": "https://norml.org/laws/drugged-driving/wyoming-drugged-driving/"
+        },
+        {
+          "label": "Wyoming 2003 House Bill 128, Sobriety checkpoints (introduced)",
+          "url": "https://wyoleg.gov/2003/introduced/hb0128.pdf"
+        },
+        {
+          "label": "IIHS, Summary of state court decisions on the constitutionality of sobriety checkpoints (Jan. 2020)",
+          "url": "https://iihs.org/api/datastoredocument/bibliography/2198"
+        },
+        {
+          "label": "FindLaw, DUI Checkpoint Laws by State (updated Aug. 2025)",
+          "url": "https://findlaw.com/dui/arrests/dui-checkpoint-laws-by-state.html"
+        }
+      ],
+      "confidence": "medium"
+    }
+  }
+}

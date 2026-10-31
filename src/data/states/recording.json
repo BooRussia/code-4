@@ -1,0 +1,833 @@
+{
+  "topic": "recording",
+  "lastVerified": "2026-10-31",
+  "entries": {
+    "AL": {
+      "status": "one-party",
+      "summary": "Alabama is a one-party consent state (Ala. Code § 13A-11-30), and talk in public with no privacy expectation isn't protected, so you can openly record video and audio of the officer at your own stop.",
+      "inPractice": "The 11th Circuit recognizes a First Amendment right to record police on public property (Smith v. City of Cumming, 2000). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Alabama",
+          "url": "https://www.rcfp.org/reporters-recording-guide/alabama/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AK": {
+      "status": "one-party",
+      "summary": "Alaska is a one-party consent state (Alaska Stat. § 42.20.310), and its top court says the eavesdropping law doesn't stop a participant from recording, so you can record your own traffic stop.",
+      "inPractice": "The 9th Circuit recognizes a right to record officers doing their jobs in public (Fordyce v. Seattle, 1995; Askins v. DHS, 2018). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Alaska",
+          "url": "https://www.rcfp.org/reporters-recording-guide/alaska/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AZ": {
+      "status": "one-party",
+      "summary": "Arizona is a one-party consent state (A.R.S. § 13-3005), so you can record your own traffic stop, including audio. No distance limit on filming police is in effect.",
+      "inPractice": "A 2022 law banning filming within 8 feet of police (A.R.S. § 13-3732) was permanently blocked in 2023 and never took effect. The 9th Circuit protects recording police in public (Askins, 2018). Don't interfere.",
+      "detail": "8-ft filming ban permanently blocked (2023)",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Arizona",
+          "url": "https://www.rcfp.org/reporters-recording-guide/arizona/"
+        },
+        {
+          "label": "EFF: Federal judge upholds Arizonans' right to record police (Aug. 2023)",
+          "url": "https://www.eff.org/deeplinks/2023/08/federal-judge-upholds-arizonans-right-record-police"
+        }
+      ],
+      "confidence": "high"
+    },
+    "AR": {
+      "status": "one-party",
+      "summary": "Arkansas is a one-party consent state (Ark. Code § 5-60-120), so you can record a conversation you're part of, including openly recording the officer at your own traffic stop.",
+      "inPractice": "The 8th Circuit hasn't squarely ruled on recording police but has cited other circuits' right-to-record rulings approvingly (Chestnut v. Wallace, 2020). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Arkansas",
+          "url": "https://www.rcfp.org/reporters-recording-guide/arkansas/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CA": {
+      "status": "all-party",
+      "summary": "California requires all-party consent to record a 'confidential' conversation (Penal Code § 632), but talk with an officer at a roadside stop usually isn't confidential, so open recording is generally lawful.",
+      "inPractice": "Penal Code § 148(g) says recording an officer from a place you have a right to be isn't, by itself, obstruction or grounds to detain or arrest. The 9th Circuit protects it too (Askins, 2018). Don't interfere.",
+      "detail": "All-party for confidential talks only",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: California",
+          "url": "https://www.rcfp.org/reporters-recording-guide/california/"
+        },
+        {
+          "label": "Cal. Penal Code § 148 (FindLaw)",
+          "url": "https://codes.findlaw.com/ca/penal-code/pen-sect-148/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CO": {
+      "status": "one-party",
+      "summary": "Colorado is a one-party consent state (C.R.S. § 18-9-304), and a state law (C.R.S. § 16-3-311) protects your right to record any incident involving a police officer as long as you don't interfere.",
+      "inPractice": "Officers generally can't seize your recording without consent or a warrant, and C.R.S. § 13-21-128 lets you sue over interference. The 10th Circuit recognizes the right too (Irizarry v. Yehia, 2022).",
+      "detail": "State law protects recording police",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Colorado",
+          "url": "https://www.rcfp.org/reporters-recording-guide/colorado/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "CT": {
+      "status": "one-party",
+      "summary": "For in-person talk, Connecticut needs only one party's consent (Conn. Gen. Stat. §§ 53a-187, -189), so you can record your own traffic stop. Phone calls have a stricter all-party rule.",
+      "inPractice": "The 2nd Circuit hasn't squarely ruled on a First Amendment right to record police, though many courts recognize it for officers working in public. Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party for in-person conversations",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Connecticut",
+          "url": "https://www.rcfp.org/reporters-recording-guide/connecticut/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "DE": {
+      "status": "one-party",
+      "summary": "Delaware's wiretap law lets a participant record (11 Del. C. § 2402), but an older privacy law (§ 1335) seems to require everyone's consent for private talk. Police at a roadside stop generally have no privacy expectation.",
+      "inPractice": "The 3rd Circuit protects recording police doing their jobs in public (Fields v. Philadelphia, 2017). Because the two state laws conflict, recording openly is the safer choice. Don't interfere.",
+      "detail": "Conflicting consent laws; record openly",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Delaware",
+          "url": "https://www.rcfp.org/reporters-recording-guide/delaware/"
+        },
+        {
+          "label": "Fields v. City of Philadelphia, 862 F.3d 353 (3d Cir. 2017)",
+          "url": "https://www2.ca3.uscourts.gov/opinarch/161650p.pdf"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "DC": {
+      "status": "one-party",
+      "summary": "D.C. is a one-party consent jurisdiction (D.C. Code § 23-542), so you can record your own stop. D.C. police policy recognizes a First Amendment right to record officers working in public.",
+      "inPractice": "MPD General Order 304.19 bars officers from ordering you to stop recording unless you interfere. The D.C. Circuit hasn't directly ruled on a right to record. You may still be told to keep hands visible.",
+      "detail": "Police policy protects recording",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: District of Columbia",
+          "url": "https://www.rcfp.org/reporters-recording-guide/district-of-columbia/"
+        },
+        {
+          "label": "MPD General Order OPS-304.19 (recording of MPD members by the public)",
+          "url": "https://go.mpdconline.com/GO/GO_304_19.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "FL": {
+      "status": "buffer-law",
+      "summary": "Florida's 'Halo' law (§ 843.31, 2025) makes it a crime to stay within 25 feet of police after a warning if you intend to impede, threaten or harass. Audio needs all-party consent (§ 934.03), but only for private talk.",
+      "inPractice": "Police on duty in public generally lack a privacy expectation, so open recording is usually lawful; if warned, film from 25+ feet. 11th Circuit: Smith v. City of Cumming (2000). We found no order blocking § 843.31.",
+      "detail": "25-ft buffer after warning (since 2025)",
+      "sources": [
+        {
+          "label": "Fla. Stat. § 843.31",
+          "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0843/Sections/0843.31.html"
+        },
+        {
+          "label": "Fla. Stat. § 934.03",
+          "url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0900-0999/0934/Sections/0934.03.html"
+        },
+        {
+          "label": "RCFP Reporter's Recording Guide: Florida",
+          "url": "https://www.rcfp.org/reporters-recording-guide/florida/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "GA": {
+      "status": "one-party",
+      "summary": "Georgia lets a participant record a conversation (one-party, Ga. Code § 16-11-62), and the law covers talk in private places, so openly recording the officer at a roadside stop is generally lawful.",
+      "inPractice": "Georgia's all-party rule for video applies inside private places, not a public road. The 11th Circuit recognizes a right to record police (Smith v. City of Cumming, 2000). Don't interfere.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Georgia",
+          "url": "https://www.rcfp.org/reporters-recording-guide/georgia/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "HI": {
+      "status": "one-party",
+      "summary": "Hawaii is generally a one-party consent state (HRS § 803-42), and its privacy law (HRS § 711-1111) allows recording officers on duty where they have no privacy expectation, if you don't interfere.",
+      "inPractice": "Hawaii's Supreme Court held that filming officials in public is protected by the U.S. and Hawaii constitutions (State v. Russo, 2017). 9th Circuit: Fordyce (1995), Askins (2018). Keep hands visible if told.",
+      "detail": "State law allows recording officers on duty",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Hawaii",
+          "url": "https://www.rcfp.org/reporters-recording-guide/hawaii/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "ID": {
+      "status": "one-party",
+      "summary": "Idaho is a one-party consent state (Idaho Code § 18-6702), so you can record your own traffic stop, including the officer's voice.",
+      "inPractice": "The 9th Circuit recognizes a First Amendment right to record officers doing their jobs in public (Fordyce, 1995; Askins, 2018). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Idaho",
+          "url": "https://www.rcfp.org/reporters-recording-guide/idaho/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "IL": {
+      "status": "all-party",
+      "summary": "Illinois requires all-party consent to secretly record a 'private conversation' (720 ILCS 5/14-2). An officer talking with you at a roadside stop generally has no privacy expectation.",
+      "inPractice": "ACLU v. Alvarez (7th Cir. 2012) protects openly recording police in public, and the law was narrowed in 2014 after courts struck the old one. Hidden recording is riskier, so record openly. Don't interfere.",
+      "detail": "All-party, private conversations only",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Illinois",
+          "url": "https://www.rcfp.org/reporters-recording-guide/illinois/"
+        },
+        {
+          "label": "720 ILCS 5/14-2 (FindLaw)",
+          "url": "https://codes.findlaw.com/il/chapter-720-criminal-offenses/il-st-sect-720-5-14-2/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "IN": {
+      "status": "buffer-law",
+      "summary": "Indiana lets an officer order you to stop approaching within 25 feet if the officer reasonably believes you'll interfere (IC 35-44.1-2-15, 2025). The wiretap law doesn't address in-person talk, so you can record.",
+      "inPractice": "The 7th Circuit blocked the original 2023 buffer law as too vague (RCFP v. Rokita, Aug. 2025); the narrower 2025 law wasn't part of that case. ACLU v. Alvarez (2012) protects recording police. Don't interfere.",
+      "detail": "25-ft buffer (2025 version in effect)",
+      "sources": [
+        {
+          "label": "Reporters Committee v. Rokita, No. 24-2927 (7th Cir. Aug. 5, 2025)",
+          "url": "https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Submit=Display&Path=Y2025%2FD08-05%2FC%3A24-2927%3AJ%3APryor%3Aaut%3AT%3AfnOp%3AN%3A3407113%3AS%3A0"
+        },
+        {
+          "label": "RCFP: 7th Circuit rules Indiana buffer law unconstitutional (Aug. 2025)",
+          "url": "https://www.rcfp.org/indiana-buffer-zone-law-7th-circuit/"
+        },
+        {
+          "label": "RCFP Reporter's Recording Guide: Indiana",
+          "url": "https://www.rcfp.org/reporters-recording-guide/indiana/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "IA": {
+      "status": "one-party",
+      "summary": "Iowa is a one-party consent state (Iowa Code § 808B.2), and talk without a privacy expectation isn't covered, so you can openly record the officer at your own traffic stop.",
+      "inPractice": "The 8th Circuit hasn't squarely ruled on recording police but has cited other circuits' right-to-record rulings approvingly (Chestnut v. Wallace, 2020). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Iowa",
+          "url": "https://www.rcfp.org/reporters-recording-guide/iowa/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "KS": {
+      "status": "buffer-law",
+      "summary": "Since July 1, 2026, Kansas's 'Halo Act' makes it a misdemeanor to approach or stay within 25 feet of police after a signal to stay back, if it distracts them or raises safety fears. Audio is one-party consent (K.S.A. 21-6101).",
+      "inPractice": "The officer's signal must rest on a reasonable safety concern. The 10th Circuit recognizes a right to film police in public (Irizarry v. Yehia, 2022). As of late Oct. 2026, no court had blocked the law.",
+      "detail": "25-ft buffer after signal (since July 2026)",
+      "sources": [
+        {
+          "label": "Kansas Legislature: HB 2372 (2026)",
+          "url": "https://www.kslegislature.gov/li/b2025_26/measures/hb2372/"
+        },
+        {
+          "label": "KCUR: Prairie Village rejects Kansas Halo Act (Oct. 28, 2026)",
+          "url": "https://www.kcur.org/news/2026-10-28/prairie-village-rejects-kansas-halo-act-police-buffer"
+        },
+        {
+          "label": "RCFP Reporter's Recording Guide: Kansas",
+          "url": "https://www.rcfp.org/reporters-recording-guide/kansas/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "KY": {
+      "status": "buffer-law",
+      "summary": "Kentucky's 2026 law (SB 104) makes it a crime to stay within 25 feet of a first responder after a warning if you intend to impede, threaten or harass. Audio is one-party consent (KRS 526.020).",
+      "inPractice": "In effect since July 15, 2026. The 6th Circuit hasn't squarely ruled on recording police but recognizes a general right to gather information in public (Hils v. Davis, 2022). Don't interfere.",
+      "detail": "25-ft buffer after warning (since July 2026)",
+      "sources": [
+        {
+          "label": "Kentucky Legislature: SB 104 (2026 RS) record",
+          "url": "https://apps.legislature.ky.gov/record/26rs/sb104.html"
+        },
+        {
+          "label": "Kentucky SB 104 (2026) bill text",
+          "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb104/bill.pdf"
+        },
+        {
+          "label": "WYMT: Kentucky Halo Act takes effect (July 2026)",
+          "url": "https://www.wymt.com/2026/07/20/kentuckys-halo-act-creates-25-foot-buffer-zone-around-first-responder-scenes/"
+        },
+        {
+          "label": "RCFP Reporter's Recording Guide: Kentucky",
+          "url": "https://www.rcfp.org/reporters-recording-guide/kentucky/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "LA": {
+      "status": "one-party",
+      "summary": "Louisiana is a one-party consent state (La. R.S. 15:1303), so you can record your own stop. A 2024 law making it a crime to approach within 25 feet of police after an order (R.S. 14:109) is blocked in court.",
+      "inPractice": "In Jan. 2025 a federal judge found the 25-ft law likely too vague and barred the AG, State Police and East Baton Rouge DA from enforcing it; the 5th Circuit heard the appeal in June 2026. Don't interfere.",
+      "detail": "25-ft buffer law blocked; appeal pending",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Louisiana",
+          "url": "https://www.rcfp.org/reporters-recording-guide/louisiana/"
+        },
+        {
+          "label": "La. R.S. 14:109",
+          "url": "https://legis.la.gov/Legis/Law.aspx?d=78266"
+        },
+        {
+          "label": "Deep South Today v. Murrill, ruling and order (M.D. La. Jan. 31, 2025)",
+          "url": "https://www.courthousenews.com/wp-content/uploads/2026/06/deep-south-today-v-murrill-order-on-motion-to-dismiss-and-preliminary-injunction.pdf"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "ME": {
+      "status": "one-party",
+      "summary": "Maine is a one-party consent state (15 M.R.S. §§ 709-710), so you can record your own conversation with an officer, video and audio.",
+      "inPractice": "The 1st Circuit protects filming police at traffic stops unless the officer can reasonably conclude the filming itself interferes (Gericke v. Begin, 2014; Glik v. Cunniffe, 2011). Keep hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Maine",
+          "url": "https://www.rcfp.org/reporters-recording-guide/maine/"
+        },
+        {
+          "label": "Glik v. Cunniffe, No. 10-1764 (1st Cir. 2011)",
+          "url": "https://media.ca1.uscourts.gov/pdf.opinions/10-1764P-01A.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MD": {
+      "status": "all-party",
+      "summary": "Maryland requires all-party consent to record a private conversation (Cts. & Jud. Proc. § 10-402), but only where there's a reasonable privacy expectation, which an officer at a roadside stop generally lacks.",
+      "inPractice": "In 2010 a state judge dismissed wiretap charges against a motorcyclist who recorded his own traffic stop (State v. Graber). The 4th Circuit says livestreaming a stop is protected speech (Sharpe, 2023).",
+      "detail": "All-party, private conversations only",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Maryland",
+          "url": "https://www.rcfp.org/reporters-recording-guide/maryland/"
+        },
+        {
+          "label": "Md. Cts. & Jud. Proc. § 10-402",
+          "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcj&section=10-402"
+        },
+        {
+          "label": "Sharpe v. Winterville Police Dep't, No. 21-1827 (4th Cir. 2023)",
+          "url": "https://www.ca4.uscourts.gov/opinions/211827.P.pdf"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MA": {
+      "status": "all-party",
+      "summary": "Massachusetts bans secretly recording anyone's words without consent (G.L. c. 272, § 99), even in public. Recording openly, with your phone in plain view, isn't 'secret' and is protected for police on duty.",
+      "inPractice": "A driver was convicted for secretly taping his own traffic stop (Commonwealth v. Hyde, 2001). The 1st Circuit later held the law can't bar secretly recording police working in public (Project Veritas Action Fund v. Rollins, 2020).",
+      "detail": "Secret audio banned; open recording OK",
+      "sources": [
+        {
+          "label": "Mass. G.L. c. 272, § 99",
+          "url": "https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter272/Section99"
+        },
+        {
+          "label": "RCFP Reporter's Recording Guide: Massachusetts",
+          "url": "https://www.rcfp.org/reporters-recording-guide/massachusetts/"
+        },
+        {
+          "label": "Glik v. Cunniffe, No. 10-1764 (1st Cir. 2011)",
+          "url": "https://media.ca1.uscourts.gov/pdf.opinions/10-1764P-01A.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MI": {
+      "status": "all-party",
+      "summary": "Michigan bars recording others' private conversations without everyone's consent, but an appeals court says a participant may record their own (Sullivan v. Gray, 1982), and roadside talk with police is rarely private.",
+      "inPractice": "Michigan's Supreme Court hasn't settled the participant question; the 6th Circuit hasn't squarely ruled on recording police. A 25-ft buffer bill passed the state House in June 2026; we found no sign it became law.",
+      "detail": "Participants may record (appeals court)",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Michigan",
+          "url": "https://www.rcfp.org/reporters-recording-guide/michigan/"
+        },
+        {
+          "label": "WILX: Michigan lawmakers propose 25-foot buffer (June 2026)",
+          "url": "https://www.wilx.com/2026/06/11/michigan-lawmakers-propose-25-foot-buffer-zone-around-police-active-scenes/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MN": {
+      "status": "one-party",
+      "summary": "Minnesota is a one-party consent state (Minn. Stat. § 626A.02), so you can record your own conversation with an officer at a traffic stop.",
+      "inPractice": "The 8th Circuit hasn't squarely ruled on recording police but has cited other circuits' right-to-record rulings approvingly (Chestnut v. Wallace, 2020). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Minnesota",
+          "url": "https://www.rcfp.org/reporters-recording-guide/minnesota/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MS": {
+      "status": "one-party",
+      "summary": "Mississippi is a one-party consent state (Miss. Code § 41-29-531), so you can record your own traffic stop, video and audio.",
+      "inPractice": "The 5th Circuit recognizes a right to film and audio-record police, subject to reasonable time, place and manner limits (Turner v. Lieutenant Driver, 2017). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Mississippi",
+          "url": "https://www.rcfp.org/reporters-recording-guide/mississippi/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "MO": {
+      "status": "one-party",
+      "summary": "Missouri's wiretap law (§ 542.402) only reaches in-person talk where the speaker expects privacy and is widely treated as one-party, so openly recording the officer at your own stop is generally lawful.",
+      "inPractice": "Courts have rarely applied the in-person part, so the Reporters Committee urges caution with private talks; a roadside stop isn't private. 8th Circuit: Chestnut v. Wallace (2020). Don't interfere.",
+      "detail": "In-person rule thinly tested",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Missouri",
+          "url": "https://www.rcfp.org/reporters-recording-guide/missouri/"
+        },
+        {
+          "label": "Mo. Rev. Stat. § 542.402",
+          "url": "https://revisor.mo.gov/main/OneSection.aspx?section=542.402"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "MT": {
+      "status": "all-party",
+      "summary": "Montana bars recording a conversation with a hidden device without all parties knowing (MCA § 45-8-213). Open recording isn't covered, and once anyone gives a warning, either party may record.",
+      "inPractice": "So keep the phone visible or say you're recording. The 9th Circuit recognizes a right to record police in public (Fordyce, 1995; Askins, 2018). Don't interfere, and keep your hands visible if told.",
+      "detail": "Hidden-device recording needs all parties",
+      "sources": [
+        {
+          "label": "Mont. Code Ann. § 45-8-213 (2025)",
+          "url": "https://mca.legmt.gov/bills/mca/title_0450/chapter_0080/part_0020/section_0130/0450-0080-0020-0130.html"
+        },
+        {
+          "label": "RCFP Reporter's Recording Guide: Montana",
+          "url": "https://www.rcfp.org/reporters-recording-guide/montana/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NE": {
+      "status": "one-party",
+      "summary": "Nebraska is a one-party consent state (Neb. Rev. Stat. § 86-290), and talk in public without a privacy expectation isn't covered, so you can record your own traffic stop.",
+      "inPractice": "The 8th Circuit hasn't squarely ruled on recording police but has cited other circuits' right-to-record rulings approvingly (Chestnut v. Wallace, 2020). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Nebraska",
+          "url": "https://www.rcfp.org/reporters-recording-guide/nebraska/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NV": {
+      "status": "one-party",
+      "summary": "For in-person talk, Nevada needs only one party's consent (NRS 200.650), so you can record your traffic stop. Phone calls are different: they need everyone's consent (NRS 200.620).",
+      "inPractice": "The 9th Circuit recognizes a right to record officers doing their jobs in public (Fordyce, 1995; Askins, 2018). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party in person; all-party by phone",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Nevada",
+          "url": "https://www.rcfp.org/reporters-recording-guide/nevada/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NH": {
+      "status": "all-party",
+      "summary": "New Hampshire requires all-party consent when people reasonably expect not to be recorded (RSA 570-A:2). Officers at a roadside stop generally lack that expectation, so open recording is lawful.",
+      "inPractice": "In Gericke v. Begin (2014), from a New Hampshire traffic stop, the 1st Circuit said filming police at a stop is protected unless the officer reasonably concludes it interferes. Hidden recording is riskier.",
+      "detail": "All-party; Gericke covers traffic stops",
+      "sources": [
+        {
+          "label": "N.H. RSA 570-A:2",
+          "url": "https://gc.nh.gov/rsa/html/LVIII/570-A/570-A-2.htm"
+        },
+        {
+          "label": "RCFP Reporter's Recording Guide: New Hampshire",
+          "url": "https://www.rcfp.org/reporters-recording-guide/new-hampshire/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NJ": {
+      "status": "one-party",
+      "summary": "New Jersey is a one-party consent state (N.J.S.A. 2A:156A-4), so you can record your own traffic stop, video and audio.",
+      "inPractice": "The 3rd Circuit held the First Amendment protects recording police doing their official duties in public (Fields v. City of Philadelphia, 2017). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: New Jersey",
+          "url": "https://www.rcfp.org/reporters-recording-guide/new-jersey/"
+        },
+        {
+          "label": "Fields v. City of Philadelphia, 862 F.3d 353 (3d Cir. 2017)",
+          "url": "https://www2.ca3.uscourts.gov/opinarch/161650p.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NM": {
+      "status": "one-party",
+      "summary": "New Mexico's wiretap law (NMSA § 30-12-1) covers phone and wire lines, not in-person conversations, so no one's consent is needed to record your talk with an officer.",
+      "inPractice": "The 10th Circuit recognizes a First Amendment right to film police performing their duties in public (Irizarry v. Yehia, 2022). Don't interfere, and keep your hands visible if told.",
+      "detail": "No consent rule for in-person talk",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: New Mexico",
+          "url": "https://www.rcfp.org/reporters-recording-guide/new-mexico/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NY": {
+      "status": "one-party",
+      "summary": "New York is a one-party consent state (Penal Law § 250.00), and Civil Rights Law § 79-p gives you a right to record police activity, as long as you don't physically interfere.",
+      "inPractice": "§ 79-p lets you sue over unlawful interference with recording, and even an arrest doesn't by itself end the right. The 2nd Circuit hasn't squarely ruled on the First Amendment question. Keep hands visible if told.",
+      "detail": "State law protects recording police",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: New York",
+          "url": "https://www.rcfp.org/reporters-recording-guide/new-york/"
+        },
+        {
+          "label": "N.Y. Civil Rights Law § 79-p",
+          "url": "https://www.nysenate.gov/legislation/laws/CVR/79-P"
+        }
+      ],
+      "confidence": "high"
+    },
+    "NC": {
+      "status": "one-party",
+      "summary": "North Carolina is a one-party consent state (N.C. Gen. Stat. § 15A-287), so you can record your own traffic stop.",
+      "inPractice": "In a North Carolina case, the 4th Circuit held that livestreaming a traffic stop is protected speech, though the officer got qualified immunity (Sharpe v. Winterville, 2023). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: North Carolina",
+          "url": "https://www.rcfp.org/reporters-recording-guide/north-carolina/"
+        },
+        {
+          "label": "Sharpe v. Winterville Police Dep't, No. 21-1827 (4th Cir. 2023)",
+          "url": "https://www.ca4.uscourts.gov/opinions/211827.P.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "ND": {
+      "status": "one-party",
+      "summary": "North Dakota is a one-party consent state (N.D. Cent. Code § 12.1-15-02), so you can record your own conversation with an officer at a traffic stop.",
+      "inPractice": "The 8th Circuit hasn't squarely ruled on recording police but has cited other circuits' right-to-record rulings approvingly (Chestnut v. Wallace, 2020). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: North Dakota",
+          "url": "https://www.rcfp.org/reporters-recording-guide/north-dakota/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "OH": {
+      "status": "one-party",
+      "summary": "Ohio is a one-party consent state (Ohio Rev. Code § 2933.52), so you can record your own conversation with an officer at a traffic stop.",
+      "inPractice": "The 6th Circuit hasn't squarely ruled on recording police but recognizes a general right to gather information in public (Hils v. Davis, 2022). We couldn't confirm the outcome of a 2025 bill (HB 20) on emergency scenes.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Ohio",
+          "url": "https://www.rcfp.org/reporters-recording-guide/ohio/"
+        },
+        {
+          "label": "Gannett v. Long, 6th Cir. No. 26-5182, opening brief (Apr. 2026)",
+          "url": "https://www.rcfp.org/wp-content/uploads/2026/04/2026-04-28-Gannett-v.-Long-Opening-brief.pdf"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "OK": {
+      "status": "one-party",
+      "summary": "Oklahoma is a one-party consent state (Okla. Stat. tit. 13, § 176.4), so you can record your own traffic stop, video and audio.",
+      "inPractice": "The 10th Circuit recognizes a First Amendment right to film police performing their duties in public (Irizarry v. Yehia, 2022). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Oklahoma",
+          "url": "https://www.rcfp.org/reporters-recording-guide/oklahoma/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "OR": {
+      "status": "all-party",
+      "summary": "Oregon generally requires telling everyone before recording a conversation (ORS 165.540(1)(c)), but the law allows recording an officer on duty if you do it openly, in plain view, from a place you may lawfully be.",
+      "inPractice": "That's ORS 165.540(5)(b). Secret recording is riskier: a federal challenge to the notice rule (Project Veritas v. Schmidt) has gone back and forth in the 9th Circuit. Don't interfere.",
+      "detail": "Notice rule; open recording of police OK",
+      "sources": [
+        {
+          "label": "ORS 165.540 (Oregon Legislature)",
+          "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors165.html"
+        },
+        {
+          "label": "RCFP Reporter's Recording Guide: Oregon",
+          "url": "https://www.rcfp.org/reporters-recording-guide/oregon/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "PA": {
+      "status": "all-party",
+      "summary": "Pennsylvania requires all-party consent to record in-person talk (18 Pa.C.S. § 5704), but only where people reasonably expect not to be recorded, which an officer on duty at a roadside stop generally doesn't.",
+      "inPractice": "The 3rd Circuit held the First Amendment protects recording police doing their jobs in public (Fields v. Philadelphia, 2017), after a 2010 traffic-stop case left it unsettled (Kelly v. Borough of Carlisle).",
+      "detail": "All-party, private conversations only",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Pennsylvania",
+          "url": "https://www.rcfp.org/reporters-recording-guide/pennsylvania/"
+        },
+        {
+          "label": "Fields v. City of Philadelphia, 862 F.3d 353 (3d Cir. 2017)",
+          "url": "https://www2.ca3.uscourts.gov/opinarch/161650p.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "RI": {
+      "status": "one-party",
+      "summary": "Rhode Island is a one-party consent state (R.I. Gen. Laws § 11-35-21), so you can record your own conversation with an officer, video and audio.",
+      "inPractice": "The 1st Circuit protects filming police at traffic stops unless the officer can reasonably conclude the filming itself interferes (Gericke v. Begin, 2014; Glik v. Cunniffe, 2011). Keep hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Rhode Island",
+          "url": "https://www.rcfp.org/reporters-recording-guide/rhode-island/"
+        },
+        {
+          "label": "Glik v. Cunniffe, No. 10-1764 (1st Cir. 2011)",
+          "url": "https://media.ca1.uscourts.gov/pdf.opinions/10-1764P-01A.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "SC": {
+      "status": "one-party",
+      "summary": "South Carolina is a one-party consent state (S.C. Code § 17-30-30), so you can record your own traffic stop, video and audio.",
+      "inPractice": "The 4th Circuit held livestreaming a traffic stop is protected speech (Sharpe v. Winterville, 2023). A 2026 'HALO' buffer bill (H.4763) stalled in conference and didn't become law. Don't interfere.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: South Carolina",
+          "url": "https://www.rcfp.org/reporters-recording-guide/south-carolina/"
+        },
+        {
+          "label": "Sharpe v. Winterville Police Dep't, No. 21-1827 (4th Cir. 2023)",
+          "url": "https://www.ca4.uscourts.gov/opinions/211827.P.pdf"
+        },
+        {
+          "label": "S.C. General Assembly: H.4763 (2025-2026)",
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4763.htm"
+        }
+      ],
+      "confidence": "high"
+    },
+    "SD": {
+      "status": "one-party",
+      "summary": "South Dakota is a one-party consent state (SDCL § 23A-35A-20), so you can record your own conversation with an officer at a traffic stop.",
+      "inPractice": "The 8th Circuit hasn't squarely ruled on recording police but has cited other circuits' right-to-record rulings approvingly (Chestnut v. Wallace, 2020). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: South Dakota",
+          "url": "https://www.rcfp.org/reporters-recording-guide/south-dakota/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "TN": {
+      "status": "buffer-law",
+      "summary": "Since July 1, 2025, Tennessee makes it a crime to approach within 25 feet of an officer at a traffic stop, crime scene or emergency after being told to stop or back up (T.C.A. § 39-16-612). Audio is one-party consent.",
+      "inPractice": "A judge refused to block the law in Feb. 2026; the challenge is on appeal at the 6th Circuit, which hasn't squarely ruled on recording police. The law limits approaching, not recording. Don't interfere.",
+      "detail": "25-ft buffer, incl. traffic stops (2025)",
+      "sources": [
+        {
+          "label": "Gannett v. Long, 6th Cir. No. 26-5182, opening brief (Apr. 2026)",
+          "url": "https://www.rcfp.org/wp-content/uploads/2026/04/2026-04-28-Gannett-v.-Long-Opening-brief.pdf"
+        },
+        {
+          "label": "RCFP: Gannett v. Long case page",
+          "url": "https://www.rcfp.org/litigation/gannett-v-long/"
+        },
+        {
+          "label": "Tennessee Lookout: judge denies injunction (Feb. 17, 2026)",
+          "url": "https://tennesseelookout.com/2026/02/17/federal-judge-denies-injunction-leaving-tennessee-law-blocking-up-close-recording-of-police-activity-in-effect/"
+        },
+        {
+          "label": "RCFP Reporter's Recording Guide: Tennessee",
+          "url": "https://www.rcfp.org/reporters-recording-guide/tennessee/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "TX": {
+      "status": "one-party",
+      "summary": "Texas is a one-party consent state (Penal Code § 16.02), so you can record your own conversation with an officer at a traffic stop.",
+      "inPractice": "In a Texas case, the 5th Circuit recognized a right to film and record police, subject to reasonable time, place and manner limits (Turner v. Lieutenant Driver, 2017). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Texas",
+          "url": "https://www.rcfp.org/reporters-recording-guide/texas/"
+        },
+        {
+          "label": "Fields v. City of Philadelphia, 862 F.3d 353 (3d Cir. 2017)",
+          "url": "https://www2.ca3.uscourts.gov/opinarch/161650p.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "UT": {
+      "status": "one-party",
+      "summary": "Utah is a one-party consent state (Utah Code § 77-23a-4), so you can record your own traffic stop, video and audio.",
+      "inPractice": "The 10th Circuit recognizes a First Amendment right to film police performing their duties in public (Irizarry v. Yehia, 2022). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Utah",
+          "url": "https://www.rcfp.org/reporters-recording-guide/utah/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "VT": {
+      "status": "one-party",
+      "summary": "Vermont has no state law on recording in-person conversations; federal law (18 U.S.C. § 2511) requires only one party's consent, so you can record your own traffic stop.",
+      "inPractice": "The 2nd Circuit hasn't squarely ruled on a First Amendment right to record police, though many courts recognize it for officers working in public. Don't interfere, and keep your hands visible if told.",
+      "detail": "No state statute; federal one-party rule",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Vermont",
+          "url": "https://www.rcfp.org/reporters-recording-guide/vermont/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "VA": {
+      "status": "one-party",
+      "summary": "Virginia is a one-party consent state (Va. Code § 19.2-62), so you can record your own conversation with an officer at a traffic stop.",
+      "inPractice": "The 4th Circuit held that livestreaming a traffic stop is protected speech (Sharpe v. Winterville, 2023), though the officer got qualified immunity. Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Virginia",
+          "url": "https://www.rcfp.org/reporters-recording-guide/virginia/"
+        },
+        {
+          "label": "Sharpe v. Winterville Police Dep't, No. 21-1827 (4th Cir. 2023)",
+          "url": "https://www.ca4.uscourts.gov/opinions/211827.P.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WA": {
+      "status": "all-party",
+      "summary": "Washington requires all-party consent to record a private conversation (RCW 9.73.030), but its courts treat talk with police during a traffic stop as not private, so you can record the officer.",
+      "inPractice": "The state Supreme Court held traffic-stop conversations with officers aren't private (Lewis v. Dep't of Licensing, 2006). The 9th Circuit protects recording police in public (Fordyce, 1995). Don't interfere.",
+      "detail": "All-party, but traffic stops not private",
+      "sources": [
+        {
+          "label": "RCW 9.73.030",
+          "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=9.73.030"
+        },
+        {
+          "label": "RCFP Reporter's Recording Guide: Washington",
+          "url": "https://www.rcfp.org/reporters-recording-guide/washington/"
+        }
+      ],
+      "confidence": "medium"
+    },
+    "WV": {
+      "status": "one-party",
+      "summary": "West Virginia is a one-party consent state (W. Va. Code § 62-1D-3), so you can record your own traffic stop, video and audio.",
+      "inPractice": "The 4th Circuit held that livestreaming a traffic stop is protected speech (Sharpe v. Winterville, 2023), though the officer got qualified immunity. Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: West Virginia",
+          "url": "https://www.rcfp.org/reporters-recording-guide/west-virginia/"
+        },
+        {
+          "label": "Sharpe v. Winterville Police Dep't, No. 21-1827 (4th Cir. 2023)",
+          "url": "https://www.ca4.uscourts.gov/opinions/211827.P.pdf"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WI": {
+      "status": "one-party",
+      "summary": "Wisconsin is a one-party consent state (Wis. Stat. § 968.31), so you can record your own conversation with an officer at a traffic stop.",
+      "inPractice": "The 7th Circuit recognizes a First Amendment right to record government officials, including police, doing their duties in public (ACLU v. Alvarez, 2012). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Wisconsin",
+          "url": "https://www.rcfp.org/reporters-recording-guide/wisconsin/"
+        }
+      ],
+      "confidence": "high"
+    },
+    "WY": {
+      "status": "one-party",
+      "summary": "Wyoming is a one-party consent state (Wyo. Stat. § 7-3-702), so you can record your own traffic stop, video and audio.",
+      "inPractice": "The 10th Circuit recognizes a First Amendment right to film police performing their duties in public (Irizarry v. Yehia, 2022). Don't interfere, and keep your hands visible if told.",
+      "detail": "One-party consent",
+      "sources": [
+        {
+          "label": "RCFP Reporter's Recording Guide: Wyoming",
+          "url": "https://www.rcfp.org/reporters-recording-guide/wyoming/"
+        }
+      ],
+      "confidence": "high"
+    }
+  }
+}
