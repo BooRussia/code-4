@@ -317,16 +317,29 @@
       "confidence": "high"
     },
     "LA": {
-      "status": "arrest-allowed",
-      "summary": "Louisiana generally leaves it to the officer whether to issue a summons instead of arresting for a misdemeanor, including traffic misdemeanors, when conditions like a likely court appearance are met.",
-      "inPractice": "NCSL's 2019 chart lists no citation presumption for Louisiana except for driving without a license in your possession. We couldn't fetch the current statute text to confirm details (La. C.Cr.P. art. 211).",
+      "status": "cite-required",
+      "summary": "If you live in Louisiana and are arrested for a regular traffic violation, state law says you shall be released on your own recognizance once you sign the ticket's promise to appear (R.S. 32:411.1). Open warrants and DWI are excluded.",
+      "inPractice": "Refusing to sign means going before a magistrate (R.S. 32:391), and that older section still lets officers take drivers to one. Art. 211 allows arrest for a suspended license. Out-of-state drivers aren't covered.",
+      "detail": "Must sign promise to appear; covers LA residents",
       "sources": [
         {
-          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
-          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+          "label": "La. R.S. 32:411.1",
+          "url": "https://www.legis.la.gov/Legis/LawPrint.aspx?d=88393"
+        },
+        {
+          "label": "La. R.S. 32:391",
+          "url": "https://www.legis.la.gov/Legis/LawPrint.aspx?d=88351"
+        },
+        {
+          "label": "La. C.Cr.P. art. 211",
+          "url": "https://www.legis.la.gov/Legis/Law.aspx?d=112355"
+        },
+        {
+          "label": "2023 La. Acts No. 438 (SB 54, enrolled)",
+          "url": "https://legis.la.gov/Legis/ViewDocument.aspx?d=1333283"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     "ME": {
       "status": "cite-required",
@@ -420,15 +433,28 @@
     },
     "MO": {
       "status": "arrest-allowed",
-      "summary": "Missouri law doesn't set a presumption that officers issue a citation instead of arresting for traffic violations, so the choice is left to the officer.",
-      "inPractice": "NCSL's 2019 chart lists Missouri's traffic citation law (RSMo § 300.580) with no citation presumption. We couldn't fetch the current statute text to confirm details.",
+      "summary": "Missouri law lets officers arrest without a warrant for any misdemeanor or infraction they see, including traffic violations (RSMo 544.216). A ticket is required only when the officer neither warns nor arrests you (RSMo 300.580).",
+      "inPractice": "If arrested, you can post a $50 bond per offense or, for most offenses, deposit your license (RSMo 544.045). City jails can't hold you over 24 hours without a warrant (RSMo 479.360). We found no rule on refusing to sign.",
+      "detail": "Arrest allowed even for infractions (544.216)",
       "sources": [
         {
-          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
-          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+          "label": "RSMo 544.216",
+          "url": "https://revisor.mo.gov/main/OneSection.aspx?section=544.216"
+        },
+        {
+          "label": "RSMo 300.580",
+          "url": "https://revisor.mo.gov/main/OneSection.aspx?section=300.580"
+        },
+        {
+          "label": "RSMo 544.045",
+          "url": "https://revisor.mo.gov/main/OneSection.aspx?section=544.045"
+        },
+        {
+          "label": "RSMo 479.360",
+          "url": "https://revisor.mo.gov/main/OneSection.aspx?section=479.360"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     "MT": {
       "status": "cite-default",
@@ -589,16 +615,21 @@
       "confidence": "high"
     },
     "OK": {
-      "status": "arrest-allowed",
-      "summary": "Oklahoma law lets officers issue a citation instead of arresting for misdemeanors, but doesn't require it, so officers keep discretion for minor traffic offenses.",
-      "inPractice": "NCSL's 2019 chart lists 22 O.S. § 209 with no citation presumption for Oklahoma. We couldn't fetch the current statute text to confirm details.",
+      "status": "cite-required",
+      "summary": "If you're arrested only for a misdemeanor traffic violation and hold a valid license, Oklahoma law says the officer shall release you on your own recognizance once you e-sign a promise to appear (22 O.S. § 1115.1A).",
+      "inPractice": "This doesn't cover DUI, eluding, negligent homicide, felonies, driving without a valid license or on a suspended one, or open warrants. If you don't sign, the release rule doesn't apply and you can be held for bail.",
+      "detail": "Must e-sign a promise to appear to be released",
       "sources": [
         {
-          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
-          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+          "label": "22 O.S. § 1115.1A (courtrules.net text)",
+          "url": "https://www.courtrules.net/oklahoma/oklahoma-criminal-procedure/section-1115-1a"
+        },
+        {
+          "label": "Okla. SB 2052 (2026 committee substitute, quotes current § 1115.1A)",
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20COMMITTEE%20SUBS/SCS/SB2052%20CS.PDF"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     "OR": {
       "status": "cite-required",
@@ -645,20 +676,28 @@
     },
     "SC": {
       "status": "cite-default",
-      "summary": "South Carolina officers use a uniform traffic ticket to make traffic 'arrests,' which can let you leave with a court date. State law doesn't clearly require release instead of custody for minor offenses.",
-      "inPractice": "NCSL's 2019 chart lists a citation presumption for many traffic offenses under § 56-7-10, but the statute frames the ticket as an arrest tool, so officer discretion appears to remain.",
-      "detail": "Uniform traffic ticket is used for traffic arrests",
+      "summary": "South Carolina officers use the uniform traffic ticket to make traffic arrests (§ 56-7-10). An officer may let you go without bond if you accept the ticket, but state law doesn't require it for residents (§ 56-25-30).",
+      "inPractice": "There's no release right for license-suspension offenses, driving without a valid license, or when the officer requires a magistrate (§ 56-25-40). Troopers may take a cash bond. A 2025 bill to bar these arrests stalled in committee.",
+      "detail": "Accepting the ticket is your promise to appear",
       "sources": [
         {
-          "label": "S.C. Code § 56-7-10",
+          "label": "S.C. Code §§ 56-25-30, -40",
+          "url": "https://www.scstatehouse.gov/code/t56c025.php"
+        },
+        {
+          "label": "S.C. Code §§ 56-7-10, -15",
           "url": "https://www.scstatehouse.gov/code/t56c007.php"
         },
         {
-          "label": "NCSL, Citation in Lieu of Arrest (state chart)",
-          "url": "https://www.ncsl.org/civil-and-criminal-justice/citation-in-lieu-of-arrest"
+          "label": "S.C. Attorney General opinion (Nov. 16, 2007) on § 23-6-150 cash bonds",
+          "url": "https://www.scag.gov/wp-content/uploads/2011/03/stone-i-m-iii-11-16-07-os-8490-law-enforcement-offi.pdf"
+        },
+        {
+          "label": "S.C. H. 3150 (2025-26)",
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3150.htm"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     "SD": {
       "status": "cite-required",

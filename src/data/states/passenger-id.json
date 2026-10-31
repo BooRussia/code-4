@@ -109,20 +109,21 @@
       "confidence": "medium"
     },
     "CT": {
-      "status": "limited",
-      "summary": "Connecticut has no stop-and-identify statute, and a passenger who isn't suspected of anything may politely decline to give a name. Its broad interfering-with-an-officer law (§ 53a-167a) may apply if you're detained as a suspect.",
-      "inPractice": "Unconfirmed: Connecticut's Supreme Court is reported to have held (State v. Aloi, 2007) that refusing ID during a lawful investigative stop can be interfering. We couldn't check the opinion text for this page.",
+      "status": "stop-and-identify",
+      "summary": "Connecticut has no stop-and-identify statute, but its Supreme Court held that refusing to give ID during a lawful investigative stop can be interfering with an officer (State v. Aloi, 2007). Unsuspected passengers aren't covered.",
+      "inPractice": "Aloi applies only when police reasonably suspect you of a crime and your refusal hinders them. A passenger who isn't suspected may politely decline. Interfering (§ 53a-167a) is a class A misdemeanor. The driver must show a license.",
+      "detail": "State v. Aloi, 280 Conn. 824 (2007)",
       "sources": [
+        {
+          "label": "State v. Aloi, 280 Conn. 824 (2007)",
+          "url": "https://hallapproved.com/ct/cases/supreme/2007/2334455"
+        },
         {
           "label": "Conn. Gen. Stat. § 53a-167a (FindLaw)",
           "url": "https://codes.findlaw.com/ct/title-53a-penal-code/ct-gen-st-sect-53a-167a/"
-        },
-        {
-          "label": "Wikipedia: Stop and identify statutes",
-          "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     "DE": {
       "status": "limited",
@@ -611,19 +612,23 @@
     },
     "OK": {
       "status": "no-duty",
-      "summary": "Oklahoma isn't on lists of stop-and-identify states, and we found no such law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
-      "inPractice": "Unconfirmed: we couldn't check Oklahoma's obstruction or false-identity statutes against official text for this page, so treat this entry as a general summary. Never give an officer a false name.",
+      "summary": "Oklahoma has no stop-and-identify law. A passenger who isn't suspected of anything doesn't have to give a name or ID, though officers may ask. The driver must still show a license.",
+      "inPractice": "Oklahoma's obstruction law (21 O.S. § 540) is broad, and words alone can count (Trent v. State, 1989). We found no ruling on a passenger who simply declines to give a name. Never give a false name.",
       "sources": [
+        {
+          "label": "21 O.S. § 540",
+          "url": "https://law.justia.com/codes/oklahoma/title-21/section-21-540/"
+        },
+        {
+          "label": "Trent v. State, 1989 OK CR 36",
+          "url": "https://okcca.net/cases/1989/OK-CR-36/"
+        },
         {
           "label": "Wikipedia: Stop and identify statutes",
           "url": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes"
-        },
-        {
-          "label": "Brendlin v. California, 551 U.S. 249 (2007)",
-          "url": "https://en.wikipedia.org/wiki/Brendlin_v._California"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     "OR": {
       "status": "no-duty",

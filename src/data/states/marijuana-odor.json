@@ -17,17 +17,17 @@
     },
     "AK": {
       "status": "unsettled",
-      "summary": "Unclear. Marijuana is legal for adults in Alaska, and we found no Alaska appellate ruling since legalization on whether odor alone justifies a car search.",
-      "inPractice": "Older Alaska cases let odor count toward suspicion or probable cause, but all predate legalization. A 2021 legal survey found no newer ruling, and we could not confirm one since.",
+      "summary": "Unclear. Marijuana is legal for adults in Alaska, and we found no Alaska appellate ruling since legalization on whether the smell alone justifies searching a car.",
+      "inPractice": "Alaska's odor cases predate legalization and mostly involve homes. In State v. Crocker (2004), a home warrant needed more than evidence of some marijuana. We found no vehicle ruling since legalization in 2015.",
       "detail": "Recreational legal (voters approved 2014)",
       "sources": [
         {
-          "label": "Marijuana Policy Project / Perkins Coie, 2021 State Analysis Chart (Alaska)",
-          "url": "https://www.mpp.org/assets/pdf/issues/criminal-justice/2021.11.19%20State%20Analysis%20Chart.pdf"
+          "label": "State v. Crocker, No. A-8462 (Alaska Ct. App. Aug. 27, 2004)",
+          "url": "https://caselaw.findlaw.com/court/ak-court-of-appeals/1128040.html"
         },
         {
-          "label": "State v. Smith (Alaska Ct. App. 2008)",
-          "url": "https://law.justia.com/cases/alaska/court-of-appeals/2008/a-9733-1.html"
+          "label": "Marijuana Policy Project / Perkins Coie, 2021 State Analysis Chart (Alaska)",
+          "url": "https://www.mpp.org/assets/pdf/issues/criminal-justice/2021.11.19%20State%20Analysis%20Chart.pdf"
         }
       ],
       "confidence": "low"
@@ -179,13 +179,17 @@
     },
     "HI": {
       "status": "unsettled",
-      "summary": "Unclear. We found no Hawaii appellate ruling on whether marijuana odor alone justifies a car search. Hawaii has medical marijuana and has decriminalized very small amounts.",
-      "inPractice": "A 1980 Hawaii Supreme Court case (State v. Dorson) said odor \"may establish probable cause.\" A 2021 legal survey found no vehicle case on point; we could not confirm newer rulings.",
+      "summary": "Unclear. Hawaii allows only medical marijuana and has decriminalized up to 3 grams. We found no Hawaii appellate ruling on whether the smell alone justifies searching a car.",
+      "inPractice": "Older Hawaii Supreme Court cases let an officer's smell of marijuana support a warrant (State v. Groves, 1982). Honolulu police policy also requires a risk the car could be moved before searching it without a warrant.",
       "detail": "Medical only; up to 3 g decriminalized",
       "sources": [
         {
           "label": "Marijuana Policy Project / Perkins Coie, 2021 State Analysis Chart (Hawaii)",
           "url": "https://www.mpp.org/assets/pdf/issues/criminal-justice/2021.11.19%20State%20Analysis%20Chart.pdf"
+        },
+        {
+          "label": "State v. Groves, 65 Haw. 104, 649 P.2d 366 (Haw. 1982)",
+          "url": "https://hallapproved.com/hi/cases/supreme/1982/1319419"
         }
       ],
       "confidence": "low"
@@ -239,62 +243,94 @@
     },
     "IA": {
       "status": "odor-alone-pc",
-      "summary": "Probably yes. Marijuana isn't legal in Iowa, and we found nothing showing Iowa has moved away from treating marijuana odor as probable cause. We could not confirm a current ruling.",
-      "inPractice": "We did not verify a recent Iowa appellate decision on odor, including whether legal hemp changes the analysis. Treat this entry as unconfirmed.",
+      "summary": "Yes. Iowa courts treat the smell of marijuana coming from a car as probable cause to search it, and an appeals court has rejected the argument that legal hemp changes that.",
+      "inPractice": "The rule traces to State v. Eubanks (Iowa 1984). State v. Luckett (2022) rejected a hemp-smells-the-same argument. In 2025, State v. McClain kept Iowa's warrantless car-search exception in place.",
       "detail": "Not legal; limited medical program",
       "sources": [
         {
-          "label": "Wikipedia: Legality of cannabis by U.S. jurisdiction (legal status only)",
-          "url": "https://en.wikipedia.org/wiki/Legality_of_cannabis_by_U.S._jurisdiction"
+          "label": "State v. Luckett, No. 21-1808 (Iowa Ct. App. Aug. 3, 2022)",
+          "url": "https://www.iowacourts.gov/iowa-courts/court-of-appeals/court-of-appeals-court-opinions/case/21-1808"
+        },
+        {
+          "label": "State v. McClain, No. 24-0462 (Iowa May 2, 2025)",
+          "url": "https://www.iowacourts.gov/iowa-courts/supreme-court/supreme-court-opinions/case/24-0462"
+        },
+        {
+          "label": "State v. Brown, No. 22-0023 (Iowa Ct. App. Dec. 20, 2023)",
+          "url": "https://hallapproved.com/ia/cases/appeals/2023/9453824/"
         }
       ],
-      "confidence": "low"
+      "confidence": "high"
     },
     "KS": {
       "status": "odor-alone-pc",
-      "summary": "Probably yes. Marijuana is fully illegal in Kansas, and we found nothing showing Kansas has moved away from treating marijuana odor as probable cause. We could not confirm a current ruling.",
-      "inPractice": "We did not verify a recent Kansas appellate decision on odor, including whether legal hemp changes the analysis. Treat this entry as unconfirmed.",
-      "detail": "Not legal",
+      "summary": "Yes. Kansas courts hold that an officer smelling marijuana coming from a car is enough probable cause to search it. Marijuana remains illegal in Kansas.",
+      "inPractice": "The rule comes from State v. MacDonald (Kan. 1993) and State v. Goff (Kan. App. 2010). In State v. Gibson (2021, unpublished), the appeals court would not revisit it over legal hemp, deferring to the Kansas Supreme Court.",
+      "detail": "Not legal (hemp is legal)",
       "sources": [
         {
-          "label": "Wikipedia: Cannabis in Kansas (legal status only)",
-          "url": "https://en.wikipedia.org/wiki/Cannabis_in_Kansas"
+          "label": "State v. Goff, 44 Kan. App. 2d 536, 239 P.3d 467 (2010)",
+          "url": "https://www.kscourts.gov/KSCourts/media/KsCourts/Opinions/102369.pdf"
+        },
+        {
+          "label": "State v. Gibson, No. 123,064 (Kan. Ct. App. Oct. 29, 2021) (unpublished)",
+          "url": "https://www.kscourts.gov/KSCourts/media/KsCourts/Opinions/123064.pdf"
         }
       ],
-      "confidence": "low"
+      "confidence": "high"
     },
     "KY": {
       "status": "odor-alone-pc",
-      "summary": "Probably yes. Recreational marijuana isn't legal in Kentucky, and we found nothing showing courts have stopped treating odor as probable cause. We could not confirm a current ruling.",
-      "inPractice": "We did not verify a recent Kentucky appellate decision on odor, or how the state's medical cannabis law (passed 2023) or legal hemp affects it. Treat this entry as unconfirmed.",
-      "detail": "Medical only (law passed 2023)",
+      "summary": "Yes. Kentucky courts treat the smell of marijuana coming from a car as probable cause to search it. Medical cannabis became available in 2025, but recreational use is still illegal.",
+      "inPractice": "The Kentucky Supreme Court called this \"well-settled\" in Dunnaway (2021, unpublished), citing Dunn v. Commonwealth (2006). We found no ruling yet on whether legal hemp or a medical card changes this.",
+      "detail": "Medical only (2023 law; program began 2025)",
       "sources": [
         {
-          "label": "Wikipedia: Legality of cannabis by U.S. jurisdiction (legal status only)",
-          "url": "https://en.wikipedia.org/wiki/Legality_of_cannabis_by_U.S._jurisdiction"
+          "label": "Dunnaway v. Commonwealth, No. 2019-SC-0730-MR (Ky. Jan. 21, 2021) (unpublished)",
+          "url": "https://law.justia.com/cases/kentucky/supreme-court/2021/2019-sc-0730-mr.html"
+        },
+        {
+          "label": "Washington v. Commonwealth, No. 2021-CA-1097-MR (Ky. Ct. App. Sept. 23, 2022) (unpublished)",
+          "url": "https://cases.justia.com/kentucky/court-of-appeals/2022-2021-ca-1097-mr.pdf"
+        },
+        {
+          "label": "Adams v. Commonwealth, No. 2024-CA-1008-MR (Ky. Ct. App. Oct. 3, 2025) (unpublished)",
+          "url": "https://hallapproved.com/ky/cases/appeals/2025/10690469/"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     "LA": {
       "status": "odor-alone-pc",
-      "summary": "Probably yes, but unconfirmed. Louisiana allows medical marijuana and made possession of 14 grams or less a fine-only offense in 2021, but recreational use is still illegal.",
-      "inPractice": "We could not confirm whether Louisiana courts have changed the traditional odor rule in light of medical flower, decriminalization, or legal hemp. Treat this entry as unconfirmed.",
+      "summary": "Yes, for cars. In 2026 the Louisiana Supreme Court reaffirmed that the smell of marijuana alone is probable cause to search a vehicle. A 2022 law says odor alone can't justify a warrantless home search.",
+      "inPractice": "State v. Braud (Mar. 2026) relied on State v. Allen (2010). Courts have kept applying the rule after medical marijuana and the 2021 fine-only penalty for small amounts. The 2022 law (C.Cr.P. art. 162.4) covers homes only.",
       "detail": "Medical only; up to 14 g decriminalized",
       "sources": [
         {
-          "label": "Wikipedia: Cannabis in Louisiana (legal status only)",
-          "url": "https://en.wikipedia.org/wiki/Cannabis_in_Louisiana"
+          "label": "State v. Braud, No. 2025-KK-01526 (La. Mar. 18, 2026) (per curiam)",
+          "url": "https://caselaw.findlaw.com/court/la-supreme-court/118228756.html"
+        },
+        {
+          "label": "La. Code Crim. Proc. art. 162.4 (Acts 2022, No. 473)",
+          "url": "https://legis.la.gov/legis/Law.aspx?d=1293372"
+        },
+        {
+          "label": "State v. Delay, No. 24-K-575 (La. App. 5 Cir. Dec. 5, 2024)",
+          "url": "https://hallapproved.com/la/cases/appeals/2024/10288881/"
         }
       ],
-      "confidence": "low"
+      "confidence": "high"
     },
     "ME": {
       "status": "unsettled",
-      "summary": "Unclear. Marijuana is legal for adults in Maine, and a 2021 legal survey found no Maine court ruling on whether odor alone justifies a search. We found none since.",
-      "inPractice": "The same survey reported an anecdotal account of an officer not searching after being reminded marijuana is legal. We could not confirm any official police policy.",
+      "summary": "Unclear. Marijuana is legal for adults in Maine, and Maine's highest court hasn't ruled since legalization on whether the smell alone justifies searching a car.",
+      "inPractice": "Before legalization, State v. Ireland (1998) said odor from a car's passenger area gave probable cause to search that area. A 2021 survey found no newer ruling and no written police guidance. We found none since.",
       "detail": "Recreational legal (voters approved 2016)",
       "sources": [
+        {
+          "label": "State v. Ireland (Me. Feb. 25, 1998)",
+          "url": "https://caselaw.findlaw.com/court/me-supreme-judicial-court/1456515.html"
+        },
         {
           "label": "Marijuana Policy Project / Perkins Coie, 2021 State Analysis Chart (Maine)",
           "url": "https://www.mpp.org/assets/pdf/issues/criminal-justice/2021.11.19%20State%20Analysis%20Chart.pdf"
@@ -420,8 +456,8 @@
     },
     "NV": {
       "status": "unsettled",
-      "summary": "Unclear. Marijuana is legal for adults in Nevada, and the cases treating odor as probable cause came before legalization. We found no Nevada appellate ruling since.",
-      "inPractice": "A 2021 survey reported Nevada Highway Patrol said troopers try to develop other indicators for adults but search without more if the person is under 21. We couldn't confirm current policy.",
+      "summary": "Unclear. Marijuana is legal for adults in Nevada, and the rulings treating odor as probable cause came before legalization. We found no Nevada appellate ruling since.",
+      "inPractice": "A 2021 survey said Nevada Highway Patrol may search with nothing more if you're under 21, and otherwise looks for other signs. Its odor cases were federal and treated marijuana as contraband. Current policy not confirmed.",
       "detail": "Recreational legal since 2017",
       "sources": [
         {
@@ -506,16 +542,20 @@
     },
     "ND": {
       "status": "odor-alone-pc",
-      "summary": "Probably yes. North Dakota cases say the smell of marijuana may establish probable cause, but they predate the state's 2019 decriminalization, and we found no newer ruling.",
-      "inPractice": "State v. Schmalz (2008) is one example. In a later case (In re K.V.), the court found car odor wasn't enough to search a passenger. Treat the current rule as unconfirmed.",
-      "detail": "Medical only; small amounts decriminalized",
+      "summary": "Yes. North Dakota's Supreme Court held in 2020 that the smell of marijuana alone gives police probable cause to search a car, even after possessing a small amount was reduced to an infraction.",
+      "inPractice": "State v. Bolme (2020) involved raw marijuana odor. In a 2021 juvenile case (K.V.), the court said odor from a car wasn't enough by itself to search a passenger's person. We found no ruling on legal hemp.",
+      "detail": "Medical only; small amounts an infraction (2019)",
       "sources": [
         {
-          "label": "Marijuana Policy Project / Perkins Coie, 2021 State Analysis Chart (North Dakota)",
-          "url": "https://www.mpp.org/assets/pdf/issues/criminal-justice/2021.11.19%20State%20Analysis%20Chart.pdf"
+          "label": "State v. Bolme, 2020 ND 255 (N.D. Dec. 17, 2020)",
+          "url": "https://cases.justia.com/north-dakota/supreme-court/2020-20200090.pdf"
+        },
+        {
+          "label": "In re K.V., 2021 ND 79 (N.D. May 6, 2021)",
+          "url": "https://cases.justia.com/north-dakota/supreme-court/2021-20200257.pdf"
         }
       ],
-      "confidence": "low"
+      "confidence": "high"
     },
     "OH": {
       "status": "unsettled",
@@ -536,16 +576,20 @@
     },
     "OK": {
       "status": "odor-alone-pc",
-      "summary": "Probably yes, but unconfirmed. Oklahoma allows only licensed medical marijuana use, and we could not find a current Oklahoma ruling on whether odor alone justifies a car search.",
-      "inPractice": "We did not verify how Oklahoma courts treat odor given the state's 2018 medical law and legal hemp. Treat this entry as unconfirmed.",
+      "summary": "Yes. Oklahoma's top criminal court held in 2021 that the state's medical marijuana law doesn't change officers' ability to rely on the smell or presence of marijuana for probable cause.",
+      "inPractice": "State v. Roberson (2021) relied on Lozoya v. State (1996), which held odor is probable cause to search a car. Roberson also admitted having marijuana. We found no ruling on legal hemp.",
       "detail": "Medical only (2018)",
       "sources": [
         {
-          "label": "Wikipedia: Cannabis in Oklahoma (legal status only)",
-          "url": "https://en.wikipedia.org/wiki/Cannabis_in_Oklahoma"
+          "label": "State v. Roberson, 2021 OK CR 16 (Okla. Crim. App. 2021)",
+          "url": "https://okcca.net/cases/2021/OK-CR-16/"
+        },
+        {
+          "label": "State v. Roberson, No. S-2020-550 (Justia)",
+          "url": "https://law.justia.com/cases/oklahoma/court-of-appeals-criminal/2021/s-2020-550.html"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     "OR": {
       "status": "not-alone",
@@ -579,39 +623,59 @@
     },
     "RI": {
       "status": "unsettled",
-      "summary": "Unclear. Rhode Island legalized adult use in 2022, and we found no Rhode Island appellate ruling on whether odor alone justifies a car search.",
-      "inPractice": "A 2021 Superior Court decision (State v. Li) said odor alone isn't enough but can be a factor. Trial-court rulings don't bind other courts.",
+      "summary": "Unclear. Rhode Island's Supreme Court said in 2023 that marijuana odor is still a factor police can weigh, but it hasn't decided whether odor alone is probable cause to search a car.",
+      "inPractice": "State v. Li (2023) let a slight odor plus nervousness justify extending a stop. A dissent said legal adult possession makes odor weak evidence. We found no odor rule in the 2022 Cannabis Act.",
       "detail": "Recreational legal since 2022",
       "sources": [
         {
-          "label": "Marijuana Policy Project / Perkins Coie, 2021 State Analysis Chart (Rhode Island)",
-          "url": "https://www.mpp.org/assets/pdf/issues/criminal-justice/2021.11.19%20State%20Analysis%20Chart.pdf"
+          "label": "State v. Li, Nos. 2021-153-C.A., 2021-154-C.A. (R.I. July 27, 2023)",
+          "url": "https://law.justia.com/cases/rhode-island/supreme-court/2023/21-153.html"
+        },
+        {
+          "label": "R.I. Gen. Laws § 21-28.11-22 (personal use of cannabis)",
+          "url": "https://webserver.rilegislature.gov/Statutes/TITLE21/21-28.11/21-28.11-22.htm"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     "SC": {
       "status": "odor-alone-pc",
-      "summary": "Probably yes, but unconfirmed. Marijuana isn't legal in South Carolina, and we found nothing showing the state has moved away from treating odor as probable cause.",
-      "inPractice": "We could not verify a current South Carolina appellate ruling on odor, including whether legal hemp changes it. Treat this entry as unconfirmed.",
-      "detail": "Not legal (CBD only)",
+      "summary": "Probably yes. Marijuana isn't legal in South Carolina, and police there commonly treat its smell as enough to search a car, but we found no published state ruling squarely saying odor alone is enough.",
+      "inPractice": "State v. Morris (2015) found probable cause from odor plus other signs. A 2018 unpublished appeals ruling relied on the federal rule that odor alone can be enough. A 2025 bill to ban odor-only searches shows no action past committee.",
+      "detail": "Not legal (hemp and CBD products legal)",
       "sources": [
         {
-          "label": "Wikipedia: Legality of cannabis by U.S. jurisdiction (legal status only)",
-          "url": "https://en.wikipedia.org/wiki/Legality_of_cannabis_by_U.S._jurisdiction"
+          "label": "State v. Morris, 411 S.C. 571 (2015) (Op. No. 27488, Advance Sheet No. 4)",
+          "url": "https://www.sccourts.org/media/opinions/advSheets/no42015.pdf"
+        },
+        {
+          "label": "State v. Michaux, No. 2018-UP-440 (S.C. Ct. App. 2018) (unpublished)",
+          "url": "https://hallapproved.com/sc/cases/appeals/2018/10150827/"
+        },
+        {
+          "label": "S.C. Senate Bill 177 (2025-2026), odor-only search ban, status page",
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/177.htm"
+        },
+        {
+          "label": "WIS News, Jan. 4, 2024: SC lawmaker seeks to end odor as probable cause",
+          "url": "https://www.wistv.com/2024/01/04/sc-lawmaker-hopes-remove-smell-marijuana-reason-probable-cause"
         }
       ],
       "confidence": "low"
     },
     "SD": {
       "status": "odor-alone-pc",
-      "summary": "Probably yes, but unconfirmed. Recreational marijuana isn't legal in South Dakota, and we found nothing showing courts have stopped treating odor as probable cause.",
-      "inPractice": "We could not verify a current South Dakota ruling on odor, or how the 2021 medical law or legal hemp affects it. Treat this entry as unconfirmed.",
+      "summary": "Probably yes. South Dakota's Supreme Court has long treated marijuana odor as strong evidence for probable cause, but the cases we could verify also involved other facts, like an admission.",
+      "inPractice": "In State v. Smith (2014), odor plus an admission was enough. Federal courts covering South Dakota treat odor alone as enough. We found no ruling on how the 2021 medical law or legal hemp affects this.",
       "detail": "Medical only (2021)",
       "sources": [
         {
-          "label": "Wikipedia: Legality of cannabis by U.S. jurisdiction (legal status only)",
-          "url": "https://en.wikipedia.org/wiki/Legality_of_cannabis_by_U.S._jurisdiction"
+          "label": "State v. Smith, 2014 S.D. 50 (S.D. 2014)",
+          "url": "https://ujs.sd.gov/media/1wddkjf5/26806.pdf"
+        },
+        {
+          "label": "Briefs in State v. Smith, No. 26806 (citing Pfaff and U.S. v. Caves)",
+          "url": "https://ujs.sd.gov/media/m5ljij3j/26806_state_v_smith_corpuz_briefs.pdf"
         }
       ],
       "confidence": "low"
@@ -652,16 +716,20 @@
     },
     "UT": {
       "status": "odor-alone-pc",
-      "summary": "Probably yes, but unconfirmed. Recreational marijuana isn't legal in Utah, and we found nothing showing courts have stopped treating odor as probable cause.",
-      "inPractice": "We could not verify a current Utah ruling on odor, or how the 2018 medical law or legal hemp affects it. Treat this entry as unconfirmed.",
+      "summary": "Yes, under existing case law. Utah's Court of Appeals has called it well settled that marijuana odor coming from a car gives probable cause to search it. Those rulings predate the 2018 medical law.",
+      "inPractice": "See State v. Wright (1999), citing State v. Spurgeon (1995). Utah Code § 26B-4-216 says a cardholder's lawful medical cannabis alone isn't probable cause, but it doesn't mention odor. We found no hemp ruling.",
       "detail": "Medical only (2018)",
       "sources": [
         {
-          "label": "Wikipedia: Legality of cannabis by U.S. jurisdiction (legal status only)",
-          "url": "https://en.wikipedia.org/wiki/Legality_of_cannabis_by_U.S._jurisdiction"
+          "label": "State v. Wright, No. 981058-CA (Utah Ct. App. 1999)",
+          "url": "https://caselaw.findlaw.com/court/ut-court-of-appeals/1412546.html"
+        },
+        {
+          "label": "Utah Code § 26B-4-216 (medical cannabis card; rebuttable presumption)",
+          "url": "https://le.utah.gov/xcode/Title26B/Chapter4/C26B-4-S216_2026050620260506.html"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     "VT": {
       "status": "not-alone",
@@ -694,30 +762,42 @@
       "confidence": "high"
     },
     "WA": {
-      "status": "unsettled",
-      "summary": "Unclear. Marijuana is legal for adults in Washington, and we found no appellate ruling since legalization on whether odor alone is probable cause to search a car.",
-      "inPractice": "The leading case, State v. Grande (2008), predates legalization. After legalization, Seattle police publicly said smell alone wouldn't be a reason to search a vehicle.",
+      "status": "not-alone",
+      "summary": "Generally no. Washington's Supreme Court held that even if marijuana odor gives probable cause, police still need a warrant to search a car unless an exception, like an emergency, applies.",
+      "inPractice": "State v. Tibbles (2010) threw out a warrantless car search based on odor. Consent or a true emergency can still allow a search. We found no appellate ruling since legalization on whether odor is still probable cause.",
       "detail": "Recreational legal since 2012",
       "sources": [
         {
-          "label": "Marijuana Policy Project / Perkins Coie, 2021 State Analysis Chart (Washington)",
-          "url": "https://www.mpp.org/assets/pdf/issues/criminal-justice/2021.11.19%20State%20Analysis%20Chart.pdf"
+          "label": "State v. Tibbles, 169 Wn.2d 364, No. 80308-1 (Wash. Aug. 5, 2010)",
+          "url": "https://caselaw.findlaw.com/wa-supreme-court/1534140.html"
+        },
+        {
+          "label": "State v. Grande, 164 Wn.2d 135 (2008)",
+          "url": "https://law.justia.com/cases/washington/supreme-court/2008/81068-1-1.html"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     "WV": {
       "status": "odor-alone-pc",
-      "summary": "Probably yes, but unconfirmed. Recreational marijuana isn't legal in West Virginia, and we found nothing showing courts have stopped treating odor as probable cause.",
-      "inPractice": "We could not verify a current West Virginia ruling on odor, or how the 2017 medical law or legal hemp affects it. Treat this entry as unconfirmed.",
+      "summary": "Yes, for now. West Virginia's Supreme Court has said marijuana odor, without more, may give probable cause to search a car. It hasn't squarely decided whether legal hemp or medical marijuana changes that.",
+      "inPractice": "State v. Chapman (2013) states the rule. A Berkeley County judge later ruled odor alone wasn't enough for a home warrant; in 2026 the Supreme Court declined to block that ruling without deciding the odor issue.",
       "detail": "Medical only (2017)",
       "sources": [
         {
-          "label": "Wikipedia: Legality of cannabis by U.S. jurisdiction (legal status only)",
-          "url": "https://en.wikipedia.org/wiki/Legality_of_cannabis_by_U.S._jurisdiction"
+          "label": "State v. Chapman, No. 13-0111 (W. Va. Oct. 18, 2013) (memorandum decision)",
+          "url": "https://www.courtswv.gov/sites/default/pubfilesmnt/2023-12/13-0111.pdf"
+        },
+        {
+          "label": "State's petition, State ex rel. State v. McLaughlin, No. 25-340 (W. Va. 2025)",
+          "url": "https://www.courtswv.gov/sites/default/pubfilesmnt/2026-03/25-340%20Petition%20for%20Writ%20of%20Prohibition.pdf"
+        },
+        {
+          "label": "West Virginia Watch, June 17, 2026: court doesn't take up odor question",
+          "url": "https://westvirginiawatch.com/2026/06/17/wv-supreme-court-doesnt-take-up-marijuana-odor-question-in-ruling-in-berkeley-search-seizure-case/"
         }
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     "WI": {
       "status": "odor-alone-pc",
