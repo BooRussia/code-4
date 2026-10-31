@@ -89,7 +89,12 @@ export default function Hero() {
         </div>
       </div>
       <div className="road" aria-hidden="true">
-        <div className="road-plane" />
+        <svg viewBox="0 0 1000 180" preserveAspectRatio="none">
+          <polygon className="road-surface" points="40,180 960,180 540,0 460,0" />
+          <line className="road-edge" x1="96" y1="180" x2="466" y2="0" vectorEffect="non-scaling-stroke" />
+          <line className="road-edge" x1="904" y1="180" x2="534" y2="0" vectorEffect="non-scaling-stroke" />
+          <line className="road-dash" x1="500" y1="0" x2="500" y2="180" vectorEffect="non-scaling-stroke" />
+        </svg>
       </div>
     </section>
   );

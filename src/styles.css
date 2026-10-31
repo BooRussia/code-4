@@ -344,33 +344,25 @@ button { font: inherit; color: inherit; }
 .radio-log b { color: var(--paint); font-weight: 600; }
 .radio-log .clear { color: var(--good); }
 
+/* A flat SVG drawing of a road receding to the horizon. It used to be a CSS 3D
+   plane, which Safari drew as a large blank shape over the page while scrolling. */
 .road {
-  position: relative;
   height: clamp(110px, 16vw, 180px);
-  perspective: 260px;
-  perspective-origin: 50% 0%;
   overflow: hidden;
   mask-image: linear-gradient(to bottom, transparent, #000 45%);
   -webkit-mask-image: linear-gradient(to bottom, transparent, #000 45%);
 }
-.road-plane {
-  position: absolute;
-  left: 50%;
-  top: 0;
-  width: 900px;
-  height: 900px;
-  margin-left: -450px;
-  transform-origin: 50% 0;
-  transform: rotateX(72deg);
-  background:
-    linear-gradient(90deg, transparent 0 7%, var(--paint) 7% 8%, transparent 8% 92%, var(--paint) 92% 93%, transparent 93%),
-    repeating-linear-gradient(180deg, var(--reflector) 0 60px, transparent 60px 140px) 50% 0 / 14px 100% no-repeat,
-    linear-gradient(180deg, #14171f, #0d0f14);
+.road svg { display: block; width: 100%; height: 100%; }
+.road-surface { fill: #12151c; }
+.road-edge { stroke: var(--paint); stroke-width: 3; fill: none; }
+.road-dash {
+  stroke: var(--reflector);
+  stroke-width: 6;
+  stroke-dasharray: 26 24;
   animation: road-run 0.9s linear infinite;
 }
 @keyframes road-run {
-  from { background-position: 0 0, 50% 0, 0 0; }
-  to { background-position: 0 0, 50% 140px, 0 0; }
+  to { stroke-dashoffset: -50; }
 }
 
 @media (max-width: 860px) {
