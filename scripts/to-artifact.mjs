@@ -38,8 +38,16 @@ const bodyOpen = html.indexOf("<body>", pos) + "<body>".length;
 const bodyClose = html.lastIndexOf("</body>");
 const body = html.slice(bodyOpen, bodyClose).trim();
 
-const styles = blocks.filter((b) => b.startsWith("<style"));
-const scripts = blocks.filter((b) => b.startsWith("<script"));
+// Emit bare <style> and <script> tags. The viewer only runs plain inline blocks;
+// the attributes Vite adds (type="module", crossorigin, rel) left the page blank there.
+const bare = (b, tag) => b.replace(new RegExp(`^<${tag}[^>]*>`), `<${tag}>`);
+const styles = blocks.filter((b) => b.startsWith("<style")).map((b) => bare(b, "style"));
+const scripts = blocks.filter((b) => b.startsWith("<script")).map((b) => bare(b, "script"));
+for (const s of scripts) {
+  if (/\bimport\.meta\b|^\s*export\s/m.test(s)) {
+    throw new Error("Artifact script still contains module syntax; it can't run as a plain script.");
+  }
+}
 const out = [...headTags, ...styles, body, ...scripts].join("\n");
 
 mkdirSync(join(root, "artifact"), { recursive: true });

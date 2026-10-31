@@ -16,6 +16,9 @@ export default defineConfig(({ mode }) => {
     build: {
       outDir: artifact ? "dist-artifact" : "dist",
       emptyOutDir: true,
+      // The artifact viewer runs plain inline scripts, so bundle as a self-contained
+      // IIFE instead of an ES module.
+      ...(artifact ? { modulePreload: false, rollupOptions: { output: { format: "iife" as const } } } : {}),
     },
   };
 });
